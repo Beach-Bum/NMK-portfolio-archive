@@ -1,0 +1,34 @@
+# Ned Karlovich
+> Executive Creative Director | Institute of Free Technology
+
+## Summary
+Creative engineer with 16+ years leading brand, spatial, and digital design for global brands. Rare combination of world-class visual craft and deep protocol/decentralization fluency.
+
+## Current Role
+Executive Creative Director at the Institute of Free Technology (free.technology). Leads Acid, the internal creative branding studio. Responsible for ~9 brand properties including Logos, Waku, Nimbus, Codex, Nomos, Keycard.
+
+## Previous Roles
+- Global Creative Director, Nike
+- Brand Creative Director, Magic Leap
+- Executive Design Director, OLIVER/Adidas
+- Group Creative Director, R/GA
+- Brand Director, Status.im
+
+## Education
+Yale University, School of Visual Arts, Carnegie Mellon University
+
+## Capabilities
+Brand Identity Systems, Creative Direction, Spatial Design, Digital Product Design, Motion Design, Data Visualization, Print/Zine, Protocol Design, Decentralized Systems Architecture, AI Agent Infrastructure
+
+## Notable Clients
+Nike, Jordan Brand, Adidas, Magic Leap, Gucci, LVMH, Givenchy, Google, IKEA, Rimowa, Hyundai, Samsung, Sony, Status, Logos
+
+## Contact
+- Email: ned@status.im
+- LinkedIn: linkedin.com/in/nedkarlovich
+- Portfolio: nkarlovich.com
+- Work: beachbum.wtf
+
+## Structured Data
+- Full project list: /api/projects.json
+- Agent Card: /.well-known/agent-card.json

@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About — Ned Karlovich</title>
+  <meta name="description" content="Ned Karlovich. Creative Technologist. Nike, Jordan Brand, Magic Leap, Logos, Status. Amsterdam.">
+  <link rel="stylesheet" href="https://public.codepenassets.com/css/normalize-5.0.0.min.css">
+  <style>
+    @font-face {
+      font-family: 'PP Supply Mono';
+      src: url('https://assets.codepen.io/7558/PPSupplyMono-Variable.woff2') format('woff2');
+      font-weight: 100 900;
+      font-display: swap;
+    }
+
+    :root {
+      --color-bg: rgb(5, 5, 5);
+      --color-fg: rgb(250, 225, 250);
+      --color-dim: rgb(160, 150, 160);
+      --color-accent: rgb(220, 200, 50);
+      --font-primary: 'PP Supply Mono', 'Courier New', monospace;
+    }
+
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background: var(--color-bg);
+      color: var(--color-fg);
+      font-family: var(--font-primary);
+      font-size: 12px;
+      line-height: 1.9;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      min-height: 100vh;
+      -webkit-font-smoothing: antialiased;
+      cursor: crosshair;
+    }
+
+    .about-container {
+      width: min(100% - 4rem, 680px);
+      margin: 0 auto;
+      padding: 6rem 0 8rem;
+    }
+
+    /* Typewriter component styles */
+    type-writer {
+      display: block;
+    }
+
+    type-writer .type-writer-container {
+      display: block;
+    }
+
+    type-writer h2 {
+      font-family: var(--font-primary);
+      font-size: 12px;
+      font-weight: 400;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      color: var(--color-dim);
+      margin: 3rem 0 1rem;
+    }
+
+    type-writer h2:first-child {
+      margin-top: 0;
+    }
+
+    type-writer p {
+      font-family: var(--font-primary);
+      font-size: 12px;
+      font-weight: 400;
+      line-height: 1.9;
+      margin: 0 0 1rem;
+      color: var(--color-fg);
+    }
+
+    type-writer .name-line {
+      font-size: 12px;
+      letter-spacing: 0.05em;
+      margin-bottom: 0.25rem;
+    }
+
+    type-writer .role-line {
+      font-size: 12px;
+      letter-spacing: 0.05em;
+      color: var(--color-dim);
+      text-transform: uppercase;
+      margin-bottom: 2.5rem;
+    }
+
+    type-writer .brand-list {
+      color: var(--color-dim);
+      font-size: 12px;
+      letter-spacing: 0.05em;
+      line-height: 2;
+    }
+
+    type-writer a {
+      color: var(--color-fg);
+      text-decoration: none;
+      border-bottom: 1px solid var(--color-dim);
+      transition: border-color 0.3s ease, color 0.3s ease;
+    }
+
+    type-writer a:hover {
+      color: var(--color-accent);
+      border-color: var(--color-accent);
+    }
+
+    type-writer .separator {
+      display: block;
+      color: var(--color-dim);
+      margin: 2rem 0;
+      font-size: 12px;
+      letter-spacing: 0.5em;
+      opacity: 0.3;
+    }
+
+    /* Skip button */
+    .skip-btn {
+      position: fixed;
+      bottom: 2rem;
+      left: 2rem;
+      font-family: var(--font-primary);
+      font-size: 12px;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      color: var(--color-dim);
+      background: none;
+      border: 1px solid rgba(100, 100, 100, 0.3);
+      padding: 0.5rem 1rem;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      z-index: 100;
+    }
+
+    .skip-btn:hover {
+      color: var(--color-fg);
+      border-color: var(--color-fg);
+    }
+
+    .skip-btn.hidden {
+      opacity: 0;
+      pointer-events: none;
+    }
+
+    /* Corner nav — matches portfolio */
+    .corner-elements {
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      z-index: 50;
+      padding: 1.5rem 2rem;
+    }
+
+    .corner-item {
+      position: absolute;
+      font-size: 12px;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      pointer-events: auto;
+    }
+
+    .corner-item.top-left {
+      top: 1.5rem;
+      left: 2rem;
+    }
+
+    .corner-item.top-right {
+      top: 1.5rem;
+      right: 2rem;
+    }
+
+    .corner-item.bottom-left {
+      bottom: 1.5rem;
+      left: 2rem;
+      color: var(--color-dim);
+    }
+
+    .corner-item.bottom-right {
+      bottom: 1.5rem;
+      right: 2rem;
+      color: var(--color-dim);
+    }
+
+    .corner-item a {
+      color: var(--color-dim);
+      text-decoration: none;
+      transition: color 0.3s ease;
+    }
+
+    .corner-item a:hover {
+      color: var(--color-fg);
+    }
+
+    /* Cursor blink at end */
+    .cursor-blink {
+      display: inline-block;
+      width: 7px;
+      height: 13px;
+      background: var(--color-fg);
+      margin-left: 2px;
+      animation: blink 1s step-end infinite;
+      vertical-align: middle;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+
+    .cursor-blink.visible {
+      opacity: 1;
+    }
+
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+
+    @media (max-width: 768px) {
+      .about-container {
+        width: min(100% - 3rem, 680px);
+        padding: 5rem 0 6rem;
+      }
+
+      type-writer p {
+        font-size: 12px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<aside class="corner-elements">
+  <div class="corner-item top-left">
+    <a href="index.html">Back</a>
+  </div>
+  <nav class="corner-item top-right">
+    <a href="https://linkedin.com/in/nedkarlovich" target="_blank" rel="noopener">LinkedIn</a> |
+    <a href="https://x.com/belovedbeachbum" target="_blank" rel="noopener">X</a> |
+    <a href="mailto:ned@status.im">Email</a>
+  </nav>
+  <div class="corner-item bottom-left">Amsterdam</div>
+  <time class="corner-item bottom-right" id="current-time"></time>
+</aside>
+
+<main class="about-container">
+  <type-writer id="about" autostart="true" speed="180">
+    <p class="name-line">Ned Karlovich</p>
+    <p class="role-line">Creative Technologist — Amsterdam</p>
+
+    <p>Creative engineer working at the intersection of brand, technology, and decentralized systems. Equally at home directing a global Nike campaign, designing a retail space, or architecting a protocol identity. Thinks in systems — visual systems, design systems, protocol systems.</p>
+
+    <span class="separator">— — —</span>
+
+    <h2>Currently</h2>
+    <p>Executive Creative Director at the <a href="https://free.technology" target="_blank">Institute of Free Technology</a>, leading Acid — IFT's internal creative studio. Responsible for brand, motion, digital, events, print, UX, 3D, and AI across nine decentralized technology brands including <a href="https://logos.co" target="_blank">Logos</a>, Waku, Codex, Nomos, Nimbus, and Keycard.</p>
+
+    <p>Building toward an open agent economy — researching decentralized agent-to-agent protocols, on-chain reputation systems, and autonomous agent marketplaces that can't be shut down.</p>
+
+    <span class="separator">— — —</span>
+
+    <h2>Previously</h2>
+    <p>Global Creative Director at Nike — led identity, art direction, and spatial design across 60+ projects spanning Nike x Virgil Abloh, Nike x Fear of God, Nike x Sacai, Jordan Brand, NikeLab, and Nike retail environments worldwide.</p>
+
+    <p>Brand Creative Director at Magic Leap — developed the brand identity for mixed reality. Executive Design Director at OLIVER/Adidas — ran design for Adidas global. Group Creative Director at R/GA — led brand and design for Samsung, Google, Nike, Gucci, and LVMH. Brand Director at Status.im — designed the identity for a decentralized Ethereum messaging platform.</p>
+
+    <span class="separator">— — —</span>
+
+    <h2>Education</h2>
+    <p>Yale University. School of Visual Arts. Carnegie Mellon University.</p>
+
+    <span class="separator">— — —</span>
+
+    <h2>Clients</h2>
+    <p class="brand-list">Nike / Jordan Brand / Adidas / Magic Leap / Samsung / Google / Gucci / LVMH / Rimowa / IKEA / Hyundai / Kia / Porsche / Rolls Royce / Moet Hennessy / Ralph Lauren / Estee Lauder / YSL / Valentino / Tiffany / Bulgari / Diesel / eBay / MasterCard / L'Oreal / Kerastase / Matrix / Redken / Maybelline</p>
+
+    <span class="separator">— — —</span>
+
+    <h2>Contact</h2>
+    <p><a href="mailto:ned@status.im">ned@status.im</a></p>
+  </type-writer>
+
+  <span class="cursor-blink" id="cursor"></span>
+</main>
+
+<button class="skip-btn" id="skipBtn" onclick="document.getElementById('about').complete()">Skip ↵</button>
+
+<script>
+// TypeWriter Web Component
+class TypeWriter extends HTMLElement {
+  constructor() {
+    super();
+    this._gen = 0;
+    this._paused = false;
+    this._running = false;
+    this._idx = 0;
+    this._nodes = [];
+  }
+
+  connectedCallback() {
+    const dir = this.getAttribute("dir") || "ltr";
+    const speed = parseInt(this.getAttribute("speed")) || 100;
+    const minDur = parseInt(this.getAttribute("min-duration")) || 50;
+    const maxDur = parseInt(this.getAttribute("max-duration")) || 500;
+    const autostart = this.getAttribute("autostart") !== "false";
+    const respectMotion = this.getAttribute("respect-motion-preference") === "true";
+
+    this._original = document.createDocumentFragment();
+    const children = this.childNodes;
+    const len = children.length;
+    for (let i = 0; i < len; i++) {
+      this._original.appendChild(children[i].cloneNode(true));
+    }
+    this.textContent = "";
+
+    this._container = document.createElement("div");
+    this._container.className = "type-writer-container";
+    this._container.setAttribute("role", "region");
+    this._container.setAttribute("aria-live", "polite");
+    this._container.setAttribute("aria-atomic", "false");
+    this._container.style.direction = dir;
+
+    const label = this.getAttribute("aria-label");
+    if (label) this._container.setAttribute("aria-label", label);
+    this.appendChild(this._container);
+
+    this._prefersReducedMotion = respectMotion && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    this._cfg = { speed, minDur, maxDur };
+
+    if (autostart) this.start();
+  }
+
+  disconnectedCallback() {
+    this._gen++;
+    this._running = false;
+    this._paused = false;
+    this._nodes.length = 0;
+    this._original = null;
+  }
+
+  _flattenNodes(node) {
+    const result = [];
+    const walk = (n, parent) => {
+      if (n.nodeType === Node.TEXT_NODE) {
+        const text = n.textContent;
+        if (!/\S/.test(text)) return;
+        const normalized = text.replace(/\s+/g, " ");
+        for (let i = 0; i < normalized.length; i++) {
+          result.push({ type: "char", char: normalized[i], parent });
+        }
+      } else if (n.nodeType === Node.ELEMENT_NODE) {
+        const clone = n.cloneNode(false);
+        result.push({ type: "open", node: clone, parent });
+        const children = n.childNodes;
+        const len = children.length;
+        for (let i = 0; i < len; i++) {
+          walk(children[i], clone);
+        }
+        result.push({ type: "close", node: clone, parent });
+      }
+    };
+    const children = node.childNodes;
+    const len = children.length;
+    for (let i = 0; i < len; i++) {
+      walk(children[i], this._container);
+    }
+    return result;
+  }
+
+  async start() {
+    if (!this._original || !this._container) return;
+    if (this._running) return;
+
+    this._gen++;
+    this._idx = 0;
+    this._paused = false;
+    this._container.textContent = "";
+    this._nodes = this._flattenNodes(this._original.cloneNode(true));
+
+    if (this._prefersReducedMotion) {
+      const clone = this._original.cloneNode(true);
+      const children = clone.childNodes;
+      for (let i = 0; i < children.length; i++) {
+        this._container.appendChild(children[i].cloneNode(true));
+      }
+      this._container.setAttribute("aria-busy", "false");
+      this.dispatchEvent(new CustomEvent("complete"));
+      return;
+    }
+
+    const gen = this._gen;
+    this._running = true;
+    this._container.setAttribute("aria-busy", "true");
+    this.dispatchEvent(new CustomEvent("start"));
+
+    const total = this._nodes.filter((n) => n.type === "char").length;
+    const dur = Math.max(this._cfg.minDur, Math.min(this._cfg.maxDur, Math.round((total / this._cfg.speed) * 1000)));
+    const delay = total ? Math.max(8, Math.round(dur / total)) : 0;
+    const len = this._nodes.length;
+    let charCount = 0;
+
+    const processNext = async (i) => {
+      if (i >= len) {
+        this._running = false;
+        this._container.setAttribute("aria-busy", "false");
+        this.dispatchEvent(new CustomEvent("complete"));
+        return;
+      }
+      if (gen !== this._gen || !this._running) return;
+      if (this._paused) { setTimeout(() => processNext(i), 50); return; }
+
+      const item = this._nodes[i];
+      if (item.type === "open") {
+        item.parent.appendChild(item.node);
+      } else if (item.type === "char") {
+        const parent = item.parent;
+        const lastChild = parent.lastChild;
+        if (lastChild && lastChild.nodeType === Node.TEXT_NODE) {
+          lastChild.textContent += item.char;
+        } else {
+          parent.appendChild(document.createTextNode(item.char));
+        }
+        charCount++;
+        if (charCount % 10 === 0 && total > 0) {
+          this.dispatchEvent(new CustomEvent("progress", {
+            detail: { current: charCount, total, percent: (charCount / total) * 100 }
+          }));
+        }
+      }
+      this._idx = i + 1;
+      const nextDelay = item.type === "char" ? delay + ((Math.random() * 6) | 0) : 0;
+      setTimeout(() => processNext(i + 1), nextDelay);
+    };
+
+    processNext(0);
+  }
+
+  pause() {
+    if (!this._running || this._paused) return;
+    this._paused = true;
+    this.dispatchEvent(new CustomEvent("pause"));
+  }
+
+  resume() {
+    if (!this._paused || !this._running) return;
+    this._paused = false;
+    this.dispatchEvent(new CustomEvent("resume"));
+  }
+
+  complete() {
+    if (!this._running) return;
+    this._gen++;
+    this._running = false;
+    this._paused = false;
+    this._idx = 0;
+    this._container.textContent = "";
+    const clone = this._original.cloneNode(true);
+    const children = clone.childNodes;
+    for (let i = 0; i < children.length; i++) {
+      this._container.appendChild(children[i].cloneNode(true));
+    }
+    this._container.setAttribute("aria-busy", "false");
+    this.dispatchEvent(new CustomEvent("complete"));
+  }
+
+  reset() {
+    this._gen++;
+    this._running = false;
+    this._paused = false;
+    this._idx = 0;
+    this._nodes.length = 0;
+    if (this._container) this._container.textContent = "";
+    this.dispatchEvent(new CustomEvent("reset"));
+  }
+
+  setText(html) {
+    const temp = document.createElement("div");
+    temp.innerHTML = html;
+    this._original = document.createDocumentFragment();
+    Array.from(temp.childNodes).forEach((node) => {
+      this._original.appendChild(node.cloneNode(true));
+    });
+    this.reset();
+  }
+}
+
+customElements.define("type-writer", TypeWriter);
+
+// Show cursor on complete, hide skip button
+const aboutEl = document.getElementById('about');
+const cursor = document.getElementById('cursor');
+const skipBtn = document.getElementById('skipBtn');
+
+aboutEl.addEventListener('complete', () => {
+  cursor.classList.add('visible');
+  skipBtn.classList.add('hidden');
+});
+
+// Clock — Amsterdam timezone
+function updateTime() {
+  const el = document.getElementById('current-time');
+  if (!el) return;
+  const now = new Date();
+  el.textContent = now.toLocaleTimeString('en-GB', {
+    timeZone: 'Europe/Amsterdam',
+    hour: '2-digit',
+    minute: '2-digit',
+    second: '2-digit'
+  });
+}
+updateTime();
+setInterval(updateTime, 1000);
+</script>
+
+</body>
+</html>

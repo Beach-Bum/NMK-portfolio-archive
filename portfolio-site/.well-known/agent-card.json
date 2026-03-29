@@ -1,0 +1,35 @@
+{
+  "name": "Ned Karlovich",
+  "description": "Executive Creative Director with 16+ years leading brand, spatial, and digital design for Nike, Jordan Brand, Magic Leap, Logos, and Status. Available for creative leadership roles in AI and technology.",
+  "provider": {
+    "organization": "Ned Karlovich",
+    "url": "https://nkarlovich.com"
+  },
+  "skills": [
+    {
+      "id": "brand-identity",
+      "name": "Brand Identity Systems",
+      "description": "End-to-end brand identity creation from strategy through execution. 60+ brand systems for Nike, Jordan, Magic Leap, Logos, IKEA, Rimowa, and more."
+    },
+    {
+      "id": "creative-direction",
+      "name": "Creative Direction",
+      "description": "Global creative campaigns, art direction, and visual strategy for Fortune 500 brands."
+    },
+    {
+      "id": "spatial-design",
+      "name": "Spatial Design",
+      "description": "Retail environments, experience spaces, and architectural brand integration. Nike HQ, NikeLab, Magic Leap Experience Space."
+    },
+    {
+      "id": "protocol-design",
+      "name": "Protocol & Systems Design",
+      "description": "Decentralized protocol architecture, agent-to-agent marketplace design, identity systems. Built brands for Logos, Waku, Status."
+    }
+  ],
+  "capabilities": {
+    "streaming": false,
+    "pushNotifications": false
+  },
+  "version": "1.0.0"
+}
