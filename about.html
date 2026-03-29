@@ -146,39 +146,31 @@
     /* Corner nav — matches portfolio */
     .corner-elements {
       position: fixed;
-      inset: 0;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: 1fr 1fr;
+      gap: 0;
+      width: 100%;
+      height: 100%;
       pointer-events: none;
+      padding: 2rem;
       z-index: 50;
-      padding: 1.5rem 2rem;
+      top: 0;
+      left: 0;
     }
 
     .corner-item {
-      position: absolute;
       font-size: 14px;
       letter-spacing: 0.02em;
-      
+      padding: 8px;
       pointer-events: auto;
+      opacity: 0.6;
     }
 
-    .corner-item.top-left {
-      top: 1.5rem;
-      left: 2rem;
-    }
-
-    .corner-item.top-right {
-      top: 1.5rem;
-      right: 2rem;
-    }
-
-    .corner-item.bottom-left {
-      bottom: 1.5rem;
-      left: 2rem;
-      color: var(--color-dim);
-    }
-
-    .corner-item.bottom-right {
-      bottom: 1.5rem;
-      right: 2rem;
+    .corner-item.top-left { grid-column: 1 / 2; grid-row: 1 / 2; align-self: start; justify-self: start; }
+    .corner-item.top-right { grid-column: 2 / 3; grid-row: 1 / 2; align-self: start; justify-self: end; }
+    .corner-item.bottom-left { grid-column: 1 / 2; grid-row: 2 / 3; align-self: end; justify-self: start; color: var(--color-dim); }
+    .corner-item.bottom-right { grid-column: 2 / 3; grid-row: 2 / 3; align-self: end; justify-self: end;
       color: var(--color-dim);
     }
 

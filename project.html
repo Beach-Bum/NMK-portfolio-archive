@@ -352,24 +352,31 @@
     /* ==================== CORNER NAV ==================== */
     .corner-elements {
       position: fixed;
-      inset: 0;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: 1fr 1fr;
+      gap: 0;
+      width: 100%;
+      height: 100%;
       pointer-events: none;
+      padding: 2rem;
       z-index: 50;
-      padding: 1.5rem 2rem;
+      top: 0;
+      left: 0;
     }
 
     .corner-item {
-      position: absolute;
       font-size: 14px;
       letter-spacing: 0.02em;
-      
+      padding: 8px;
       pointer-events: auto;
+      opacity: 0.6;
     }
 
-    .corner-item.top-left { top: 1.5rem; left: 2rem; }
-    .corner-item.top-right { top: 1.5rem; right: 2rem; }
-    .corner-item.bottom-left { bottom: 1.5rem; left: 2rem; color: var(--color-dim); }
-    .corner-item.bottom-right { bottom: 1.5rem; right: 2rem; color: var(--color-dim); }
+    .corner-item.top-left { grid-column: 1 / 2; grid-row: 1 / 2; align-self: start; justify-self: start; }
+    .corner-item.top-right { grid-column: 2 / 3; grid-row: 1 / 2; align-self: start; justify-self: end; }
+    .corner-item.bottom-left { grid-column: 1 / 2; grid-row: 2 / 3; align-self: end; justify-self: start; color: var(--color-dim); }
+    .corner-item.bottom-right { grid-column: 2 / 3; grid-row: 2 / 3; align-self: end; justify-self: end; color: var(--color-dim); }
 
     .corner-item a {
       color: var(--color-dim);
@@ -460,6 +467,7 @@
   <nav class="corner-item top-right">
     <a href="about.html">About</a> |
     <a href="https://linkedin.com/in/nedkarlovich" target="_blank" rel="noopener">LinkedIn</a> |
+    <a href="https://x.com/ohnobeachbum" target="_blank" rel="noopener">X</a> |
     <a href="mailto:ned@status.im">Email</a>
   </nav>
   <div class="corner-item bottom-left" id="projectIndex"></div>
@@ -665,7 +673,7 @@ function initSlideshow() {
 
   const NEXT = 1;
   const PREV = -1;
-  const SLIDE_DURATION = 1.5;
+  const SLIDE_DURATION = 0.7;
 
   gsap.registerPlugin(CustomEase);
   CustomEase.create("textReveal", "0.77, 0, 0.175, 1");
@@ -691,7 +699,7 @@ function initSlideshow() {
   // Animate first slide text
   const firstLines = slides[0].querySelectorAll(".slide__text-line");
   gsap.to(firstLines, {
-    y: 0, opacity: 0.6, duration: 1.2, stagger: 0.1, delay: 0.5, ease: "textReveal"
+    y: 0, opacity: 0.6, duration: 0.6, stagger: 0.05, delay: 0.2, ease: "textReveal"
   });
 
   function animateCounter(targetIndex, tl) {
@@ -731,15 +739,15 @@ function initSlideshow() {
     animateCounter(nextIndex, tl);
     const zd = direction === NEXT ? 1 : -1;
 
-    tl.to(currentTextLines, { y: "-80%", opacity: 0, duration: 0.7, stagger: 0.05, ease: "power2.in" }, 0);
+    tl.to(currentTextLines, { y: "-80%", opacity: 0, duration: 0.3, stagger: 0.02, ease: "power2.in" }, 0);
     gsap.set(nextSlide, { visibility: "visible", scale: zd === 1 ? 0.7 : 1.3, opacity: 0, y: "0%", x: "0%", transformOrigin: "center" });
     gsap.set(nextImage, { scale: zd === 1 ? 1.3 : 0.8, opacity: 0.5, transformOrigin: "center" });
-    tl.to(currentSlide, { scale: zd === 1 ? 1.3 : 0.7, opacity: 0, ease: "zoomOut" }, 0.2);
-    tl.to(currentImage, { scale: zd === 1 ? 0.8 : 1.3, ease: "zoomOut" }, 0.2);
-    tl.to(nextSlide, { scale: 1, opacity: 1, ease: "bounceOut" }, 0.4);
-    tl.to(nextImage, { scale: 1, opacity: 1, ease: "zoomIn" }, 0.4);
+    tl.to(currentSlide, { scale: zd === 1 ? 1.3 : 0.7, opacity: 0, ease: "zoomOut" }, 0.1);
+    tl.to(currentImage, { scale: zd === 1 ? 0.8 : 1.3, ease: "zoomOut" }, 0.1);
+    tl.to(nextSlide, { scale: 1, opacity: 1, ease: "bounceOut" }, 0.2);
+    tl.to(nextImage, { scale: 1, opacity: 1, ease: "zoomIn" }, 0.2);
     gsap.set(nextTextLines, { y: "100%", opacity: 0 });
-    tl.to(nextTextLines, { y: 0, opacity: 0.6, duration: 1, stagger: 0.1, ease: "textReveal", delay: 0.3 }, 0.7);
+    tl.to(nextTextLines, { y: 0, opacity: 0.6, duration: 0.5, stagger: 0.05, ease: "textReveal" }, 0.3);
   }
 
   // Slideshow interaction — only when in slideshow viewport
