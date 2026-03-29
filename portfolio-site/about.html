@@ -7,19 +7,14 @@
   <meta name="description" content="Ned Karlovich. Creative Technologist. Nike, Jordan Brand, Magic Leap, Logos, Status. Amsterdam.">
   <link rel="stylesheet" href="https://public.codepenassets.com/css/normalize-5.0.0.min.css">
   <style>
-    @font-face {
-      font-family: 'PP Supply Mono';
-      src: url('https://assets.codepen.io/7558/PPSupplyMono-Variable.woff2') format('woff2');
-      font-weight: 100 900;
-      font-display: swap;
-    }
+    @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400;500;600&display=swap');
 
     :root {
-      --color-bg: rgb(5, 5, 5);
+      --color-bg: rgb(0, 0, 0);
       --color-fg: rgb(250, 225, 250);
       --color-dim: rgb(160, 150, 160);
       --color-accent: rgb(220, 200, 50);
-      --font-primary: 'PP Supply Mono', 'Courier New', monospace;
+      --font-primary: 'IBM Plex Mono', monospace;
     }
 
     *, *::before, *::after {
@@ -32,10 +27,9 @@
       background: var(--color-bg);
       color: var(--color-fg);
       font-family: var(--font-primary);
-      font-size: 12px;
+      font-size: 14px;
       line-height: 1.9;
-      letter-spacing: 0.05em;
-      text-transform: uppercase;
+      letter-spacing: 0.02em;
       min-height: 100vh;
       -webkit-font-smoothing: antialiased;
       cursor: crosshair;
@@ -58,10 +52,10 @@
 
     type-writer h2 {
       font-family: var(--font-primary);
-      font-size: 12px;
+      font-size: 14px;
       font-weight: 400;
-      letter-spacing: 0.05em;
-      text-transform: uppercase;
+      letter-spacing: 0.02em;
+      
       color: var(--color-dim);
       margin: 3rem 0 1rem;
     }
@@ -72,7 +66,7 @@
 
     type-writer p {
       font-family: var(--font-primary);
-      font-size: 12px;
+      font-size: 14px;
       font-weight: 400;
       line-height: 1.9;
       margin: 0 0 1rem;
@@ -80,23 +74,23 @@
     }
 
     type-writer .name-line {
-      font-size: 12px;
-      letter-spacing: 0.05em;
+      font-size: 14px;
+      letter-spacing: 0.02em;
       margin-bottom: 0.25rem;
     }
 
     type-writer .role-line {
-      font-size: 12px;
-      letter-spacing: 0.05em;
+      font-size: 14px;
+      letter-spacing: 0.02em;
       color: var(--color-dim);
-      text-transform: uppercase;
+      
       margin-bottom: 2.5rem;
     }
 
     type-writer .brand-list {
       color: var(--color-dim);
-      font-size: 12px;
-      letter-spacing: 0.05em;
+      font-size: 14px;
+      letter-spacing: 0.02em;
       line-height: 2;
     }
 
@@ -116,7 +110,7 @@
       display: block;
       color: var(--color-dim);
       margin: 2rem 0;
-      font-size: 12px;
+      font-size: 14px;
       letter-spacing: 0.5em;
       opacity: 0.3;
     }
@@ -127,9 +121,9 @@
       bottom: 2rem;
       left: 2rem;
       font-family: var(--font-primary);
-      font-size: 12px;
-      letter-spacing: 0.05em;
-      text-transform: uppercase;
+      font-size: 14px;
+      letter-spacing: 0.02em;
+      
       color: var(--color-dim);
       background: none;
       border: 1px solid rgba(100, 100, 100, 0.3);
@@ -160,9 +154,9 @@
 
     .corner-item {
       position: absolute;
-      font-size: 12px;
-      letter-spacing: 0.05em;
-      text-transform: uppercase;
+      font-size: 14px;
+      letter-spacing: 0.02em;
+      
       pointer-events: auto;
     }
 
@@ -227,7 +221,7 @@
       }
 
       type-writer p {
-        font-size: 12px;
+        font-size: 14px;
       }
     }
   </style>

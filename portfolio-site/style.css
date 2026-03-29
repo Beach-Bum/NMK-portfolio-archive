@@ -1,10 +1,4 @@
-@font-face {
-  font-family: "PP Supply Mono";
-  src: url("https://assets.codepen.io/7558/PPSupplyMono-Variable.woff2")
-    format("woff2");
-  font-weight: 100 900;
-  font-display: swap;
-}
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400;500;600&display=swap');
 
 *,
 *::after,
@@ -14,9 +8,9 @@
 
 :root {
   --color-foreground: rgb(250, 225, 250);
-  --color-background: rgb(5, 5, 5);
+  --color-background: rgb(0, 0, 0);
   --color-accent: rgb(255, 223, 0);
-  --font-primary: "PP Supply Mono", monospace;
+  --font-primary: "IBM Plex Mono", monospace;
 }
 
 body {
@@ -29,9 +23,8 @@ body {
   align-items: center;
   min-height: 100vh;
   font-weight: 400;
-  font-size: 12px;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
+  font-size: 14px;
+  letter-spacing: 0.02em;
   position: relative;
   overflow-x: hidden;
   z-index: 10;
@@ -79,9 +72,9 @@ body::after {
 
 .site-title {
   font-family: var(--font-primary);
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 400;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.02em;
   margin: 0;
   color: var(--color-foreground);
 }
@@ -112,9 +105,8 @@ body::after {
   border: none;
   color: var(--color-foreground);
   font-family: var(--font-primary);
-  font-size: 12px;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
+  font-size: 14px;
+  letter-spacing: 0.02em;
   cursor: pointer;
   padding: 6px 0;
   opacity: 0.4;
@@ -157,8 +149,8 @@ body::after {
   align-items: center;
   border-bottom: 1px solid rgba(200, 255, 200, 0.3);
   opacity: 0.5;
-  font-size: 12px;
-  letter-spacing: 0.05em;
+  font-size: 14px;
+  letter-spacing: 0.02em;
 }
 
 .project-header::before {
@@ -304,7 +296,7 @@ body::after {
 .corner-item {
   font-family: var(--font-primary);
   color: var(--color-foreground);
-  font-size: 12px;
+  font-size: 14px;
   padding: 8px;
   pointer-events: auto;
   opacity: 0.6;
