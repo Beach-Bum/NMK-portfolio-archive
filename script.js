@@ -99,11 +99,11 @@ class AnimationManager {
     item.addEventListener("mouseenter", handleMouseEnter);
     item.addEventListener("mouseleave", handleMouseLeave);
 
-    // Click navigates to project detail
+    // Click navigates to project detail — use stored original text to avoid scrambled text
     item.addEventListener("click", () => {
-      const title = item.querySelector(".project-data.project");
-      if (!title) return;
-      const slug = title.textContent.trim().toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
+      const origTitle = originalTexts[0];
+      if (!origTitle) return;
+      const slug = origTitle.trim().toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
       window.location.href = `project.html#${slug}`;
     });
     item.style.cursor = "pointer";
