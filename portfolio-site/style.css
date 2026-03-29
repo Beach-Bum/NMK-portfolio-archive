@@ -39,6 +39,12 @@ body {
   z-index: 10;
 }
 
+.header-row {
+  display: flex;
+  align-items: baseline;
+  gap: 2rem;
+}
+
 .site-title {
   font-family: var(--font-primary);
   font-size: 14px;
@@ -56,6 +62,34 @@ body {
 .site-role {
   opacity: 0.5;
   font-weight: 400;
+}
+
+/* Mode Navigation (.memory / .agent) */
+.mode-nav {
+  display: flex;
+  gap: 0.25rem;
+}
+
+.mode-tab {
+  font-family: var(--font-primary);
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  color: var(--color-foreground);
+  text-decoration: none;
+  padding: 2px 8px;
+  opacity: 0.35;
+  transition: opacity 0.3s ease;
+  border-bottom: 1px solid transparent;
+}
+
+.mode-tab:hover {
+  opacity: 0.7;
+}
+
+.mode-tab.active {
+  opacity: 1;
+  border-bottom: 1px solid var(--color-accent);
 }
 
 /* Filter Bar */

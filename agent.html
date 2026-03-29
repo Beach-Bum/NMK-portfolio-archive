@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ned Karlovich — .agent</title>
+  <meta name="description" content="A design intelligence built from 20 years of creative direction at Nike, R/GA, Magic Leap, and IFT. Currently building the infrastructure for autonomous agent economies.">
+  <link rel="stylesheet" href="https://public.codepenassets.com/css/normalize-5.0.0.min.css">
+  <link rel="stylesheet" href="style.css">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "NMK Agent",
+    "applicationCategory": "AI Agent",
+    "creator": {
+      "@type": "Person",
+      "name": "Ned Karlovich",
+      "url": "https://nkarlovich.com"
+    },
+    "description": "Autonomous design intelligence grounded in 20 years of brand, spatial, and protocol design experience."
+  }
+  </script>
+
+  <style>
+    .agent-container {
+      width: 100vw;
+      padding: 0 2rem 4rem;
+      position: relative;
+      z-index: 10;
+    }
+
+    .agent-status {
+      padding: 1rem 0;
+      border-bottom: 1px solid rgba(200, 255, 200, 0.15);
+      margin-bottom: 2rem;
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+    }
+
+    .status-indicator {
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: var(--color-accent);
+      animation: pulse 2s ease-in-out infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 0.4; }
+      50% { opacity: 1; }
+    }
+
+    .status-text {
+      opacity: 0.5;
+      font-size: 14px;
+    }
+
+    .agent-intro {
+      max-width: 640px;
+      margin-bottom: 3rem;
+      line-height: 1.7;
+      opacity: 0.7;
+      font-size: 14px;
+    }
+
+    .agent-section {
+      margin-bottom: 3rem;
+    }
+
+    .section-label {
+      font-size: 14px;
+      letter-spacing: 0.02em;
+      opacity: 0.4;
+      margin-bottom: 1rem;
+      padding-bottom: 0.5rem;
+      border-bottom: 1px solid rgba(200, 255, 200, 0.1);
+    }
+
+    .project-card {
+      padding: 1.5rem 0;
+      border-bottom: 1px solid rgba(200, 255, 200, 0.08);
+      cursor: default;
+      transition: opacity 0.3s ease;
+    }
+
+    .project-card:hover {
+      opacity: 1;
+    }
+
+    .card-header {
+      display: flex;
+      align-items: baseline;
+      gap: 1rem;
+      margin-bottom: 0.75rem;
+    }
+
+    .card-title {
+      font-size: 14px;
+      font-weight: 400;
+      color: var(--color-foreground);
+    }
+
+    .card-title a {
+      color: var(--color-foreground);
+      text-decoration: none;
+      border-bottom: 1px solid rgba(200, 255, 200, 0.2);
+      transition: border-color 0.3s ease;
+    }
+
+    .card-title a:hover {
+      border-color: var(--color-accent);
+    }
+
+    .card-status {
+      font-size: 14px;
+      opacity: 0.35;
+    }
+
+    .card-description {
+      max-width: 640px;
+      line-height: 1.7;
+      opacity: 0.5;
+      font-size: 14px;
+      margin-bottom: 0.75rem;
+    }
+
+    .card-tags {
+      display: flex;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+    }
+
+    .tag {
+      font-size: 12px;
+      letter-spacing: 0.02em;
+      padding: 2px 8px;
+      border: 1px solid rgba(200, 255, 200, 0.15);
+      opacity: 0.4;
+    }
+
+    .memory-stats {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 1px;
+      background: rgba(200, 255, 200, 0.08);
+      margin-bottom: 3rem;
+    }
+
+    .stat-cell {
+      background: var(--color-background);
+      padding: 1.25rem;
+    }
+
+    .stat-value {
+      font-size: 14px;
+      color: var(--color-accent);
+      margin-bottom: 0.25rem;
+    }
+
+    .stat-label {
+      font-size: 12px;
+      opacity: 0.35;
+      letter-spacing: 0.02em;
+    }
+
+    .agent-capabilities {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1px;
+      background: rgba(200, 255, 200, 0.08);
+    }
+
+    .capability {
+      background: var(--color-background);
+      padding: 1.25rem;
+    }
+
+    .capability-name {
+      font-size: 14px;
+      margin-bottom: 0.25rem;
+      opacity: 0.7;
+    }
+
+    .capability-detail {
+      font-size: 12px;
+      opacity: 0.3;
+      letter-spacing: 0.02em;
+    }
+
+    @media (max-width: 768px) {
+      .memory-stats {
+        grid-template-columns: repeat(2, 1fr);
+      }
+      .agent-capabilities {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-row">
+    <h1 class="site-title hover-text">Ned Karlovich</h1>
+    <nav class="mode-nav" aria-label="Site mode">
+      <a href="index.html" class="mode-tab">.memory</a>
+      <a href="agent.html" class="mode-tab active">.agent</a>
+    </nav>
+  </div>
+</header>
+
+<main class="agent-container">
+
+  <div class="agent-status">
+    <div class="status-indicator"></div>
+    <span class="status-text">agent active — grounded in 112 projects across 15 years</span>
+  </div>
+
+  <p class="agent-intro">
+    A design intelligence built from two decades of creative direction — Nike, Jordan Brand, Magic Leap, R/GA, Adidas, IFT — now focused on the infrastructure for how autonomous systems communicate, transact, and earn trust.
+  </p>
+
+  <div class="memory-stats">
+    <div class="stat-cell">
+      <div class="stat-value">112</div>
+      <div class="stat-label">projects in memory</div>
+    </div>
+    <div class="stat-cell">
+      <div class="stat-value">2009–2023</div>
+      <div class="stat-label">temporal range</div>
+    </div>
+    <div class="stat-cell">
+      <div class="stat-value">28</div>
+      <div class="stat-label">clients / brands</div>
+    </div>
+    <div class="stat-cell">
+      <div class="stat-value">3</div>
+      <div class="stat-label">active projects</div>
+    </div>
+  </div>
+
+  <div class="agent-section">
+    <div class="section-label">.working — current projects</div>
+
+    <div class="project-card">
+      <div class="card-header">
+        <span class="card-title"><a href="https://polydesk.net" target="_blank" rel="noopener">polydesk.net</a></span>
+        <span class="card-status">in progress</span>
+      </div>
+      <p class="card-description">
+        Multi-agent workspace. A surface where autonomous agents collaborate on design, code, and strategy — with human oversight at the edges rather than the center.
+      </p>
+      <div class="card-tags">
+        <span class="tag">multi-agent</span>
+        <span class="tag">workspace</span>
+        <span class="tag">human-in-the-loop</span>
+      </div>
+    </div>
+
+    <div class="project-card">
+      <div class="card-header">
+        <span class="card-title">Decentralized Agent Marketplace Protocol</span>
+        <span class="card-status">research</span>
+      </div>
+      <p class="card-description">
+        Protocol layer connecting A2A + x402 + DIDs + reputation for a permissionless agent economy. Not a platform — a protocol. Agents as autonomous economic participants, not products in corporate catalogues.
+      </p>
+      <div class="card-tags">
+        <span class="tag">A2A</span>
+        <span class="tag">x402</span>
+        <span class="tag">DIDs</span>
+        <span class="tag">reputation</span>
+        <span class="tag">Waku</span>
+      </div>
+    </div>
+
+    <div class="project-card">
+      <div class="card-header">
+        <span class="card-title">NMK Agent Clone</span>
+        <span class="card-status">building</span>
+      </div>
+      <p class="card-description">
+        This site is the training data. The .memory archive feeds a personal agent that encodes design philosophy, aesthetic judgment, and two decades of creative decision-making into an autonomous system.
+      </p>
+      <div class="card-tags">
+        <span class="tag">personal agent</span>
+        <span class="tag">design philosophy</span>
+        <span class="tag">RAG</span>
+        <span class="tag">identity</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="agent-section">
+    <div class="section-label">.capabilities — what this agent knows</div>
+    <div class="agent-capabilities">
+      <div class="capability">
+        <div class="capability-name">Brand Identity Systems</div>
+        <div class="capability-detail">Visual identity, guidelines, naming, positioning — Nike, Jordan, Magic Leap, Rimowa, IKEA, 28+ brands</div>
+      </div>
+      <div class="capability">
+        <div class="capability-name">Spatial + Environmental</div>
+        <div class="capability-detail">Retail, exhibition, pop-up, HQ — Niketown London, NikeLab Tokyo, Magic Leap Experience Space</div>
+      </div>
+      <div class="capability">
+        <div class="capability-name">Campaign Direction</div>
+        <div class="capability-detail">Global campaigns, athlete programs, collaborations — Virgil Abloh, sacai, Fear of God, Travis Scott</div>
+      </div>
+      <div class="capability">
+        <div class="capability-name">Protocol + Product Design</div>
+        <div class="capability-detail">Decentralized systems, agent architecture, UX/UI — Status.im, Logos, Waku, polydesk.net</div>
+      </div>
+      <div class="capability">
+        <div class="capability-name">Technical Implementation</div>
+        <div class="capability-detail">React, TypeScript, Python, FastAPI, blockchain, CI/CD — ships production code</div>
+      </div>
+      <div class="capability">
+        <div class="capability-name">Agent Economy Research</div>
+        <div class="capability-detail">A2A, MCP, x402, ERC-8004, DIDs, AAIF — the infrastructure for autonomous economic participation</div>
+      </div>
+    </div>
+  </div>
+
+</main>
+
+<aside class="corner-elements">
+  <div class="corner-item top-left">
+    <div class="corner-square" aria-hidden="true"></div>
+  </div>
+  <nav class="corner-item top-right">
+    <a href="about.html">About</a> |
+    <a href="https://linkedin.com/in/nedkarlovich" target="_blank" rel="noopener">LinkedIn</a> |
+    <a href="https://x.com/ohnobeachbum" target="_blank" rel="noopener">X</a> |
+    <a href="mailto:ned@status.im">Email</a>
+  </nav>
+  <div class="corner-item bottom-left">52.3676° N, 4.9041° E</div>
+  <time class="corner-item bottom-right" id="current-time"></time>
+</aside>
+
+<script>
+  // Clock
+  function updateTime() {
+    const now = new Date();
+    const el = document.getElementById('current-time');
+    if (el) {
+      el.textContent = now.toLocaleTimeString('en-US', { hour12: false, hour: '2-digit', minute: '2-digit', second: '2-digit' });
+    }
+  }
+  updateTime();
+  setInterval(updateTime, 1000);
+</script>
+</body>
+</html>
