@@ -1,0 +1,59 @@
+Portfolio Project Image Downloads - March 29, 2026
+===================================================
+
+1. JORDAN X PSG
+   Location: assets/experiments/jordan-x-psg/
+   Files Downloaded: 2
+   - psg-25-26-fourth-kit-1.jpg (213K) - Official PSG Jordan kit image
+   - psg-25-26-fourth-kit-2.jpg (244K) - Official PSG Jordan kit image
+   Source: Footy Headlines / Nike Jordan Brand official press
+   
+2. VIRGIL ABLOH / THE TEN
+   Location: assets/experiments/virgil-abloh/
+   Files Downloaded: 6
+   - virgil-abloh-air-jordan-1.jpg (91K) - Air Jordan 1 from The Ten
+   - virgil-abloh-air-presto.jpg (55K) - Air Presto from The Ten
+   - virgil-abloh-hyperdunk.jpg (69K) - Hyperdunk from The Ten
+   - virgil-abloh-the-ten-1.jpg (105K) - The Ten collection overview
+   - virgil-abloh-the-ten-2.jpg (93K) - The Ten collection overview
+   - virgil-abloh-the-ten-3.jpg (74K) - The Ten collection overview
+   Source: Sneaker Freaker editorial features (cdn.sanity.io)
+   
+3. NIKE ISPA
+   Location: assets/graphic-design/nike-ispa/
+   Files Downloaded: 3
+   - nike-ispa-link-axis-1.jpg (140K) - Link Axis sneaker product shot
+   - nike-ispa-link-axis-2.jpg (149K) - Link Axis sneaker product shot
+   - nike-ispa-link-axis-3.jpg (148K) - Link Axis sneaker product shot
+   Source: Sneaker Politics retail product pages
+   
+4. NIKE POSTERS
+   Location: assets/graphic-design/nike-posters/
+   Files Downloaded: 3
+   - nike-yesterday-you-said-tomorrow-poster.png (3.6M) - Official poster design
+   - nike-yesterday-you-said-tomorrow-lifestyle-1.jpg (172K) - Lifestyle mockup
+   - nike-yesterday-you-said-tomorrow-medium.jpg (53K) - Medium article image
+   Source: Radial Posters (official) and Medium article
+   
+5. SHOE SURGEON
+   Location: assets/experiments/shoe-surgeon/
+   Files Downloaded: 5
+   - shoe-surgeon-freddy-1.jpg (56K) - Freddy Krueger AJ1 custom sneaker
+   - shoe-surgeon-freddy-2.jpg (48K) - Freddy Krueger AJ1 custom sneaker
+   - shoe-surgeon-freddy-3.jpg (58K) - Freddy Krueger AJ1 custom sneaker
+   - shoe-surgeon-freddy-4.jpg (41K) - Freddy Krueger AJ1 custom sneaker
+   - shoe-surgeon-freddy-5.jpg (62K) - Freddy Krueger AJ1 custom sneaker
+   Source: The Source media (thesource.com) official article
+   
+TOTAL FILES DOWNLOADED: 19
+TOTAL SIZE: ~6.4 MB
+
+Notes:
+- All images are directly related to the specified portfolio projects
+- Images were sourced from official press releases, editorial features, 
+  retail product pages, and authenticated media sources
+- Nike ISPA images feature the Link Axis model (circular design/recycled materials)
+- Virgil Abloh images showcase The Ten collection from 2017
+- Shoe Surgeon images show custom Air Jordan 1 in Freddy Krueger theme
+- Nike Posters collection features the iconic "Yesterday You Said Tomorrow" 
+  motivational billboard campaign from 2008
