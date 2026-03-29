@@ -1,0 +1,938 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Project — Ned Karlovich</title>
+  <meta name="description" content="Project detail — Ned Karlovich, Creative Technologist.">
+  <link rel="stylesheet" href="https://public.codepenassets.com/css/normalize-5.0.0.min.css">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400;500;600&display=swap');
+
+    :root {
+      --color-bg: rgb(0, 0, 0);
+      --color-fg: rgb(250, 225, 250);
+      --color-dim: rgb(160, 150, 160);
+      --color-accent: rgb(220, 200, 50);
+      --font-primary: 'IBM Plex Mono', monospace;
+    }
+
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      background: var(--color-bg);
+      color: var(--color-fg);
+      font-family: var(--font-primary);
+      font-size: 14px;
+      line-height: 1.9;
+      letter-spacing: 0.02em;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* ==================== DETAIL SECTION ==================== */
+    .detail-section {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 6rem 2rem;
+      position: relative;
+    }
+
+    .detail-container {
+      width: min(100% - 2rem, 640px);
+    }
+
+    /* TypeWriter styles */
+    type-writer {
+      display: block;
+    }
+
+    type-writer .type-writer-container {
+      display: block;
+    }
+
+    type-writer .project-title {
+      font-family: var(--font-primary);
+      font-size: 14px;
+      font-weight: 400;
+      letter-spacing: 0.02em;
+      margin: 0 0 0.25rem;
+      color: var(--color-fg);
+    }
+
+    type-writer .project-client {
+      font-family: var(--font-primary);
+      font-size: 14px;
+      font-weight: 400;
+      letter-spacing: 0.02em;
+      
+      color: var(--color-dim);
+      margin: 0 0 2rem;
+    }
+
+    type-writer .meta-row {
+      display: flex;
+      gap: 3rem;
+      margin-bottom: 2rem;
+    }
+
+    type-writer .meta-label {
+      font-size: 14px;
+      letter-spacing: 0.02em;
+      
+      color: var(--color-dim);
+      margin-bottom: 0.25rem;
+    }
+
+    type-writer .meta-value {
+      font-size: 14px;
+      letter-spacing: 0.02em;
+      color: var(--color-fg);
+    }
+
+    type-writer .project-description {
+      font-size: 14px;
+      line-height: 1.7;
+      color: var(--color-fg);
+      margin: 0 0 2rem;
+    }
+
+    type-writer .separator {
+      display: block;
+      color: var(--color-dim);
+      margin: 1.5rem 0;
+      font-size: 14px;
+      letter-spacing: 0.5em;
+      opacity: 0.3;
+    }
+
+    type-writer .scroll-hint {
+      font-size: 14px;
+      letter-spacing: 0.02em;
+      
+      color: var(--color-dim);
+      opacity: 0.5;
+    }
+
+    .cursor-blink {
+      display: inline-block;
+      width: 7px;
+      height: 13px;
+      background: var(--color-fg);
+      margin-left: 2px;
+      animation: blink 1s step-end infinite;
+      vertical-align: middle;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+
+    .cursor-blink.visible {
+      opacity: 1;
+    }
+
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+
+    /* ==================== VIDEO SECTION ==================== */
+    .video-section {
+      width: 100%;
+      padding: 2rem 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 1.5rem;
+    }
+
+    .video-embed {
+      width: min(100% - 3rem, 960px);
+      aspect-ratio: 16 / 9;
+      position: relative;
+    }
+
+    .video-embed iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+
+    /* ==================== SLIDESHOW SECTION ==================== */
+    .slideshow-section {
+      position: relative;
+      width: 100%;
+      height: 100vh;
+      overflow: hidden;
+      cursor: crosshair;
+    }
+
+    .slideshow {
+      position: relative;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+    }
+
+    .slide {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      visibility: hidden;
+      overflow: hidden;
+      transform-origin: center;
+    }
+
+    .slide.active {
+      visibility: visible;
+    }
+
+    .slide__img {
+      position: absolute;
+      top: -10%;
+      left: -10%;
+      width: 120%;
+      height: 120%;
+      background-size: cover;
+      background-position: center;
+      will-change: transform;
+      transform-origin: center;
+    }
+
+    .slide__img::after {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(
+        to bottom,
+        rgba(0, 0, 0, 0.3) 0%,
+        rgba(0, 0, 0, 0) 40%
+      );
+    }
+
+    .slide__text {
+      position: absolute;
+      bottom: 5rem;
+      left: 5rem;
+      max-width: 80%;
+      overflow: hidden;
+      z-index: 5;
+    }
+
+    .slide__text-line {
+      display: block;
+      font-family: var(--font-primary);
+      font-size: 14px;
+      font-weight: 400;
+      letter-spacing: 0.02em;
+      
+      color: var(--color-fg);
+      opacity: 0.6;
+      line-height: 1.6;
+      transform: translateY(100%);
+      opacity: 0;
+    }
+
+    /* Slide counter */
+    .slide-counter {
+      position: absolute;
+      bottom: 2rem;
+      left: 50%;
+      transform: translateX(-50%);
+      display: flex;
+      align-items: center;
+      font-family: var(--font-primary);
+      font-size: 14px;
+      font-weight: 400;
+      letter-spacing: 0.02em;
+      z-index: 10;
+      color: var(--color-fg);
+    }
+
+    .counter-container {
+      position: relative;
+      min-width: 2rem;
+      height: 1.2rem;
+      overflow: hidden;
+      text-align: right;
+    }
+
+    .counter-strip {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      text-align: right;
+    }
+
+    .counter-number {
+      height: 1.2rem;
+      display: block;
+    }
+
+    .counter-separator {
+      width: 30px;
+      height: 1px;
+      background-color: var(--color-dim);
+      margin: 0 0.75rem;
+    }
+
+    .counter-total {
+      min-width: 2rem;
+      text-align: left;
+    }
+
+    /* Controls hint */
+    .controls {
+      position: absolute;
+      top: 2rem;
+      right: 2rem;
+      z-index: 10;
+    }
+
+    .controls-text {
+      color: var(--color-dim);
+      font-family: var(--font-primary);
+      font-size: 14px;
+      letter-spacing: 0.02em;
+      
+    }
+
+    /* Custom cursor */
+    .cursor-slide {
+      position: fixed;
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      border: 1px solid rgba(200, 200, 200, 0.25);
+      margin-top: -25px;
+      margin-left: -25px;
+      z-index: 9999;
+      pointer-events: none;
+      transform: scale(0);
+      transition: transform 0.3s ease;
+      font-family: var(--font-primary);
+      font-size: 14px;
+    }
+
+    .cursor-slide-arrow {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      opacity: 0;
+      color: var(--color-fg);
+    }
+
+    .cursor-slide.active {
+      transform: scale(1);
+    }
+
+    .cursor-slide.prev .cursor-slide-arrow.prev,
+    .cursor-slide.next .cursor-slide-arrow.next {
+      opacity: 1;
+    }
+
+    /* ==================== CORNER NAV ==================== */
+    .corner-elements {
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      z-index: 50;
+      padding: 1.5rem 2rem;
+    }
+
+    .corner-item {
+      position: absolute;
+      font-size: 14px;
+      letter-spacing: 0.02em;
+      
+      pointer-events: auto;
+    }
+
+    .corner-item.top-left { top: 1.5rem; left: 2rem; }
+    .corner-item.top-right { top: 1.5rem; right: 2rem; }
+    .corner-item.bottom-left { bottom: 1.5rem; left: 2rem; color: var(--color-dim); }
+    .corner-item.bottom-right { bottom: 1.5rem; right: 2rem; color: var(--color-dim); }
+
+    .corner-item a {
+      color: var(--color-dim);
+      text-decoration: none;
+      transition: color 0.3s ease;
+    }
+
+    .corner-item a:hover {
+      color: var(--color-fg);
+    }
+
+    /* Skip button */
+    .skip-btn {
+      position: fixed;
+      bottom: 2rem;
+      left: 2rem;
+      font-family: var(--font-primary);
+      font-size: 14px;
+      letter-spacing: 0.02em;
+      
+      color: var(--color-dim);
+      background: none;
+      border: 1px solid rgba(100, 100, 100, 0.3);
+      padding: 0.5rem 1rem;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      z-index: 100;
+    }
+
+    .skip-btn:hover {
+      color: var(--color-fg);
+      border-color: var(--color-fg);
+    }
+
+    .skip-btn.hidden {
+      opacity: 0;
+      pointer-events: none;
+    }
+
+    /* No images fallback */
+    .no-images {
+      height: 30vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--color-dim);
+      font-size: 14px;
+      letter-spacing: 0.02em;
+      
+    }
+
+    /* Loading state */
+    .loading {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--color-dim);
+      font-size: 14px;
+      letter-spacing: 0.02em;
+      
+    }
+
+    @media (max-width: 768px) {
+      .detail-container {
+        width: min(100% - 3rem, 640px);
+      }
+
+      .slide__text {
+        bottom: 3rem;
+        left: 2rem;
+        max-width: 90%;
+      }
+
+      type-writer .meta-row {
+        flex-direction: column;
+        gap: 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<aside class="corner-elements">
+  <div class="corner-item top-left">
+    <a href="index.html" id="backLink">Back</a>
+  </div>
+  <nav class="corner-item top-right">
+    <a href="about.html">About</a> |
+    <a href="https://linkedin.com/in/nedkarlovich" target="_blank" rel="noopener">LinkedIn</a> |
+    <a href="mailto:ned@status.im">Email</a>
+  </nav>
+  <div class="corner-item bottom-left" id="projectIndex"></div>
+  <time class="corner-item bottom-right" id="current-time"></time>
+</aside>
+
+<!-- Loading state -->
+<div class="loading" id="loadingState">Loading...</div>
+
+<!-- Detail section — filled dynamically -->
+<section class="detail-section" id="detailSection" style="display:none;">
+  <div class="detail-container">
+    <type-writer id="projectDetail" autostart="true" speed="200">
+    </type-writer>
+    <span class="cursor-blink" id="cursor"></span>
+  </div>
+</section>
+
+<!-- Video section — filled dynamically -->
+<section class="video-section" id="videoSection" style="display:none;"></section>
+
+<!-- Slideshow section — filled dynamically -->
+<section class="slideshow-section" id="slideshowSection" style="display:none;">
+  <div class="slideshow" id="slideshow"></div>
+
+  <div class="controls">
+    <div class="controls-text">scroll / click</div>
+  </div>
+
+  <div class="slide-counter" id="slideCounter">
+    <div class="counter-container">
+      <div class="counter-strip" id="counterStrip">
+        <div class="counter-number">01</div>
+      </div>
+    </div>
+    <div class="counter-separator"></div>
+    <div class="counter-total" id="counterTotal">01</div>
+  </div>
+</section>
+
+<div class="cursor-slide" id="cursorSlide">
+  <div class="cursor-slide-arrow prev">&larr;</div>
+  <div class="cursor-slide-arrow next">&rarr;</div>
+</div>
+
+<button class="skip-btn" id="skipBtn">Skip &crarr;</button>
+
+<!-- GSAP -->
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/gsap.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/CustomEase.min.js"></script>
+
+<script>
+// ==================== TYPEWRITER COMPONENT ====================
+class TypeWriter extends HTMLElement {
+  constructor() {
+    super();
+    this._gen = 0;
+    this._paused = false;
+    this._running = false;
+    this._idx = 0;
+    this._nodes = [];
+  }
+
+  connectedCallback() {
+    const speed = parseInt(this.getAttribute("speed")) || 100;
+    const minDur = parseInt(this.getAttribute("min-duration")) || 50;
+    const maxDur = parseInt(this.getAttribute("max-duration")) || 500;
+    const autostart = this.getAttribute("autostart") !== "false";
+
+    this._original = document.createDocumentFragment();
+    const children = this.childNodes;
+    for (let i = 0; i < children.length; i++) {
+      this._original.appendChild(children[i].cloneNode(true));
+    }
+    this.textContent = "";
+
+    this._container = document.createElement("div");
+    this._container.className = "type-writer-container";
+    this._container.setAttribute("role", "region");
+    this._container.setAttribute("aria-live", "polite");
+    this.appendChild(this._container);
+
+    this._cfg = { speed, minDur, maxDur };
+    if (autostart) this.start();
+  }
+
+  _flattenNodes(node) {
+    const result = [];
+    const walk = (n, parent) => {
+      if (n.nodeType === Node.TEXT_NODE) {
+        const text = n.textContent;
+        if (!/\S/.test(text)) return;
+        const normalized = text.replace(/\s+/g, " ");
+        for (let i = 0; i < normalized.length; i++) {
+          result.push({ type: "char", char: normalized[i], parent });
+        }
+      } else if (n.nodeType === Node.ELEMENT_NODE) {
+        const clone = n.cloneNode(false);
+        result.push({ type: "open", node: clone, parent });
+        for (let i = 0; i < n.childNodes.length; i++) {
+          walk(n.childNodes[i], clone);
+        }
+        result.push({ type: "close", node: clone, parent });
+      }
+    };
+    for (let i = 0; i < node.childNodes.length; i++) {
+      walk(node.childNodes[i], this._container);
+    }
+    return result;
+  }
+
+  async start() {
+    if (!this._original || !this._container || this._running) return;
+    this._gen++;
+    this._idx = 0;
+    this._paused = false;
+    this._container.textContent = "";
+    this._nodes = this._flattenNodes(this._original.cloneNode(true));
+
+    const gen = this._gen;
+    this._running = true;
+    this.dispatchEvent(new CustomEvent("start"));
+
+    const total = this._nodes.filter(n => n.type === "char").length;
+    const dur = Math.max(this._cfg.minDur, Math.min(this._cfg.maxDur, Math.round((total / this._cfg.speed) * 1000)));
+    const delay = total ? Math.max(8, Math.round(dur / total)) : 0;
+    let charCount = 0;
+
+    const processNext = (i) => {
+      if (i >= this._nodes.length) {
+        this._running = false;
+        this.dispatchEvent(new CustomEvent("complete"));
+        return;
+      }
+      if (gen !== this._gen || !this._running) return;
+      if (this._paused) { setTimeout(() => processNext(i), 50); return; }
+
+      const item = this._nodes[i];
+      if (item.type === "open") {
+        item.parent.appendChild(item.node);
+      } else if (item.type === "char") {
+        const last = item.parent.lastChild;
+        if (last && last.nodeType === Node.TEXT_NODE) {
+          last.textContent += item.char;
+        } else {
+          item.parent.appendChild(document.createTextNode(item.char));
+        }
+        charCount++;
+      }
+      this._idx = i + 1;
+      setTimeout(() => processNext(i + 1), item.type === "char" ? delay + ((Math.random() * 6) | 0) : 0);
+    };
+    processNext(0);
+  }
+
+  complete() {
+    if (!this._running) return;
+    this._gen++;
+    this._running = false;
+    this._paused = false;
+    this._container.textContent = "";
+    const clone = this._original.cloneNode(true);
+    for (let i = 0; i < clone.childNodes.length; i++) {
+      this._container.appendChild(clone.childNodes[i].cloneNode(true));
+    }
+    this.dispatchEvent(new CustomEvent("complete"));
+  }
+
+  setText(html) {
+    const temp = document.createElement("div");
+    temp.innerHTML = html;
+    this._original = document.createDocumentFragment();
+    Array.from(temp.childNodes).forEach(node => {
+      this._original.appendChild(node.cloneNode(true));
+    });
+    this._gen++;
+    this._running = false;
+    this._paused = false;
+    this._idx = 0;
+    this._nodes.length = 0;
+    if (this._container) this._container.textContent = "";
+  }
+}
+customElements.define("type-writer", TypeWriter);
+
+// ==================== SLIDESHOW ====================
+let slideshowInitialized = false;
+
+function initSlideshow() {
+  if (slideshowInitialized) return;
+  slideshowInitialized = true;
+
+  const slides = document.querySelectorAll(".slide");
+  const slideImages = document.querySelectorAll(".slide__img");
+  const counterStrip = document.getElementById("counterStrip");
+  const cursorEl = document.getElementById("cursorSlide");
+
+  if (!slides.length) return;
+
+  let currentIndex = 0;
+  let isAnimating = false;
+  let mouseX = 0;
+
+  const NEXT = 1;
+  const PREV = -1;
+  const SLIDE_DURATION = 1.5;
+
+  gsap.registerPlugin(CustomEase);
+  CustomEase.create("textReveal", "0.77, 0, 0.175, 1");
+  CustomEase.create("counterSlide", "0.25, 1, 0.5, 1");
+  CustomEase.create("zoomIn", "0.16, 1, 0.3, 1");
+  CustomEase.create("zoomOut", "0.7, 0, 0.3, 1");
+  CustomEase.create("bounceOut", "0.22, 1.2, 0.36, 1");
+
+  function formatNumber(num) {
+    return num < 10 ? `0${num}` : `${num}`;
+  }
+
+  // Init counter
+  counterStrip.innerHTML = "";
+  for (let i = 0; i < slides.length; i++) {
+    const d = document.createElement("div");
+    d.className = "counter-number";
+    d.textContent = formatNumber(i + 1);
+    counterStrip.appendChild(d);
+  }
+  gsap.set(counterStrip, { y: 0 });
+
+  // Animate first slide text
+  const firstLines = slides[0].querySelectorAll(".slide__text-line");
+  gsap.to(firstLines, {
+    y: 0, opacity: 0.6, duration: 1.2, stagger: 0.1, delay: 0.5, ease: "textReveal"
+  });
+
+  function animateCounter(targetIndex, tl) {
+    tl.to(counterStrip, {
+      y: `${-targetIndex * 1.2}rem`, duration: SLIDE_DURATION, ease: "counterSlide"
+    }, 0.2);
+  }
+
+  function navigate(direction) {
+    if (isAnimating) return;
+    const prevIndex = currentIndex;
+    currentIndex = direction === NEXT
+      ? (currentIndex < slides.length - 1 ? currentIndex + 1 : 0)
+      : (currentIndex > 0 ? currentIndex - 1 : slides.length - 1);
+    performNavigation(prevIndex, currentIndex, direction);
+  }
+
+  function performNavigation(prevIndex, nextIndex, direction) {
+    isAnimating = true;
+    const currentSlide = slides[prevIndex];
+    const currentImage = slideImages[prevIndex];
+    const currentTextLines = currentSlide.querySelectorAll(".slide__text-line");
+    const nextSlide = slides[nextIndex];
+    const nextImage = slideImages[nextIndex];
+    const nextTextLines = nextSlide.querySelectorAll(".slide__text-line");
+
+    const tl = gsap.timeline({
+      defaults: { duration: SLIDE_DURATION, ease: "power2.inOut" },
+      onComplete: () => {
+        gsap.set(currentSlide, { visibility: "hidden" });
+        currentSlide.classList.remove("active");
+        nextSlide.classList.add("active");
+        isAnimating = false;
+      }
+    });
+
+    animateCounter(nextIndex, tl);
+    const zd = direction === NEXT ? 1 : -1;
+
+    tl.to(currentTextLines, { y: "-80%", opacity: 0, duration: 0.7, stagger: 0.05, ease: "power2.in" }, 0);
+    gsap.set(nextSlide, { visibility: "visible", scale: zd === 1 ? 0.7 : 1.3, opacity: 0, y: "0%", x: "0%", transformOrigin: "center" });
+    gsap.set(nextImage, { scale: zd === 1 ? 1.3 : 0.8, opacity: 0.5, transformOrigin: "center" });
+    tl.to(currentSlide, { scale: zd === 1 ? 1.3 : 0.7, opacity: 0, ease: "zoomOut" }, 0.2);
+    tl.to(currentImage, { scale: zd === 1 ? 0.8 : 1.3, ease: "zoomOut" }, 0.2);
+    tl.to(nextSlide, { scale: 1, opacity: 1, ease: "bounceOut" }, 0.4);
+    tl.to(nextImage, { scale: 1, opacity: 1, ease: "zoomIn" }, 0.4);
+    gsap.set(nextTextLines, { y: "100%", opacity: 0 });
+    tl.to(nextTextLines, { y: 0, opacity: 0.6, duration: 1, stagger: 0.1, ease: "textReveal", delay: 0.3 }, 0.7);
+  }
+
+  // Slideshow interaction — only when in slideshow viewport
+  const slideshowSection = document.getElementById("slideshowSection");
+
+  slideshowSection.addEventListener("mousemove", (e) => {
+    gsap.to(cursorEl, { left: e.clientX, top: e.clientY, duration: 0.1 });
+    mouseX = e.clientX;
+    cursorEl.classList.add("active");
+    if (e.clientX < window.innerWidth / 2) {
+      cursorEl.classList.remove("next");
+      cursorEl.classList.add("prev");
+    } else {
+      cursorEl.classList.remove("prev");
+      cursorEl.classList.add("next");
+    }
+    clearTimeout(window.cursorTimeout);
+    window.cursorTimeout = setTimeout(() => cursorEl.classList.remove("active"), 2000);
+  });
+
+  slideshowSection.addEventListener("mouseleave", () => {
+    cursorEl.classList.remove("active");
+  });
+
+  slideshowSection.addEventListener("wheel", (e) => {
+    e.preventDefault();
+    navigate(e.deltaY > 0 ? NEXT : PREV);
+  }, { passive: false });
+
+  slideshowSection.addEventListener("click", (e) => {
+    if (e.target.closest('a')) return;
+    navigate(mouseX < window.innerWidth / 2 ? PREV : NEXT);
+  });
+
+  // Touch
+  let touchStartY = 0;
+  slideshowSection.addEventListener("touchstart", (e) => { touchStartY = e.changedTouches[0].screenY; });
+  slideshowSection.addEventListener("touchend", (e) => {
+    const dy = e.changedTouches[0].screenY - touchStartY;
+    if (dy < -5) navigate(NEXT);
+    else if (dy > 5) navigate(PREV);
+  });
+
+  // Keyboard
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "ArrowDown" || e.key === "ArrowRight") navigate(NEXT);
+    else if (e.key === "ArrowUp" || e.key === "ArrowLeft") navigate(PREV);
+  });
+}
+
+// ==================== LOAD PROJECT ====================
+async function loadProject() {
+  const slug = window.location.hash.replace("#", "") || new URLSearchParams(window.location.search).get("project");
+  if (!slug) {
+    document.getElementById("loadingState").textContent = "No project specified.";
+    return;
+  }
+
+  try {
+    const res = await fetch("projects.json");
+    const projects = await res.json();
+    const toSlug = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
+    const projectIndex = projects.findIndex(p => p.slug === slug || toSlug(p.title) === slug);
+    const project = projects[projectIndex];
+
+    if (!project) {
+      document.getElementById("loadingState").textContent = "Project not found.";
+      return;
+    }
+
+    // Update page title
+    document.title = `${project.title} — Ned Karlovich`;
+
+    // Show project index
+    const idxEl = document.getElementById("projectIndex");
+    idxEl.textContent = `${String(projectIndex + 1).padStart(3, "0")} / ${String(projects.length).padStart(3, "0")}`;
+
+    // Filter out favicon images
+    const images = (project.images || []).filter(url => !url.includes("favicon"));
+
+    // Build typewriter content
+    const descriptionHtml = project.description
+      ? `<p class="project-description">${project.description}</p>`
+      : '';
+
+    const detailHtml = `
+      <p class="project-title">${project.title}</p>
+      <p class="project-client">${project.client}</p>
+      <div class="meta-row">
+        <div><div class="meta-label">Discipline</div><div class="meta-value">${project.section}</div></div>
+        <div><div class="meta-label">Role</div><div class="meta-value">${project.role}</div></div>
+      </div>
+      ${descriptionHtml}
+      <span class="separator">— — —</span>
+      ${images.length ? '<p class="scroll-hint">Scroll to view work ↓</p>' : ''}
+    `;
+
+    // Set typewriter content and start
+    const tw = document.getElementById("projectDetail");
+    tw.setAttribute("autostart", "false");
+    tw.setText(detailHtml);
+
+    // Hide loading, show detail
+    document.getElementById("loadingState").style.display = "none";
+    document.getElementById("detailSection").style.display = "flex";
+
+    // Start typewriter
+    tw.start();
+
+    // Build video embeds
+    const vimeos = project.vimeos || [];
+    const youtubes = project.youtubes || [];
+    if (vimeos.length || youtubes.length) {
+      const videoSection = document.getElementById("videoSection");
+      vimeos.forEach(id => {
+        const wrap = document.createElement("div");
+        wrap.className = "video-embed";
+        wrap.innerHTML = `<iframe src="https://player.vimeo.com/video/${id}?title=0&byline=0&portrait=0" allow="autoplay; fullscreen" allowfullscreen></iframe>`;
+        videoSection.appendChild(wrap);
+      });
+      youtubes.forEach(id => {
+        const wrap = document.createElement("div");
+        wrap.className = "video-embed";
+        wrap.innerHTML = `<iframe src="https://www.youtube.com/embed/${id}" allow="autoplay; fullscreen" allowfullscreen></iframe>`;
+        videoSection.appendChild(wrap);
+      });
+    }
+
+    // Build slideshow slides
+    if (images.length) {
+      const slideshowEl = document.getElementById("slideshow");
+      const counterTotal = document.getElementById("counterTotal");
+
+      images.forEach((imgUrl, i) => {
+        const slide = document.createElement("div");
+        slide.className = "slide" + (i === 0 ? " active" : "");
+        slide.innerHTML = `
+          <div class="slide__img" style="background-image: url(${imgUrl})"></div>
+          <div class="slide__text">
+            <span class="slide__text-line">${project.title}</span>
+            <span class="slide__text-line">${project.client} — ${i + 1} / ${images.length}</span>
+          </div>
+        `;
+        slideshowEl.appendChild(slide);
+      });
+
+      counterTotal.textContent = images.length < 10 ? `0${images.length}` : `${images.length}`;
+
+      // Show slideshow after typewriter completes
+      tw.addEventListener("complete", () => {
+        document.getElementById("cursor").classList.add("visible");
+        document.getElementById("skipBtn").classList.add("hidden");
+        if (vimeos.length || youtubes.length) {
+          document.getElementById("videoSection").style.display = "flex";
+        }
+        document.getElementById("slideshowSection").style.display = "block";
+        // Small delay then init slideshow
+        setTimeout(() => initSlideshow(), 300);
+      });
+    } else {
+      // No slideshow images — show videos and cursor on complete
+      tw.addEventListener("complete", () => {
+        document.getElementById("cursor").classList.add("visible");
+        document.getElementById("skipBtn").classList.add("hidden");
+        if (vimeos.length || youtubes.length) {
+          document.getElementById("videoSection").style.display = "flex";
+        }
+      });
+    }
+
+    // Skip button
+    document.getElementById("skipBtn").addEventListener("click", () => tw.complete());
+
+  } catch (err) {
+    document.getElementById("loadingState").textContent = "Error loading project.";
+    console.error(err);
+  }
+}
+
+// Clock
+function updateTime() {
+  const el = document.getElementById("current-time");
+  if (!el) return;
+  el.textContent = new Date().toLocaleTimeString("en-GB", {
+    timeZone: "Europe/Amsterdam", hour: "2-digit", minute: "2-digit", second: "2-digit"
+  });
+}
+updateTime();
+setInterval(updateTime, 1000);
+
+// Init
+document.addEventListener("DOMContentLoaded", loadProject);
+</script>
+
+</body>
+</html>
