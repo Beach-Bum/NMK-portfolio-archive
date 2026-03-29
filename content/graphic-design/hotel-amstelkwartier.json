@@ -1,0 +1,181 @@
+{
+  "section": "Graphic Design / Creative Direction",
+  "title": "Hotel Amstelkwartier",
+  "slug": "hotel-amstelkwartier",
+  "description": "",
+  "text": [
+    "Hotel Amstelkwartier"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589902494028-NKNKG2W39YZ1N5M56E88/SN_Logostudy_NMK_Page_02.png",
+      "filename": "SN_Logostudy_NMK_Page_02.png",
+      "source": "api",
+      "localPath": "assets/graphic-design/hotel-amstelkwartier/SN_Logostudy_NMK_Page_02.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589902369009-QZ2VG7VV5N9X724KJ6U2/SN_Logostudy_NMK_Page_03.png",
+      "filename": "SN_Logostudy_NMK_Page_03.png",
+      "source": "api",
+      "localPath": "assets/graphic-design/hotel-amstelkwartier/SN_Logostudy_NMK_Page_03.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589902372099-FF40OI7S9PBZ8AGBSFE0/SN_Logostudy_NMK_Page_05.png",
+      "filename": "SN_Logostudy_NMK_Page_05.png",
+      "source": "api",
+      "localPath": "assets/graphic-design/hotel-amstelkwartier/SN_Logostudy_NMK_Page_05.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589902374273-HKARJAIDRDC9AZS8ILXL/SN_Logostudy_NMK_Page_06.png",
+      "filename": "SN_Logostudy_NMK_Page_06.png",
+      "source": "api",
+      "localPath": "assets/graphic-design/hotel-amstelkwartier/SN_Logostudy_NMK_Page_06.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589902376056-B7QSZB70HS85BIFXG45N/SN_Logostudy_NMK_Page_07.png",
+      "filename": "SN_Logostudy_NMK_Page_07.png",
+      "source": "api",
+      "localPath": "assets/graphic-design/hotel-amstelkwartier/SN_Logostudy_NMK_Page_07.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589902382461-DSXV7FF1I9RU6P1SJJ5K/SN_Logostudy_NMK_Page_08.png",
+      "filename": "SN_Logostudy_NMK_Page_08.png",
+      "source": "api",
+      "localPath": "assets/graphic-design/hotel-amstelkwartier/SN_Logostudy_NMK_Page_08.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589902383662-YJ43BPYK3TMQ02MU451F/SN_Logostudy_NMK_Page_09.png",
+      "filename": "SN_Logostudy_NMK_Page_09.png",
+      "source": "api",
+      "localPath": "assets/graphic-design/hotel-amstelkwartier/SN_Logostudy_NMK_Page_09.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589902384860-IIA0JYCIPFN5LDASRAI2/SN_Logostudy_NMK_Page_10.png",
+      "filename": "SN_Logostudy_NMK_Page_10.png",
+      "source": "api",
+      "localPath": "assets/graphic-design/hotel-amstelkwartier/SN_Logostudy_NMK_Page_10.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589902387737-4A65DUC3A7WDWF5Z3R3R/SN_Logostudy_NMK_Page_11.png",
+      "filename": "SN_Logostudy_NMK_Page_11.png",
+      "source": "api",
+      "localPath": "assets/graphic-design/hotel-amstelkwartier/SN_Logostudy_NMK_Page_11.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589902475250-OAOFMJXPOJFXLT0MTKBM/SN_Logostudy_NMK_Page_12.png",
+      "filename": "SN_Logostudy_NMK_Page_12.png",
+      "source": "api",
+      "localPath": "assets/graphic-design/hotel-amstelkwartier/SN_Logostudy_NMK_Page_12.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589902477744-LOL5P2C8RS7CJ2JT80K0/SN_Logostudy_NMK_Page_14.png",
+      "filename": "SN_Logostudy_NMK_Page_14.png",
+      "source": "api",
+      "localPath": "assets/graphic-design/hotel-amstelkwartier/SN_Logostudy_NMK_Page_14.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589902478549-MJAJE59OIZTIW75I4HGH/SN_Logostudy_NMK_Page_15.png",
+      "filename": "SN_Logostudy_NMK_Page_15.png",
+      "source": "api",
+      "localPath": "assets/graphic-design/hotel-amstelkwartier/SN_Logostudy_NMK_Page_15.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589902479635-RCFVEWDYVBL0Y43969I9/SN_Logostudy_NMK_Page_16.png",
+      "filename": "SN_Logostudy_NMK_Page_16.png",
+      "source": "api",
+      "localPath": "assets/graphic-design/hotel-amstelkwartier/SN_Logostudy_NMK_Page_16.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589902496385-T7BKX81I55OJSJY8Y4WZ/SN_Logostudy_NMK_Page_19.png",
+      "filename": "SN_Logostudy_NMK_Page_19.png",
+      "source": "api",
+      "localPath": "assets/graphic-design/hotel-amstelkwartier/SN_Logostudy_NMK_Page_19.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589902497550-BICXXRZ8NUNOU05GWH0B/SN_Logostudy_NMK_Page_20.png",
+      "filename": "SN_Logostudy_NMK_Page_20.png",
+      "source": "api",
+      "localPath": "assets/graphic-design/hotel-amstelkwartier/SN_Logostudy_NMK_Page_20.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589902498286-JGEZMYP3B0NL3M7FBXFO/SN_Logostudy_NMK_Page_21.png",
+      "filename": "SN_Logostudy_NMK_Page_21.png",
+      "source": "api",
+      "localPath": "assets/graphic-design/hotel-amstelkwartier/SN_Logostudy_NMK_Page_21.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589902565766-DQNHWMEIUD047QX97EUT/SN_Logostudy_NMK_Page_17.png",
+      "filename": "SN_Logostudy_NMK_Page_17.png",
+      "source": "api",
+      "localPath": "assets/graphic-design/hotel-amstelkwartier/SN_Logostudy_NMK_Page_17.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589902557673-YQKO8IOZTOP9K3P5CZSA/SN_Logostudy_NMK_Page_22.png",
+      "filename": "SN_Logostudy_NMK_Page_22.png",
+      "source": "api",
+      "localPath": "assets/graphic-design/hotel-amstelkwartier/SN_Logostudy_NMK_Page_22.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589902561056-XH808U138B8B3KB2V5SP/SN_Logostudy_NMK_Page_24.png",
+      "filename": "SN_Logostudy_NMK_Page_24.png",
+      "source": "api",
+      "localPath": "assets/graphic-design/hotel-amstelkwartier/SN_Logostudy_NMK_Page_24.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589902562373-IASWRAXQJ7JYNKKR2RUU/SN_Logostudy_NMK_Page_25.png",
+      "filename": "SN_Logostudy_NMK_Page_25.png",
+      "source": "api",
+      "localPath": "assets/graphic-design/hotel-amstelkwartier/SN_Logostudy_NMK_Page_25.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589902564368-X4PC2FO3AW4W3SI91SDO/SN_Logostudy_NMK_Page_26.png",
+      "filename": "SN_Logostudy_NMK_Page_26.png",
+      "source": "api",
+      "localPath": "assets/graphic-design/hotel-amstelkwartier/SN_Logostudy_NMK_Page_26.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589902565607-XY0ORMUPKREXQV9RFN05/SN_Logostudy_NMK_Page_27.png",
+      "filename": "SN_Logostudy_NMK_Page_27.png",
+      "source": "api",
+      "localPath": "assets/graphic-design/hotel-amstelkwartier/SN_Logostudy_NMK_Page_27.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589902567807-27UNJJE153NS2FBE1LCL/SN_Logostudy_NMK_Page_29.png",
+      "filename": "SN_Logostudy_NMK_Page_29.png",
+      "source": "api",
+      "localPath": "assets/graphic-design/hotel-amstelkwartier/SN_Logostudy_NMK_Page_29.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589902569001-28HST9J820C7MPYL0SKG/SN_Logostudy_NMK_Page_30.png",
+      "filename": "SN_Logostudy_NMK_Page_30.png",
+      "source": "api",
+      "localPath": "assets/graphic-design/hotel-amstelkwartier/SN_Logostudy_NMK_Page_30.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589902631689-HMUQ8792LGF1OFBJ55YI/SN_Logostudy_NMK_Page_28.png",
+      "filename": "SN_Logostudy_NMK_Page_28.png",
+      "source": "api",
+      "localPath": "assets/graphic-design/hotel-amstelkwartier/SN_Logostudy_NMK_Page_28.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589902632681-S8Q96BW90HWMDPYYCQ26/SN_Logostudy_NMK_Page_32.png",
+      "filename": "SN_Logostudy_NMK_Page_32.png",
+      "source": "api",
+      "localPath": "assets/graphic-design/hotel-amstelkwartier/SN_Logostudy_NMK_Page_32.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/graphic-design/hotel-amstelkwartier/extra-001.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589902811548-7EMYCZL24NANHX1F8YS6/SN_Logostudy_NMK_Page_02.png",
+      "filename": "extra-002.png",
+      "source": "html",
+      "localPath": "assets/graphic-design/hotel-amstelkwartier/extra-002.png"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

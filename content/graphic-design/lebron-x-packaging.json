@@ -1,0 +1,37 @@
+{
+  "section": "Graphic Design / Creative Direction",
+  "title": "Lebron X Packaging",
+  "slug": "new-project-2",
+  "description": "",
+  "text": [
+    "Lebron X Packaging"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524917223331-SKC0QQCP594WVDXTPYHI/tumblr_ooa32n7wkD1qzta7uo1_1280.jpg",
+      "filename": "tumblr_ooa32n7wkD1qzta7uo1_1280.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/lebron-x-packaging/tumblr_ooa32n7wkD1qzta7uo1_1280.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524917223210-EV6JS6SXNB3DKO11IS9C/tumblr_ox1voteKhe1qzta7uo1_1280.jpg",
+      "filename": "tumblr_ox1voteKhe1qzta7uo1_1280.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/lebron-x-packaging/tumblr_ox1voteKhe1qzta7uo1_1280.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524917224435-2W0VVUSTZNIR4LG8V1P9/tumblr_oyto2cymi41qzta7uo1_1280.jpg",
+      "filename": "tumblr_oyto2cymi41qzta7uo1_1280.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/lebron-x-packaging/tumblr_oyto2cymi41qzta7uo1_1280.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/graphic-design/lebron-x-packaging/extra-001.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

@@ -1,0 +1,55 @@
+{
+  "section": "Graphic Design / Creative Direction",
+  "title": "Nike Running / Paula Radcliffe",
+  "slug": "new-project-48",
+  "description": "",
+  "text": [
+    "Nike Running / Paula Radcliffe"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524935172919-5YAF0AAXH3UBW3W9K311/PaulaRadcliffe_2_original.jpg",
+      "filename": "PaulaRadcliffe_2_original.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-running-paula-radcliffe/PaulaRadcliffe_2_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524935170675-VEHOCF9U5CWA6KRK3N4T/PaulaRadcliffe_1_original.jpg",
+      "filename": "PaulaRadcliffe_1_original.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-running-paula-radcliffe/PaulaRadcliffe_1_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524935198810-5489OSCLG4JVAF5DEZOR/PaulaRadcliffe_3_original.jpg",
+      "filename": "PaulaRadcliffe_3_original.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-running-paula-radcliffe/PaulaRadcliffe_3_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524935199175-RJNWRQDPLZUOHDA02MBE/PaulaRadcliffe_4_original.jpg",
+      "filename": "PaulaRadcliffe_4_original.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-running-paula-radcliffe/PaulaRadcliffe_4_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524935215022-9EM1N24FK0N7ZZO5S11W/PaulaRadcliffe_5_original.jpg",
+      "filename": "PaulaRadcliffe_5_original.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-running-paula-radcliffe/PaulaRadcliffe_5_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/graphic-design/nike-running-paula-radcliffe/extra-001.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524935271197-6I1F03Y0ZHKB6PIJ0WLG/PaulaRadcliffe_1_original.jpg",
+      "filename": "extra-002.jpg",
+      "source": "html",
+      "localPath": "assets/graphic-design/nike-running-paula-radcliffe/extra-002.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

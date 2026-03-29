@@ -1,0 +1,133 @@
+{
+  "section": "Interiors / Architecture",
+  "title": "W Hotel / Amsterdam",
+  "slug": "w-hotel-amsterdam",
+  "description": "",
+  "text": [
+    "W Hotel / Amsterdam"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525346250072-PB6U5YL5E6UC1TMPFYE0/BED.jpg",
+      "filename": "BED.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/w-hotel-amsterdam/BED.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525346250621-DE03J2SKGJL0QRYJ2VK8/Exterior1.jpg",
+      "filename": "Exterior1.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/w-hotel-amsterdam/Exterior1.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525346253625-9PWRFL6NVYVC6FFIZR3R/Shower-5-copy.jpg",
+      "filename": "Shower-5-copy.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/w-hotel-amsterdam/Shower-5-copy.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525346256845-24EYTG61KPDITJAWT7I8/Shower-Standard-room-1.jpg",
+      "filename": "Shower-Standard-room-1.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/w-hotel-amsterdam/Shower-Standard-room-1.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525346259451-Y2QLAQ9TFURCUAE3ID1T/Shower-Standard-room-2.jpg",
+      "filename": "Shower-Standard-room-2.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/w-hotel-amsterdam/Shower-Standard-room-2.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525346259970-8E52IZO0JV4ZS6PI0N5V/Standard-room.jpg",
+      "filename": "Standard-room.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/w-hotel-amsterdam/Standard-room.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525346907486-ZOEGYY2SVY9QCR8U8GO0/TheInvisibleParty-WAmsterdam-1586-x-1000-45.jpg",
+      "filename": "TheInvisibleParty-WAmsterdam-1586-x-1000-45.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/w-hotel-amsterdam/TheInvisibleParty-WAmsterdam-1586-x-1000-45.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525346260999-Q9O5A0VQ383ZH5EBYTMO/Standard-roooom-copy.jpg",
+      "filename": "Standard-roooom-copy.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/w-hotel-amsterdam/Standard-roooom-copy.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525346907486-WZ3Y3SQN92I30BF08ODA/TheInvisibleParty-WAmsterdam-1586-x-1000-46.jpg",
+      "filename": "TheInvisibleParty-WAmsterdam-1586-x-1000-46.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/w-hotel-amsterdam/TheInvisibleParty-WAmsterdam-1586-x-1000-46.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525346291018-MAKJ5LWENHFNF92BP3AS/IMG_2743.jpg",
+      "filename": "IMG_2743.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/w-hotel-amsterdam/IMG_2743.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525346909053-20WNTN1ML2VLTELRVX4K/TheInvisibleParty-WAmsterdam-1586-x-1000-47.jpg",
+      "filename": "TheInvisibleParty-WAmsterdam-1586-x-1000-47.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/w-hotel-amsterdam/TheInvisibleParty-WAmsterdam-1586-x-1000-47.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525346909611-H5K9Q3C2M41EF1L40HP9/TheInvisibleParty-WAmsterdam-1586-x-1000-48.jpg",
+      "filename": "TheInvisibleParty-WAmsterdam-1586-x-1000-48.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/w-hotel-amsterdam/TheInvisibleParty-WAmsterdam-1586-x-1000-48.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525346911569-TRJX9ESJ15HKQVCMMWLV/TheInvisibleParty-WAmsterdam-1586-x-1000-28.jpg",
+      "filename": "TheInvisibleParty-WAmsterdam-1586-x-1000-28.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/w-hotel-amsterdam/TheInvisibleParty-WAmsterdam-1586-x-1000-28.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525346913313-9UWHRKDT1P34GU0EFNAZ/TheInvisibleParty-WAmsterdam-1586-x-1000-54.jpg",
+      "filename": "TheInvisibleParty-WAmsterdam-1586-x-1000-54.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/w-hotel-amsterdam/TheInvisibleParty-WAmsterdam-1586-x-1000-54.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525346914040-KLPW47KHTWNT3YZDSS2X/TheInvisibleParty-WAmsterdam-1586-x-1000-53.jpg",
+      "filename": "TheInvisibleParty-WAmsterdam-1586-x-1000-53.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/w-hotel-amsterdam/TheInvisibleParty-WAmsterdam-1586-x-1000-53.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525346915245-5UJLXF0RJKL901OWUZJR/TheInvisibleParty-WAmsterdam-1586-x-1000-52.jpg",
+      "filename": "TheInvisibleParty-WAmsterdam-1586-x-1000-52.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/w-hotel-amsterdam/TheInvisibleParty-WAmsterdam-1586-x-1000-52.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525346915769-Z390UPSWLKABLB7IM8OI/TheInvisibleParty-WAmsterdam-1586-x-1000-50.jpg",
+      "filename": "TheInvisibleParty-WAmsterdam-1586-x-1000-50.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/w-hotel-amsterdam/TheInvisibleParty-WAmsterdam-1586-x-1000-50.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525346916377-A9KAPOHOTSZD355327HA/TheInvisibleParty-WAmsterdam-1586-x-1000-49.jpg",
+      "filename": "TheInvisibleParty-WAmsterdam-1586-x-1000-49.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/w-hotel-amsterdam/TheInvisibleParty-WAmsterdam-1586-x-1000-49.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/interiors-architecture/w-hotel-amsterdam/extra-001.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525347013011-UL7BLGTQFXHSZ04RBSTT/TheInvisibleParty-WAmsterdam-1586-x-1000-28.jpg",
+      "filename": "extra-002.jpg",
+      "source": "html",
+      "localPath": "assets/interiors-architecture/w-hotel-amsterdam/extra-002.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

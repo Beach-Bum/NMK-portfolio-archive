@@ -1,0 +1,151 @@
+{
+  "section": "Interiors / Architecture",
+  "title": "Nature of Motion / Milan",
+  "slug": "nature-of-motion-milan",
+  "description": "",
+  "text": [
+    "Nature of Motion / Milan"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525340721953-9ZCNM1XJIF5CH1ZQ3TBC/02-THE_NATURE_OF_MOTION_original.jpg",
+      "filename": "02-THE_NATURE_OF_MOTION_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nature-of-motion-milan/02-THE_NATURE_OF_MOTION_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525340734428-KVP02WTJ2F9ZSZJVZCAT/03-ENTRANCE_2_original.jpg",
+      "filename": "03-ENTRANCE_2_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nature-of-motion-milan/03-ENTRANCE_2_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525340735588-H4WZ95NGY2S9UWTV6TGA/03B-ENTRANCE_DISLPAY_1_original.jpg",
+      "filename": "03B-ENTRANCE_DISLPAY_1_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nature-of-motion-milan/03B-ENTRANCE_DISLPAY_1_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525340747125-54RNWHA7RMJB8NX91DKF/04-BERTJAN_POT_HIGH_VIEW_original.jpg",
+      "filename": "04-BERTJAN_POT_HIGH_VIEW_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nature-of-motion-milan/04-BERTJAN_POT_HIGH_VIEW_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525340755595-6R4OJWYELHWEABS2Z34D/06-BERTJAN_POT_DETAIL_original.jpg",
+      "filename": "06-BERTJAN_POT_DETAIL_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nature-of-motion-milan/06-BERTJAN_POT_DETAIL_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525340756843-HD7Z9K46ZI4RHLVFNLQS/07-CLARASHANE_HIGH_VIEW_original.jpg",
+      "filename": "07-CLARASHANE_HIGH_VIEW_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nature-of-motion-milan/07-CLARASHANE_HIGH_VIEW_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525340764697-WGHN0GW7O6E1DQ2AHSIK/08-MARTINO_GAMPER_7676_original.jpg",
+      "filename": "08-MARTINO_GAMPER_7676_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nature-of-motion-milan/08-MARTINO_GAMPER_7676_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525340766023-YDHXMHKIWMEASUJ1DLI6/12-MAX_LAMB_7615_original.jpg",
+      "filename": "12-MAX_LAMB_7615_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nature-of-motion-milan/12-MAX_LAMB_7615_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525340775167-TZGX02F65GX0NH8DX93C/18-ZAVEN_7637_original.jpg",
+      "filename": "18-ZAVEN_7637_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nature-of-motion-milan/18-ZAVEN_7637_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525340777396-4PGEP1WJMJ158BMDCE2D/20-SEBASTIAN_WRONG_7722_original.jpg",
+      "filename": "20-SEBASTIAN_WRONG_7722_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nature-of-motion-milan/20-SEBASTIAN_WRONG_7722_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525340790909-KT36DWNRM75B9XV6O1BS/23-GENEALOGY_original.jpg",
+      "filename": "23-GENEALOGY_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nature-of-motion-milan/23-GENEALOGY_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525340789416-Z1BIY6U0R6C64BKVN3OB/25-FREE_RN_MOTION_7788_original.jpg",
+      "filename": "25-FREE_RN_MOTION_7788_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nature-of-motion-milan/25-FREE_RN_MOTION_7788_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525340801503-AHZTGHRO63WH4L3UYIAR/26-FREE_RN_MOTION_DETAIL_7992_original.jpg",
+      "filename": "26-FREE_RN_MOTION_DETAIL_7992_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nature-of-motion-milan/26-FREE_RN_MOTION_DETAIL_7992_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525340800846-VKVY8RY8HJ7MP188JM5S/27-EXPERIMENTS_3D_7762_original.jpg",
+      "filename": "27-EXPERIMENTS_3D_7762_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nature-of-motion-milan/27-EXPERIMENTS_3D_7762_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525340807831-WH6BXF5LSUGUB61IJL7I/28-EXPERIMENTS_3D_DETAIL_8006_original.jpg",
+      "filename": "28-EXPERIMENTS_3D_DETAIL_8006_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nature-of-motion-milan/28-EXPERIMENTS_3D_DETAIL_8006_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525340818790-13XUJ9LHCZBZN2W1XW5H/31-EXPERIMENTS_SHOES_7820_original.jpg",
+      "filename": "31-EXPERIMENTS_SHOES_7820_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nature-of-motion-milan/31-EXPERIMENTS_SHOES_7820_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525340823526-AC4G7VDN3EYH6R86F8UA/33-COURTYARD_8197_original.jpg",
+      "filename": "33-COURTYARD_8197_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nature-of-motion-milan/33-COURTYARD_8197_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525340829047-BK3XV0ICZ3GF4Y5I6T2Y/NIKE-NOM-april12-8522.jpg",
+      "filename": "NIKE-NOM-april12-8522.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nature-of-motion-milan/NIKE-NOM-april12-8522.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525340829581-DI5A44HYD5D4H7J6FVQH/static1.squarespace.png",
+      "filename": "static1.squarespace.png",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nature-of-motion-milan/static1.squarespace.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525340838541-YB6ABNP68BNPZ9FLE02K/STO_0683.jpg",
+      "filename": "STO_0683.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nature-of-motion-milan/STO_0683.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525340838661-75J6I3E713DUAHEAOUNI/STO_1862.jpg",
+      "filename": "STO_1862.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nature-of-motion-milan/STO_1862.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525340845642-18SQ5OB6LCM5PQA22RMK/STO_1922.jpg",
+      "filename": "STO_1922.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nature-of-motion-milan/STO_1922.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/interiors-architecture/nature-of-motion-milan/extra-001.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

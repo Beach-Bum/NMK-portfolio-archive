@@ -1,0 +1,79 @@
+{
+  "section": "Interiors / Architecture",
+  "title": "NikeLab / Tokyo",
+  "slug": "nikelab-tokyo",
+  "description": "",
+  "text": [
+    "NikeLab / Tokyo"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524930882907-8Z5XS9PEO2OOXXWX5SSB/nike_lab_ma5_012_original.jpg",
+      "filename": "nike_lab_ma5_012_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nikelab-tokyo/nike_lab_ma5_012_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524930769323-IHOB2H7X96MX5UAICDGE/nike_lab_ma5_003_original.jpg",
+      "filename": "nike_lab_ma5_003_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nikelab-tokyo/nike_lab_ma5_003_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524930773248-UNPX6VXF9MGBZH9OU8PS/nike_lab_ma5_061_original.jpg",
+      "filename": "nike_lab_ma5_061_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nikelab-tokyo/nike_lab_ma5_061_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524930781786-V17ZD76VR0WVV6ZBSPTZ/nike_lab_ma5_055_original.jpg",
+      "filename": "nike_lab_ma5_055_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nikelab-tokyo/nike_lab_ma5_055_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524930862889-D6E213AIUDOA6T2LC4LC/nike_lab_ma5_054_original.jpg",
+      "filename": "nike_lab_ma5_054_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nikelab-tokyo/nike_lab_ma5_054_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524930868080-PWF02R878TPZ1EOC9ZZM/nike_lab_ma5_052_original.jpg",
+      "filename": "nike_lab_ma5_052_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nikelab-tokyo/nike_lab_ma5_052_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524930874490-ZGXF25GK8XZM8RCZI0N3/nike_lab_ma5_030_original.jpg",
+      "filename": "nike_lab_ma5_030_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nikelab-tokyo/nike_lab_ma5_030_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524930880377-YPXGFME3AN4WIXWT9TO0/nike_lab_ma5_018_original.jpg",
+      "filename": "nike_lab_ma5_018_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nikelab-tokyo/nike_lab_ma5_018_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524930974763-YYF0Q3K3C8TQPA9F9E64/nike_lab_ma5_015_original.jpg",
+      "filename": "nike_lab_ma5_015_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nikelab-tokyo/nike_lab_ma5_015_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524930993682-XFFAELS844MQR9XPD7RG/nike_lab_ma5_050_original.jpg",
+      "filename": "nike_lab_ma5_050_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nikelab-tokyo/nike_lab_ma5_050_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/interiors-architecture/nikelab-tokyo/extra-001.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

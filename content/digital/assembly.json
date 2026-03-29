@@ -1,0 +1,25 @@
+{
+  "section": "Digital",
+  "title": "Assembly",
+  "slug": "assembly",
+  "description": "",
+  "text": [
+    "Assembly"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589889421387-9WOLQ8WYTIVZHVHL9MKX/Assembly_Desktop+1440+%2B+Sans.png",
+      "filename": "Assembly_Desktop 1440 + Sans.png",
+      "source": "api",
+      "localPath": "assets/digital/assembly/Assembly_Desktop 1440 + Sans.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/digital/assembly/extra-001.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

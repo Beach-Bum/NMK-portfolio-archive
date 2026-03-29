@@ -1,0 +1,823 @@
+{
+  "section": "Interiors / Architecture",
+  "title": "Nike NYHQ",
+  "slug": "nike-hq",
+  "description": "",
+  "text": [
+    "Nike NYHQ"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095612180-T2YZRZY2KOVVRGZHRZ4S/3_Page_001.jpg",
+      "filename": "3_Page_001.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_001.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095590795-2JOFMNP4L9W12IC57K8N/3_Page_002.jpg",
+      "filename": "3_Page_002.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_002.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095596133-GSW6FOBY406N6I55ZEY4/3_Page_003.jpg",
+      "filename": "3_Page_003.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_003.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095598596-MTTWQ231J4JS9B7B3M99/3_Page_004.jpg",
+      "filename": "3_Page_004.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_004.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095601670-J2PDWHN888J3E224F14L/3_Page_005.jpg",
+      "filename": "3_Page_005.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_005.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095604323-G2PWQXRJMUERO70TAWEZ/3_Page_006.jpg",
+      "filename": "3_Page_006.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_006.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095612072-PU619BIQHD13BKHDK7XW/3_Page_007.jpg",
+      "filename": "3_Page_007.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_007.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095632270-WOGLNCN151ANFGO5EFBD/3_Page_008.jpg",
+      "filename": "3_Page_008.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_008.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095616634-R8WNX5M3RCMMAFXEF5GI/3_Page_009.jpg",
+      "filename": "3_Page_009.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_009.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095620217-SRO0H46HGGEYMKCV8JQO/3_Page_010.jpg",
+      "filename": "3_Page_010.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_010.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095644000-4FDT5Q0Q4NJVU9MVX0R7/3_Page_011.jpg",
+      "filename": "3_Page_011.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_011.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095643021-63ZXCH8RTED9QJ8N4KZD/3_Page_012.jpg",
+      "filename": "3_Page_012.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_012.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095644939-4A28OVFCW2JGQR8JNY07/3_Page_013.jpg",
+      "filename": "3_Page_013.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_013.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095670519-NUF9EWV40W6DQGC7E6SD/3_Page_014.jpg",
+      "filename": "3_Page_014.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_014.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095647979-7PFX5IR7M3EMON23G5H9/3_Page_015.jpg",
+      "filename": "3_Page_015.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_015.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095650990-ZCB8HIX3MPC1DSZJMQNV/3_Page_016.jpg",
+      "filename": "3_Page_016.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_016.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095657232-ZN1YAQ8VWHPSYP7ZRRLT/3_Page_017.jpg",
+      "filename": "3_Page_017.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_017.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095662459-Z1OEMTEIDMQFWBJKFFSF/3_Page_018.jpg",
+      "filename": "3_Page_018.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_018.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095665685-4UY9YXW4ZC8AIJ30P113/3_Page_019.jpg",
+      "filename": "3_Page_019.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_019.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095672829-AYQ2LEATWD7A1ZE7OVPH/3_Page_020.jpg",
+      "filename": "3_Page_020.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_020.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095678349-KVV2D79SH1SCZGJ8BHP8/3_Page_021.jpg",
+      "filename": "3_Page_021.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_021.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095683260-67V5AYQB36GKRNKRL3AT/3_Page_022.jpg",
+      "filename": "3_Page_022.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_022.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095681580-CMT4EEGCMBKWGSMOAUUV/3_Page_023.jpg",
+      "filename": "3_Page_023.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_023.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095715372-O17KGM524TKM2PS9GNNF/3_Page_024.jpg",
+      "filename": "3_Page_024.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_024.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095710382-DULHH9ZVY8RZ4AHYOMXL/3_Page_025.jpg",
+      "filename": "3_Page_025.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_025.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095713525-ADL472FTU7J5BC0N1O2T/3_Page_026.jpg",
+      "filename": "3_Page_026.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_026.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095715862-BX2ONDNBHY98HPLCYJR6/3_Page_027.jpg",
+      "filename": "3_Page_027.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_027.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095717758-0FGHREBLBGOBBHJR6HDM/3_Page_028.jpg",
+      "filename": "3_Page_028.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_028.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095731192-YU9G6LYYZRSRBOMGOTW5/3_Page_029.jpg",
+      "filename": "3_Page_029.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_029.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095725521-MOBKPC6L897Y9LWBGQZV/3_Page_030.jpg",
+      "filename": "3_Page_030.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_030.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095740855-YCEDCP6WXCL3AWQDYDF4/3_Page_031.jpg",
+      "filename": "3_Page_031.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_031.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095747923-Y70PDFIBM128J2B7YVPK/3_Page_032.jpg",
+      "filename": "3_Page_032.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_032.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095748359-JGEJ1FIG41J97X6IZD5W/3_Page_033.jpg",
+      "filename": "3_Page_033.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_033.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095772892-RREHLGET3ZM3SXZCFJND/3_Page_034.jpg",
+      "filename": "3_Page_034.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_034.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095755293-QW2TOHNZGLNNRW3LWYA9/3_Page_035.jpg",
+      "filename": "3_Page_035.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_035.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095761873-GN6EKK83BGD85GOKUSR4/3_Page_036.jpg",
+      "filename": "3_Page_036.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_036.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095769264-3WNZIFY1SVTKW2KVRL7L/3_Page_037.jpg",
+      "filename": "3_Page_037.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_037.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095779846-POV3DIKQ09I6Q0IWXSMF/3_Page_038.jpg",
+      "filename": "3_Page_038.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_038.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095786930-XS2O8O0B96BFSSSKPP83/3_Page_039.jpg",
+      "filename": "3_Page_039.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_039.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095787287-BJ8L8QLZZ5LK5VSKRWED/3_Page_040.jpg",
+      "filename": "3_Page_040.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_040.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095801772-DF6MXX04DOTSSSQVYH87/3_Page_041.jpg",
+      "filename": "3_Page_041.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_041.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095798148-EL5W4VG6KRIIM37CIDOL/3_Page_042.jpg",
+      "filename": "3_Page_042.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_042.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095803574-WKWBN8VXZ7ZNSZKLVUD0/3_Page_043.jpg",
+      "filename": "3_Page_043.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_043.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095809417-SAAPP7UK1FNMB5QER72D/3_Page_044.jpg",
+      "filename": "3_Page_044.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_044.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095810399-BWXKCDKWR4SW4E7X3BHN/3_Page_045.jpg",
+      "filename": "3_Page_045.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_045.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095826989-R560YZ3JH2F9MA8O679X/3_Page_046.jpg",
+      "filename": "3_Page_046.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_046.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095827584-9ZJN5QN0BS26HC16AYYW/3_Page_047.jpg",
+      "filename": "3_Page_047.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_047.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095832313-RX05RXWHI0BLTOGOTXTB/3_Page_048.jpg",
+      "filename": "3_Page_048.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_048.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095839274-73UUC6O2LZNQYJUQKON4/3_Page_049.jpg",
+      "filename": "3_Page_049.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_049.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095854677-26XBUDZPZHP44ZYWK5WB/3_Page_050.jpg",
+      "filename": "3_Page_050.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_050.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095854915-HZAQEY1IMQJEZ6XI290H/3_Page_051.jpg",
+      "filename": "3_Page_051.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_051.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095869844-0DSXR4N9RU7ZNJ74CF6L/3_Page_052.jpg",
+      "filename": "3_Page_052.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_052.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095858946-5CQSPYH370IB3MHOX286/3_Page_053.jpg",
+      "filename": "3_Page_053.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_053.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095870088-E8ZEVN911BWU7XUGTDNE/3_Page_054.jpg",
+      "filename": "3_Page_054.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_054.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095885780-OZY9HD39NPC6DAY50QTF/3_Page_055.jpg",
+      "filename": "3_Page_055.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_055.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095885424-IY1NKMH0DEEPLDUTKRA1/3_Page_056.jpg",
+      "filename": "3_Page_056.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_056.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095896476-D32XZOEQANEHHUCTZ8IV/3_Page_057.jpg",
+      "filename": "3_Page_057.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_057.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095897752-B29DO90FY68YR2A7R2QZ/3_Page_058.jpg",
+      "filename": "3_Page_058.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_058.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095902650-M77YGOW830B129478DFL/3_Page_059.jpg",
+      "filename": "3_Page_059.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_059.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095902915-KBT1G80VRVM0RTWN8GPS/3_Page_060.jpg",
+      "filename": "3_Page_060.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_060.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095930610-TJGV1DBIQP6FT9YH5FET/3_Page_061.jpg",
+      "filename": "3_Page_061.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_061.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095930833-I62KM3WP46I2MD87ZZFA/3_Page_062.jpg",
+      "filename": "3_Page_062.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_062.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095935737-CF3Q2D9ESS6LWVOEXY8W/3_Page_063.jpg",
+      "filename": "3_Page_063.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_063.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095937002-06ETJDFCT1V6SKEW6O1X/3_Page_064.jpg",
+      "filename": "3_Page_064.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_064.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095938125-TDOGHWYV11JVBUROHKJA/3_Page_065.jpg",
+      "filename": "3_Page_065.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_065.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095945129-WL9WNSRX3ZTN3EL3WCY8/3_Page_066.jpg",
+      "filename": "3_Page_066.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_066.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095943794-Y3HJ5GIFO6410LDJUZYV/3_Page_067.jpg",
+      "filename": "3_Page_067.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_067.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095947925-K5SFFPZCYDVL8GI68N4N/3_Page_068.jpg",
+      "filename": "3_Page_068.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_068.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095948414-84C73A5C59I2UJ24S0RJ/3_Page_069.jpg",
+      "filename": "3_Page_069.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_069.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095977469-GBTJL180DB32XMJ63NSR/3_Page_070.jpg",
+      "filename": "3_Page_070.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_070.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095977813-2NH03H98DIJXTQ6AJ1VY/3_Page_071.jpg",
+      "filename": "3_Page_071.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_071.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095980525-SMOIMVKL258WL48SFF7C/3_Page_072.jpg",
+      "filename": "3_Page_072.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_072.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095980869-TWUMW5F3N3COT05E4P5Y/3_Page_073.jpg",
+      "filename": "3_Page_073.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_073.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095988744-OUW9VCU5U5JA8M8VBGJV/3_Page_074.jpg",
+      "filename": "3_Page_074.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_074.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095988880-DF47EQSX8597U9FR29EL/3_Page_075.jpg",
+      "filename": "3_Page_075.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_075.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095999659-5YJ8LWKQ3J0NKGKU2TK3/3_Page_076.jpg",
+      "filename": "3_Page_076.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_076.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525095999285-7HUOBWE9A2UHS2966Q4G/3_Page_077.jpg",
+      "filename": "3_Page_077.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_077.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096022096-UE5W7YHVW45DNPY0USA8/3_Page_078.jpg",
+      "filename": "3_Page_078.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_078.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096023786-IH14GNDDRGTBVXFX2PYZ/3_Page_079.jpg",
+      "filename": "3_Page_079.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_079.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096037327-JD9RFVWRAGFHKYGNZSUL/3_Page_080.jpg",
+      "filename": "3_Page_080.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_080.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096043466-2YMJGO4VVETJ0H0VJN67/3_Page_081.jpg",
+      "filename": "3_Page_081.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_081.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096045562-394ZX70AM73Z44LNVFUT/3_Page_082.jpg",
+      "filename": "3_Page_082.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_082.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096059377-L1PDK6WRGN82S7NFTV3S/3_Page_083.jpg",
+      "filename": "3_Page_083.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_083.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096054434-IM0551GK1NOO8F2M8CIG/3_Page_084.jpg",
+      "filename": "3_Page_084.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_084.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096058202-5VGAH187QBIJCWACYKMZ/3_Page_085.jpg",
+      "filename": "3_Page_085.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_085.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096066175-DF39Q5O91FGF0NRXOE53/3_Page_086.jpg",
+      "filename": "3_Page_086.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_086.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096066520-U7JL9M4OVIMAGMDO7U3R/3_Page_087.jpg",
+      "filename": "3_Page_087.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_087.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096078340-TTW6T4EGWTZLV49YENXN/3_Page_088.jpg",
+      "filename": "3_Page_088.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_088.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096077622-32K4EKU21YBIJB2JSPLU/3_Page_089.jpg",
+      "filename": "3_Page_089.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_089.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096090295-OCWXMMLNS9QZTBZP9MG8/3_Page_090.jpg",
+      "filename": "3_Page_090.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_090.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096092285-8WH54G48PHWPGQ8U7CN4/3_Page_091.jpg",
+      "filename": "3_Page_091.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_091.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096110742-8WR5IH6W3S7D325X957A/3_Page_092.jpg",
+      "filename": "3_Page_092.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_092.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096111093-XH6RT2P51T700F1MF10G/3_Page_093.jpg",
+      "filename": "3_Page_093.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_093.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096119457-6X360M3OX4T8X5CB0ZJS/3_Page_094.jpg",
+      "filename": "3_Page_094.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_094.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096120021-YFT3ZHD93OWSQ9VS0STD/3_Page_095.jpg",
+      "filename": "3_Page_095.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_095.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096133878-VRS2O9FJ5J7LOCRMZJNI/3_Page_096.jpg",
+      "filename": "3_Page_096.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_096.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096134575-TG719TXFBLQZH7LUPCK7/3_Page_097.jpg",
+      "filename": "3_Page_097.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_097.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096183426-FI7F2PPPI8VBFNEZO9BW/3_Page_098.jpg",
+      "filename": "3_Page_098.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_098.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096182412-XIMPNVUGRCZR9622UX5I/3_Page_099.jpg",
+      "filename": "3_Page_099.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_099.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096194192-97BO8RLHJC4B546GSIW3/3_Page_100.jpg",
+      "filename": "3_Page_100.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_100.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096193465-F92FHG3QUP261RPC78XT/3_Page_101.jpg",
+      "filename": "3_Page_101.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_101.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096203150-MJT7I8TS606HCN5VPZ56/3_Page_102.jpg",
+      "filename": "3_Page_102.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_102.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096203498-IWC0W9LMJD3Z7MBLAZQO/3_Page_103.jpg",
+      "filename": "3_Page_103.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_103.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096214728-PD5Z364SNWLIP3TUAP34/3_Page_104.jpg",
+      "filename": "3_Page_104.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_104.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096216444-UX41F1PLV87BBV9H4UZ0/3_Page_105.jpg",
+      "filename": "3_Page_105.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_105.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096218811-0936G291C8OK45SGH1BE/3_Page_106.jpg",
+      "filename": "3_Page_106.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_106.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096219044-N96KN6FN65U8EBKQF5A6/3_Page_107.jpg",
+      "filename": "3_Page_107.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_107.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096235428-D8K2K86Y8AXRMWCO1ZB7/3_Page_108.jpg",
+      "filename": "3_Page_108.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_108.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096235667-X1HLDPEM3JEJX204OFV9/3_Page_109.jpg",
+      "filename": "3_Page_109.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_109.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096248670-3L4NX1HRMGU55KP3DO92/3_Page_110.jpg",
+      "filename": "3_Page_110.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_110.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096249593-N8QB9RYG1UBDB61HKZR9/3_Page_111.jpg",
+      "filename": "3_Page_111.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_111.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096270736-UXWY61H3FCUDJ4BG5L00/3_Page_112.jpg",
+      "filename": "3_Page_112.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_112.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096275844-LKIYTUKUGZ5J5CYDXV22/3_Page_113.jpg",
+      "filename": "3_Page_113.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_113.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096295552-2UT5HFY4GWRUTDH06H0V/3_Page_114.jpg",
+      "filename": "3_Page_114.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_114.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096294094-UJALI1HTYVYJRAU95QLM/3_Page_115.jpg",
+      "filename": "3_Page_115.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_115.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096320981-O6V95I9RTT4W5R1BSHZH/3_Page_116.jpg",
+      "filename": "3_Page_116.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_116.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096324347-JQMLXBHDQTXIJRG5J0Z5/3_Page_117.jpg",
+      "filename": "3_Page_117.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_117.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096349450-Y2Y577AOW1UPLU6W8GFE/3_Page_118.jpg",
+      "filename": "3_Page_118.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_118.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096351257-GCOLX7SAN0IZOJAETU6Q/3_Page_119.jpg",
+      "filename": "3_Page_119.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_119.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096370474-M5454IAFNWEAQ3261S32/3_Page_120.jpg",
+      "filename": "3_Page_120.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_120.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096366388-C7E9EEGAY43R6VTJGD3S/3_Page_121.jpg",
+      "filename": "3_Page_121.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_121.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096370235-924QQH2ZU2CDQ0W575UZ/3_Page_122.jpg",
+      "filename": "3_Page_122.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_122.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096487905-ZXSHADIXAL5GN3V68PEO/3_Page_123.jpg",
+      "filename": "3_Page_123.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_123.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096487906-KHVLB7ELYK5VXNPRLT9H/3_Page_124.jpg",
+      "filename": "3_Page_124.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_124.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096496988-B5GP9QG6Z3TQD09DU8CW/3_Page_125.jpg",
+      "filename": "3_Page_125.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_125.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096496354-5OOJI9YXDXFK3YE7EDMQ/3_Page_126.jpg",
+      "filename": "3_Page_126.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_126.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096509190-BH54FZ0ZZINZQISWXIH6/3_Page_127.jpg",
+      "filename": "3_Page_127.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_127.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096510514-T6F9E44OQ1E1YKB785LA/3_Page_128.jpg",
+      "filename": "3_Page_128.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_128.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096512191-4CVCGJSL3XJ3D8MMU32I/3_Page_129.jpg",
+      "filename": "3_Page_129.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_129.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096514865-WAEDWK4065QL96JIF222/3_Page_130.jpg",
+      "filename": "3_Page_130.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_130.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096515945-44CRN9QGPTUQLKKEIRRQ/3_Page_131.jpg",
+      "filename": "3_Page_131.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_131.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096540239-OFTOPFGH0APT2SG4E8GZ/3_Page_132.jpg",
+      "filename": "3_Page_132.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_132.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525096542751-HRWEE5G1F9I948SO1H91/3_Page_133.jpg",
+      "filename": "3_Page_133.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-nyhq/3_Page_133.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/interiors-architecture/nike-nyhq/extra-001.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1527612861707-Z8RHLXMNEA5FN37109KM/Nike_Office_1.jpg",
+      "filename": "extra-002.jpg",
+      "source": "html",
+      "localPath": "assets/interiors-architecture/nike-nyhq/extra-002.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

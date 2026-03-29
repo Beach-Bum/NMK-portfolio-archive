@@ -1,0 +1,37 @@
+{
+  "section": "Interiors / Architecture",
+  "title": "Magic Leap Experience Space",
+  "slug": "magic-leap-experience-space",
+  "description": "",
+  "text": [
+    "Magic Leap Experience Space"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589455824813-H0WX0HQH51CDS1RJ1A1R/BrandRoom.jpg",
+      "filename": "BrandRoom.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/magic-leap-experience-space/BrandRoom.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589455810231-5WKGA8BDL9NBPGP92M93/roomrender_onbrand01.png",
+      "filename": "roomrender_onbrand01.png",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/magic-leap-experience-space/roomrender_onbrand01.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589458041820-VLW4IACSHON0SKV1G3NY/FOV-wireframe2.jpg",
+      "filename": "FOV-wireframe2.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/magic-leap-experience-space/FOV-wireframe2.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/interiors-architecture/magic-leap-experience-space/extra-001.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

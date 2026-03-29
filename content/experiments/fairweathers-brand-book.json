@@ -1,0 +1,433 @@
+{
+  "section": "Experiments",
+  "title": "Fairweather's Brand Book",
+  "slug": "fairweathers-brand-book",
+  "description": "",
+  "text": [
+    "Fairweather's Brand Book"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910712400-VQ8AWR7RCQBE6M6J1O1E/20130420_FWS+Book_Page_01.png",
+      "filename": "20130420_FWS Book_Page_01.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_01.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910712573-8K89PUP3P2PNL658C8UY/20130420_FWS+Book_Page_02.png",
+      "filename": "20130420_FWS Book_Page_02.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_02.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910713039-X6F1TELEAJR3ZC783NCA/20130420_FWS+Book_Page_03.png",
+      "filename": "20130420_FWS Book_Page_03.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_03.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910713199-PDHXWXBOSYWDNIZKYYCQ/20130420_FWS+Book_Page_04.png",
+      "filename": "20130420_FWS Book_Page_04.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_04.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910713404-4ZO426RXOFXRDNTCU0YP/20130420_FWS+Book_Page_05.png",
+      "filename": "20130420_FWS Book_Page_05.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_05.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910713766-RVONLDZHYRAIZ50M57IV/20130420_FWS+Book_Page_06.png",
+      "filename": "20130420_FWS Book_Page_06.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_06.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910713742-XKZLN5I84MR1QVATBRFK/20130420_FWS+Book_Page_07.png",
+      "filename": "20130420_FWS Book_Page_07.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_07.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910714384-V4L9MFOQ067K31UWL2O0/20130420_FWS+Book_Page_08.png",
+      "filename": "20130420_FWS Book_Page_08.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_08.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910715027-K6Y69VX4MQZJ5FIQKJWP/20130420_FWS+Book_Page_09.png",
+      "filename": "20130420_FWS Book_Page_09.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_09.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910715178-H5RHCT0ICNDFZSKZZATL/20130420_FWS+Book_Page_10.png",
+      "filename": "20130420_FWS Book_Page_10.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_10.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910716130-N61XE8I7HSAN5CTGGSU4/20130420_FWS+Book_Page_11.png",
+      "filename": "20130420_FWS Book_Page_11.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_11.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910715978-P0UECLE772507CO9UV2E/20130420_FWS+Book_Page_12.png",
+      "filename": "20130420_FWS Book_Page_12.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_12.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910716431-1K56YNADXDP6VWOUSKP0/20130420_FWS+Book_Page_13.png",
+      "filename": "20130420_FWS Book_Page_13.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_13.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910716594-TLDIQ6YU7WSLT2UB6UWR/20130420_FWS+Book_Page_14.png",
+      "filename": "20130420_FWS Book_Page_14.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_14.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910717393-NABW83F3YSYSAKS622E1/20130420_FWS+Book_Page_15.png",
+      "filename": "20130420_FWS Book_Page_15.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_15.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910723037-UKSR9MDIISKOQ91I2VRP/20130420_FWS+Book_Page_16.png",
+      "filename": "20130420_FWS Book_Page_16.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_16.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910719182-PJB7RZ8TFX5WSIKXWMEO/20130420_FWS+Book_Page_17.png",
+      "filename": "20130420_FWS Book_Page_17.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_17.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910719980-Y2WXM6VTNYBPJODEU2HT/20130420_FWS+Book_Page_18.png",
+      "filename": "20130420_FWS Book_Page_18.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_18.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910721735-FZTBQM4P3GLBLH1TN4F4/20130420_FWS+Book_Page_19.png",
+      "filename": "20130420_FWS Book_Page_19.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_19.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910722497-1VVRS2OSDE9JYXN43UQT/20130420_FWS+Book_Page_20.png",
+      "filename": "20130420_FWS Book_Page_20.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_20.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910722947-4Z3T187VPU97P73F1E1X/20130420_FWS+Book_Page_21.png",
+      "filename": "20130420_FWS Book_Page_21.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_21.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910723313-FIOM3WY81YLUAXJMYXRH/20130420_FWS+Book_Page_22.png",
+      "filename": "20130420_FWS Book_Page_22.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_22.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910750965-D5EXS1ML0R86PB0RCK7G/20130420_FWS+Book_Page_23.png",
+      "filename": "20130420_FWS Book_Page_23.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_23.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910724655-1RGXROMFT67FL00WM3FF/20130420_FWS+Book_Page_24.png",
+      "filename": "20130420_FWS Book_Page_24.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_24.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910727927-UGQ5NS3FBKWFUNUPSZCH/20130420_FWS+Book_Page_25.png",
+      "filename": "20130420_FWS Book_Page_25.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_25.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910735859-9Y8Q93O1YT5SARTFAEN6/20130420_FWS+Book_Page_26.png",
+      "filename": "20130420_FWS Book_Page_26.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_26.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910740350-664J70UDTWIB18T9NN1X/20130420_FWS+Book_Page_27.png",
+      "filename": "20130420_FWS Book_Page_27.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_27.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910744612-EF7HRSTJABE96C01B732/20130420_FWS+Book_Page_28.png",
+      "filename": "20130420_FWS Book_Page_28.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_28.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910753534-LWMFM627G684AHVISMJ9/20130420_FWS+Book_Page_29.png",
+      "filename": "20130420_FWS Book_Page_29.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_29.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910761067-J2LD737RP1597DUFTTOP/20130420_FWS+Book_Page_30.png",
+      "filename": "20130420_FWS Book_Page_30.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_30.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910758759-3TIQXV6GAFBP0XHDWVOL/20130420_FWS+Book_Page_31.png",
+      "filename": "20130420_FWS Book_Page_31.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_31.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910765425-BSOG81B154TYBMCGEWK3/20130420_FWS+Book_Page_32.png",
+      "filename": "20130420_FWS Book_Page_32.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_32.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910765053-VJLQWY3L488KY3B5RVDW/20130420_FWS+Book_Page_33.png",
+      "filename": "20130420_FWS Book_Page_33.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_33.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910785340-QG8OGMTVCH6JNVVDUPT8/20130420_FWS+Book_Page_34.png",
+      "filename": "20130420_FWS Book_Page_34.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_34.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910785214-VC4ZVHE4CAQZY8TNCTFJ/20130420_FWS+Book_Page_35.png",
+      "filename": "20130420_FWS Book_Page_35.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_35.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910801145-7R1O4U6OQ5TRQNT9PLUI/20130420_FWS+Book_Page_36.png",
+      "filename": "20130420_FWS Book_Page_36.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_36.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910789266-7FL0NLYS6R9EXD84NDHV/20130420_FWS+Book_Page_37.png",
+      "filename": "20130420_FWS Book_Page_37.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_37.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910790940-5XG13H1Y2B68GXP1P1TT/20130420_FWS+Book_Page_38.png",
+      "filename": "20130420_FWS Book_Page_38.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_38.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910791702-6SNJJMV52K3V0I8LLUR9/20130420_FWS+Book_Page_39.png",
+      "filename": "20130420_FWS Book_Page_39.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_39.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910792728-I8FJPSZEAI7LTU0HKPV0/20130420_FWS+Book_Page_40.png",
+      "filename": "20130420_FWS Book_Page_40.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_40.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910800107-WMQGJV9LF7GHYLN8Y3TQ/20130420_FWS+Book_Page_41.png",
+      "filename": "20130420_FWS Book_Page_41.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_41.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910800849-5PYKTEYCQQT6ZA8S6W85/20130420_FWS+Book_Page_42.png",
+      "filename": "20130420_FWS Book_Page_42.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_42.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910811593-OK7E7GJC9B3HCGNABR4M/20130420_FWS+Book_Page_43.png",
+      "filename": "20130420_FWS Book_Page_43.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_43.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910816641-A1FTVVIDO8W1MFIZFFAU/20130420_FWS+Book_Page_44.png",
+      "filename": "20130420_FWS Book_Page_44.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_44.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910823403-CT8SA0MNQDP97VREMO7A/20130420_FWS+Book_Page_45.png",
+      "filename": "20130420_FWS Book_Page_45.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_45.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910836740-AH7A43YV0SWD8ILNBIBS/20130420_FWS+Book_Page_46.png",
+      "filename": "20130420_FWS Book_Page_46.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_46.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910842421-SHGPFTZZ7DYLXHOXXXWY/20130420_FWS+Book_Page_47.png",
+      "filename": "20130420_FWS Book_Page_47.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_47.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910837336-KCBG4G4COH5YWK2BE6RS/20130420_FWS+Book_Page_48.png",
+      "filename": "20130420_FWS Book_Page_48.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_48.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910850918-DT1DCHNRY232F707KWXH/20130420_FWS+Book_Page_49.png",
+      "filename": "20130420_FWS Book_Page_49.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_49.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910857208-WHAEJJZ29MFPTDAPQQ5Q/20130420_FWS+Book_Page_50.png",
+      "filename": "20130420_FWS Book_Page_50.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_50.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910864881-P9DPJUTRB785R5WCAWB7/20130420_FWS+Book_Page_51.png",
+      "filename": "20130420_FWS Book_Page_51.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_51.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910858085-1SC50NTUU5YUH1AMUER6/20130420_FWS+Book_Page_52.png",
+      "filename": "20130420_FWS Book_Page_52.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_52.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910859837-CBDEO9MQGKN10ICOVMV3/20130420_FWS+Book_Page_53.png",
+      "filename": "20130420_FWS Book_Page_53.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_53.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910913260-IDW9ZHRYAXG6Q73MEYLA/20130420_FWS+Book_Page_54.png",
+      "filename": "20130420_FWS Book_Page_54.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_54.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910927431-TXV9YNMJU2DSIXJ2XTXG/20130420_FWS+Book_Page_55.png",
+      "filename": "20130420_FWS Book_Page_55.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_55.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910949614-FONS2KMPOSQ0X39XQ6GA/20130420_FWS+Book_Page_56.png",
+      "filename": "20130420_FWS Book_Page_56.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_56.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910950914-XAIF1NP5N06D00UUTL92/20130420_FWS+Book_Page_57.png",
+      "filename": "20130420_FWS Book_Page_57.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_57.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910981049-QI6572HW3UQNO4PA73YO/20130420_FWS+Book_Page_58.png",
+      "filename": "20130420_FWS Book_Page_58.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_58.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910978088-72WZP6FF6OB5D45I7DA7/20130420_FWS+Book_Page_59.png",
+      "filename": "20130420_FWS Book_Page_59.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_59.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910982522-OU9O3V7BJCJHWZ813NDF/20130420_FWS+Book_Page_60.png",
+      "filename": "20130420_FWS Book_Page_60.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_60.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910981942-H88008CUAUH0D0A07XA3/20130420_FWS+Book_Page_61.png",
+      "filename": "20130420_FWS Book_Page_61.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_61.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910989854-A3H0V4K12OE21HI66XY1/20130420_FWS+Book_Page_62.png",
+      "filename": "20130420_FWS Book_Page_62.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_62.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589910990707-BUTQ0X15PENV2YK98H27/20130420_FWS+Book_Page_63.png",
+      "filename": "20130420_FWS Book_Page_63.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_63.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589911005241-81YEVDW661HQ0D8MRZXG/20130420_FWS+Book_Page_65.png",
+      "filename": "20130420_FWS Book_Page_65.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_65.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589911005765-49VIXJR1XLAODSUZC1HI/20130420_FWS+Book_Page_66.png",
+      "filename": "20130420_FWS Book_Page_66.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_66.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589911006304-B3QLTJLZ79I7MWE441YE/20130420_FWS+Book_Page_67.png",
+      "filename": "20130420_FWS Book_Page_67.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_67.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589911023428-YK0AUCWL674UADUDWFM5/20130420_FWS+Book_Page_68.png",
+      "filename": "20130420_FWS Book_Page_68.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_68.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589911032320-566X1M98HVFZFMV85QM0/20130420_FWS+Book_Page_69.png",
+      "filename": "20130420_FWS Book_Page_69.png",
+      "source": "api",
+      "localPath": "assets/experiments/fairweathers-brand-book/20130420_FWS Book_Page_69.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/experiments/fairweathers-brand-book/extra-001.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1590672341695-3X198I41OEFY1SCFW4IY/1200px-Solid_blue.svg.png",
+      "filename": "extra-002.svg",
+      "source": "html",
+      "localPath": "assets/experiments/fairweathers-brand-book/extra-002.svg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

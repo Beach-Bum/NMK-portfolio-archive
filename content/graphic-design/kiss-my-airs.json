@@ -1,0 +1,61 @@
+{
+  "section": "Graphic Design / Creative Direction",
+  "title": "Kiss My Airs",
+  "slug": "new-project-92",
+  "description": "",
+  "text": [
+    "Kiss My Airs"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696507464631-QQDIYF0CIV1EZNZWEZOZ/AMD_Pages03.jpeg",
+      "filename": "AMD_Pages03.jpeg",
+      "source": "api",
+      "localPath": "assets/graphic-design/kiss-my-airs/AMD_Pages03.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696507468571-XAXD1GJXGZWT57BNGI27/AMD_Pages12.jpeg",
+      "filename": "AMD_Pages12.jpeg",
+      "source": "api",
+      "localPath": "assets/graphic-design/kiss-my-airs/AMD_Pages12.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696507468453-G7HKNYCPYBKHEHL1EWR1/AMD_Pages11.jpeg",
+      "filename": "AMD_Pages11.jpeg",
+      "source": "api",
+      "localPath": "assets/graphic-design/kiss-my-airs/AMD_Pages11.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696527545395-WRKJ1E5MUICA5T0CGRZP/Air_0.017.jpg",
+      "filename": "Air_0.017.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/kiss-my-airs/Air_0.017.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696527547852-CDKJ0M7OA4TNSEF28SAM/Air_0.024.jpg",
+      "filename": "Air_0.024.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/kiss-my-airs/Air_0.024.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696527551917-BC7AG5KY24VZ4VO16B6S/AMD_Pages02.jpg",
+      "filename": "AMD_Pages02.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/kiss-my-airs/AMD_Pages02.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696527551859-29DYSCIIB3MUSXUP80ZT/Air_0.015.jpg",
+      "filename": "Air_0.015.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/kiss-my-airs/Air_0.015.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/graphic-design/kiss-my-airs/extra-001.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

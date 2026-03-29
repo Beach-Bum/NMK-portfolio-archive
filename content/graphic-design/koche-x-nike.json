@@ -1,0 +1,37 @@
+{
+  "section": "Graphic Design / Creative Direction",
+  "title": "Koche x Nike",
+  "slug": "koche-x-nike",
+  "description": "",
+  "text": [
+    "Koche x Nike"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696507962537-5ZWK0DX9PT52CA24FKJ7/Koche_0.001.jpeg",
+      "filename": "Koche_0.001.jpeg",
+      "source": "api",
+      "localPath": "assets/graphic-design/koche-x-nike/Koche_0.001.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696507962220-J2N8RR491K8FHQIQCWIA/Koche_0.002.jpeg",
+      "filename": "Koche_0.002.jpeg",
+      "source": "api",
+      "localPath": "assets/graphic-design/koche-x-nike/Koche_0.002.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696507966701-CKDE4FO1W143Y0TXW8K7/Koche_0.003.jpeg",
+      "filename": "Koche_0.003.jpeg",
+      "source": "api",
+      "localPath": "assets/graphic-design/koche-x-nike/Koche_0.003.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/graphic-design/koche-x-nike/extra-001.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

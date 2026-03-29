@@ -1,0 +1,27 @@
+{
+  "section": "Graphic Design / Creative Direction",
+  "title": "Nike World Cup Posters",
+  "slug": "nike-posters",
+  "description": "<p>These posters were created in collaboration with Hort in Berlin and Nike Global Football in EMEA.</p><p>Creative Direction/Art Direction: Nedjelco-michel Karlovich&nbsp;<br />Design in collaboration with:&nbsp;<a href=\"http://www.hort.org.uk/\">Hort</a></p>",
+  "text": [
+    "Nike World Cup Posters",
+    "These posters were created in collaboration with Hort in Berlin and Nike Global Football in EMEA.",
+    "Creative Direction/Art Direction: Nedjelco-michel Karlovich Design in collaboration with: Hort"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/graphic-design/nike-world-cup-posters/extra-001.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1398284909620-MX7Q5KX8P0PTAUZCXH7W/-13.png",
+      "filename": "extra-002.png",
+      "source": "html",
+      "localPath": "assets/graphic-design/nike-world-cup-posters/extra-002.png"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

@@ -1,0 +1,121 @@
+{
+  "section": "Interiors / Architecture",
+  "title": "NikeLab / Art + Science",
+  "slug": "new-project-5",
+  "description": "",
+  "text": [
+    "NikeLab / Art + Science"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524922127374-8FOM1YSQ7ZXI55PXD1LZ/ArtAndScienceOfFeeling_Exterior_original.jpg",
+      "filename": "ArtAndScienceOfFeeling_Exterior_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nikelab-art-science/ArtAndScienceOfFeeling_Exterior_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524922135368-PMTC565ZH55UI71GHECX/ArtAndScienceOfFeeling_Pathway_original.jpg",
+      "filename": "ArtAndScienceOfFeeling_Pathway_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nikelab-art-science/ArtAndScienceOfFeeling_Pathway_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524922168391-J09KKGJ0O6ZUHCT4SG2X/ArtAndScienceOfFeeling_Rocks_original.jpg",
+      "filename": "ArtAndScienceOfFeeling_Rocks_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nikelab-art-science/ArtAndScienceOfFeeling_Rocks_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524922170584-3CM9WKR7GFZPD4PKCZ6H/ArtAndScienceOfFeeling_Shadow_original.jpg",
+      "filename": "ArtAndScienceOfFeeling_Shadow_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nikelab-art-science/ArtAndScienceOfFeeling_Shadow_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524922091127-N4IYUPX7GHTANGFFRUOD/ArtAndScienceOfFeeling_Column_original.jpg",
+      "filename": "ArtAndScienceOfFeeling_Column_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nikelab-art-science/ArtAndScienceOfFeeling_Column_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524922194872-1LCTF33VL9N8OSTDZ7NK/ArtAndScienceOfFeeling_ShoeBrain_original.jpg",
+      "filename": "ArtAndScienceOfFeeling_ShoeBrain_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nikelab-art-science/ArtAndScienceOfFeeling_ShoeBrain_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524922194164-E8K4WV1A1JFGBEKT6V99/ArtAndScienceOfFeeling_ShoeLineup_original.jpg",
+      "filename": "ArtAndScienceOfFeeling_ShoeLineup_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nikelab-art-science/ArtAndScienceOfFeeling_ShoeLineup_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524922095418-Q9HEFWM0PMOZGMQ052F1/ArtAndScienceOfFeeling_BellJar_original.jpg",
+      "filename": "ArtAndScienceOfFeeling_BellJar_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nikelab-art-science/ArtAndScienceOfFeeling_BellJar_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524922055696-K5HM01SQ2YSFRONXBIKZ/06_original.jpg",
+      "filename": "06_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nikelab-art-science/06_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524922054172-LWLCGCUW7X2VWWV6LJDQ/04_original.jpg",
+      "filename": "04_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nikelab-art-science/04_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524922053584-5BJ2O8AMOP0VIZZ1XI5I/01_original.jpg",
+      "filename": "01_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nikelab-art-science/01_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524927257550-DSVX1NB9KEIFZM6SOV9F/Natureza_Amplificada_RioDeJaneiro_%281%29_original.jpg",
+      "filename": "Natureza_Amplificada_RioDeJaneiro_(1)_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nikelab-art-science/Natureza_Amplificada_RioDeJaneiro_(1)_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524927259728-25O43CIRLQAPC4ZZUR18/Natureza_Amplificada_RioDeJaneiro_%283%29_original.jpg",
+      "filename": "Natureza_Amplificada_RioDeJaneiro_(3)_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nikelab-art-science/Natureza_Amplificada_RioDeJaneiro_(3)_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524927261768-Y4V9GKDOI4LGYF3I6Z4O/Natureza_Amplificada_RioDeJaneiro_%284%29_original.jpg",
+      "filename": "Natureza_Amplificada_RioDeJaneiro_(4)_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nikelab-art-science/Natureza_Amplificada_RioDeJaneiro_(4)_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524927264758-U8KEMFPDBPBNIB02Y01C/Natureza_Amplificada_RioDeJaneiro_%285%29_original.jpg",
+      "filename": "Natureza_Amplificada_RioDeJaneiro_(5)_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nikelab-art-science/Natureza_Amplificada_RioDeJaneiro_(5)_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524927273073-Z3DTH1H3BDP5PCKHR1AQ/Natureza_Amplificada_RioDeJaneiro_%287%29_original.jpg",
+      "filename": "Natureza_Amplificada_RioDeJaneiro_(7)_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nikelab-art-science/Natureza_Amplificada_RioDeJaneiro_(7)_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/interiors-architecture/nikelab-art-science/extra-001.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524922411128-L3GQAEI6X15WGVHOK1KC/ArtAndScienceOfFeeling_Pathway_original.jpg",
+      "filename": "extra-002.jpg",
+      "source": "html",
+      "localPath": "assets/interiors-architecture/nikelab-art-science/extra-002.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

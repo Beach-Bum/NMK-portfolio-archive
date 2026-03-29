@@ -1,0 +1,62 @@
+{
+  "section": "Experiments",
+  "title": "Sculptures",
+  "slug": "paintings",
+  "description": "",
+  "text": [
+    "Sculptures",
+    "Copper wire, metal mesh, wood - 30 x 20 x 14 cm"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1413394511355-R6JQAIOS6KEGGEFO27RH/NedKarlovich_7.jpg",
+      "filename": "NedKarlovich_7.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/sculptures/NedKarlovich_7.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1413394509874-UKG2QGOHC18K75JN05OB/NedKarlovich_2.jpg",
+      "filename": "NedKarlovich_2.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/sculptures/NedKarlovich_2.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1413394509917-VGX4T4NTTMIN4RG5TVAQ/NedKarlovich_3.jpg",
+      "filename": "NedKarlovich_3.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/sculptures/NedKarlovich_3.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1413394510486-IEXNWLH08YHWH3AOAAZ9/NedKarlovich_4.jpg",
+      "filename": "NedKarlovich_4.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/sculptures/NedKarlovich_4.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1413394510524-KUKMKB2NPMCUS4143GQX/NedKarlovich_5.jpg",
+      "filename": "NedKarlovich_5.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/sculptures/NedKarlovich_5.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1413394511150-0AVMZF5O0F3TYHVHM6WQ/NedKarlovich_6.jpg",
+      "filename": "NedKarlovich_6.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/sculptures/NedKarlovich_6.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1413394511756-03HBMTTOZLJCAXCGAV45/NedKarlovich_8.jpg",
+      "filename": "NedKarlovich_8.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/sculptures/NedKarlovich_8.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/experiments/sculptures/extra-001.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

@@ -1,0 +1,97 @@
+{
+  "section": "Interiors / Architecture",
+  "title": "Nike NY HQ",
+  "slug": "nike-ny-hq",
+  "description": "",
+  "text": [
+    "Nike NY HQ"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696507826072-2D0PGE19YKHVHIXWH8W5/4.jpeg",
+      "filename": "4.jpeg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-ny-hq/4.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696528007728-8VN2D22AQXOLPIERMDW3/SWOOSH-ROOF03.jpg",
+      "filename": "SWOOSH-ROOF03.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-ny-hq/SWOOSH-ROOF03.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696507825655-23XU8UDBQQKO9IFDSHFA/3.jpeg",
+      "filename": "3.jpeg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-ny-hq/3.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696507827147-617EFV56TE9GY2D8CPV4/2.jpeg",
+      "filename": "2.jpeg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-ny-hq/2.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696528007545-GC6MEKJ0XWDE0SUBHBCX/SWOOSH-ROOF04.jpg",
+      "filename": "SWOOSH-ROOF04.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-ny-hq/SWOOSH-ROOF04.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696528008833-EOXGUOOSGPBUACMN57Q9/NYHQ_0.005.jpg",
+      "filename": "NYHQ_0.005.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-ny-hq/NYHQ_0.005.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696528008884-VF342SKQPD1VZ0MIJ3YY/06_bball_court_bleacherdetail.jpg",
+      "filename": "06_bball_court_bleacherdetail.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-ny-hq/06_bball_court_bleacherdetail.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696528010549-D1LQB2VYIO5NDYWO6MAG/NYHQ_0.006.jpg",
+      "filename": "NYHQ_0.006.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-ny-hq/NYHQ_0.006.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696528011021-8BS9GX9LWR4XHALO4GPV/wsdia_nikehq_04-1600x1067.jpg",
+      "filename": "wsdia_nikehq_04-1600x1067.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-ny-hq/wsdia_nikehq_04-1600x1067.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696528012106-QVGSGVHVNHBA52V9RB81/NYHQ_0.009.jpg",
+      "filename": "NYHQ_0.009.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-ny-hq/NYHQ_0.009.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696528013016-YR6ZWJHOF1190HJUZPQW/NYHQ_0.008.jpg",
+      "filename": "NYHQ_0.008.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-ny-hq/NYHQ_0.008.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696528017502-YDSGPFD5GVX6R0QG63S7/NYHQ_0.002.jpg",
+      "filename": "NYHQ_0.002.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-ny-hq/NYHQ_0.002.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/interiors-architecture/nike-ny-hq/extra-001.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696507764975-W59YWRWH458B04VRYKZY/Gary-Horton---Nike-NYC_Pages01.jpeg",
+      "filename": "extra-002.jpeg",
+      "source": "html",
+      "localPath": "assets/interiors-architecture/nike-ny-hq/extra-002.jpeg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

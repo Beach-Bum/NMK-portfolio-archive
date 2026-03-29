@@ -1,0 +1,724 @@
+{
+  "site": "Ned Karlovich Portfolio",
+  "exported": "2026-03-29T14:28:06.599Z",
+  "sections": {
+    "Graphic Design / Creative Direction": {
+      "count": 62,
+      "images": 1265
+    },
+    "Interiors / Architecture": {
+      "count": 18,
+      "images": 356
+    },
+    "Digital": {
+      "count": 8,
+      "images": 449
+    },
+    "Experiments": {
+      "count": 10,
+      "images": 247
+    },
+    "_root": {
+      "count": 1,
+      "images": 2
+    }
+  },
+  "totalPages": 99,
+  "totalImages": 2319,
+  "totalVideos": 3,
+  "pages": [
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Nike Tech Pack",
+      "slug": "nike-tech-pack",
+      "images": 4,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Nike c/o Virgil Abloh",
+      "slug": "nike-x-off-white",
+      "images": 15,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Nike x FOG",
+      "slug": "new-project-54",
+      "images": 7,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Nike x TWIGS",
+      "slug": "nike-x-twigs",
+      "images": 4,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Nike x Off-White",
+      "slug": "nike-x-offwhite",
+      "images": 4,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Nike x Libertys",
+      "slug": "nike-x-libertys",
+      "images": 4,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Nike x Sacai",
+      "slug": "nike-x-sacai",
+      "images": 12,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Nike x RT",
+      "slug": "nike-x-rt-1",
+      "images": 7,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Koche x Nike",
+      "slug": "koche-x-nike",
+      "images": 4,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Nike Sock",
+      "slug": "nike-sock",
+      "images": 4,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Kiss My Airs",
+      "slug": "new-project-92",
+      "images": 8,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Magic Leap Visual Design",
+      "slug": "magic-leap-visual-design",
+      "images": 18,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Magic Leap 'Magic Shadows'",
+      "slug": "magic-leap",
+      "images": 6,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Jordan Brand Women / SU18",
+      "slug": "su18womens",
+      "images": 12,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Magic Leap Brand Guidelines",
+      "slug": "magic-leap-brand-guideliens",
+      "images": 175,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Jordan Brand / 23 Engineered",
+      "slug": "new-project-3",
+      "images": 8,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "AF1 Lunar Packaging",
+      "slug": "new-project",
+      "images": 5,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Jordan Brand '17 Collection",
+      "slug": "jordan-brand-17-collection",
+      "images": 15,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Air Max 97 / Swarovski",
+      "slug": "air-max-97-swarski",
+      "images": 10,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Nike Running / Paula Radcliffe",
+      "slug": "new-project-48",
+      "images": 7,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "NSW / Liberty's SU15",
+      "slug": "nsw-libertys-su15",
+      "images": 10,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Lebron X Packaging",
+      "slug": "new-project-2",
+      "images": 4,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "NSW / Travis Scott AF100",
+      "slug": "nsw-travis-scott-af100",
+      "images": 5,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Nike Football / Kim Jones",
+      "slug": "nike-football-kim-jones",
+      "images": 13,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "NSW / London Force",
+      "slug": "nsw-london-force",
+      "images": 7,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Nike Football / Carli Lloyd",
+      "slug": "new-project-72",
+      "images": 5,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Nike Air Max 87-17",
+      "slug": "new-project-1",
+      "images": 7,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Nike Apparel",
+      "slug": "nike-apparel",
+      "images": 5,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "NSW / Sneaker Boots HO15",
+      "slug": "nsw-sneaker-boots-ho15",
+      "images": 14,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "NSW SP18 / Cortez",
+      "slug": "new-project-99",
+      "images": 10,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Nike X RT",
+      "slug": "nike-x-rt",
+      "images": 5,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Jordan Brand / Women",
+      "slug": "new-project-4",
+      "images": 10,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Nike Football / Mercurial HO17",
+      "slug": "nike-football-mercurial-ho17",
+      "images": 18,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "USA Olympic Team",
+      "slug": "usa-olympic-team",
+      "images": 7,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Jordan Brand / NBA All-Star Uniforms",
+      "slug": "nsw-tech-pack-ho14",
+      "images": 12,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Rimowa Identity",
+      "slug": "rimowa-identity",
+      "images": 80,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "City of Flight",
+      "slug": "city-of-flight",
+      "images": 9,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Soul Cycle",
+      "slug": "soul-cycle",
+      "images": 102,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Jordan Brand / Westbrook",
+      "slug": "jordan-brand-westbrook",
+      "images": 6,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "NSW / Tech Pack Wind Runner SU14",
+      "slug": "nsw-tech-pack",
+      "images": 14,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "NSW / Tech Pack FA14",
+      "slug": "nsw-tech-pack-fa14",
+      "images": 13,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Nike Tech Hypermesh",
+      "slug": "nike-tech-hypermesh",
+      "images": 10,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Nike 2010 World Cup Invitation",
+      "slug": "nike-2010-world-cup-invitation",
+      "images": 7,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Nike Tiempo 94",
+      "slug": "nike-tiempo-94",
+      "images": 7,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "NSW / Tech Pack HO14",
+      "slug": "new-project-38",
+      "images": 16,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Adicolor Launch",
+      "slug": "adicolor-launch",
+      "images": 10,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "United Masters",
+      "slug": "united-masters",
+      "images": 31,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Lincoln Center Identity",
+      "slug": "lincoln-center-identity",
+      "images": 3,
+      "videos": 1
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "R/GA By Design",
+      "slug": "rga-by-design",
+      "images": 65,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Hyundai 'N' Brand Book",
+      "slug": "hyundai-n-branding",
+      "images": 128,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Nike Basketball",
+      "slug": "nike-basketball",
+      "images": 56,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "SP18 Jordan Westbrook",
+      "slug": "sp18-jordan-westbrook",
+      "images": 12,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Nike Christmas Campaign",
+      "slug": "nike-christmas",
+      "images": 2,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "IKEA Family Identity",
+      "slug": "ikea-family-identity",
+      "images": 52,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "The Fritz Düsseldorf",
+      "slug": "the-fritz-dsseldorf",
+      "images": 44,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Nike World Cup Posters",
+      "slug": "nike-posters",
+      "images": 2,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "NSW / Tech Pack 15",
+      "slug": "nsw-tech-pack-15",
+      "images": 11,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Seat Brand Campaign",
+      "slug": "seat-brand",
+      "images": 36,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Magic Leap Campaign Images",
+      "slug": "magic-leap-campaigns",
+      "images": 7,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Hotel Amstelkwartier",
+      "slug": "hotel-amstelkwartier",
+      "images": 28,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "Alv.io",
+      "slug": "alvio",
+      "images": 22,
+      "videos": 0
+    },
+    {
+      "section": "Graphic Design / Creative Direction",
+      "title": "BioMe!",
+      "slug": "biome",
+      "images": 31,
+      "videos": 0
+    },
+    {
+      "section": "Interiors / Architecture",
+      "title": "NikeLab / Art + Science",
+      "slug": "new-project-5",
+      "images": 18,
+      "videos": 0
+    },
+    {
+      "section": "Interiors / Architecture",
+      "title": "Nike NY HQ",
+      "slug": "nike-ny-hq",
+      "images": 14,
+      "videos": 0
+    },
+    {
+      "section": "Interiors / Architecture",
+      "title": "Nature of Motion / Milan",
+      "slug": "nature-of-motion-milan",
+      "images": 23,
+      "videos": 0
+    },
+    {
+      "section": "Interiors / Architecture",
+      "title": "Nike Football / South Africa",
+      "slug": "nike-football-south-africa",
+      "images": 11,
+      "videos": 0
+    },
+    {
+      "section": "Interiors / Architecture",
+      "title": "W Hotel / Amsterdam",
+      "slug": "w-hotel-amsterdam",
+      "images": 20,
+      "videos": 0
+    },
+    {
+      "section": "Interiors / Architecture",
+      "title": "NikeLab / Tokyo",
+      "slug": "nikelab-tokyo",
+      "images": 11,
+      "videos": 0
+    },
+    {
+      "section": "Interiors / Architecture",
+      "title": "The Fritz Düsseldorf",
+      "slug": "the-fritz-dsseldorf-1",
+      "images": 23,
+      "videos": 0
+    },
+    {
+      "section": "Interiors / Architecture",
+      "title": "Nike Fuel Station",
+      "slug": "nike-fuel-station",
+      "images": 9,
+      "videos": 0
+    },
+    {
+      "section": "Interiors / Architecture",
+      "title": "Nike Football / The Underground",
+      "slug": "nike-football-womens",
+      "images": 8,
+      "videos": 0
+    },
+    {
+      "section": "Interiors / Architecture",
+      "title": "Nike NYHQ",
+      "slug": "nike-hq",
+      "images": 135,
+      "videos": 0
+    },
+    {
+      "section": "Interiors / Architecture",
+      "title": "Nike 1948 / London Update",
+      "slug": "new-project-65",
+      "images": 6,
+      "videos": 0
+    },
+    {
+      "section": "Interiors / Architecture",
+      "title": "Nike - D’Arblay Street",
+      "slug": "nike-room-72",
+      "images": 16,
+      "videos": 0
+    },
+    {
+      "section": "Interiors / Architecture",
+      "title": "Nike Football / Phenom House",
+      "slug": "phenom-house",
+      "images": 11,
+      "videos": 0
+    },
+    {
+      "section": "Interiors / Architecture",
+      "title": "NikeLab / Feel London",
+      "slug": "nikelab-feel-london",
+      "images": 8,
+      "videos": 0
+    },
+    {
+      "section": "Interiors / Architecture",
+      "title": "Nike London 1948",
+      "slug": "nike-london-1948",
+      "images": 10,
+      "videos": 0
+    },
+    {
+      "section": "Interiors / Architecture",
+      "title": "Nike Running / NTL",
+      "slug": "niketown-london-running-floor",
+      "images": 14,
+      "videos": 0
+    },
+    {
+      "section": "Interiors / Architecture",
+      "title": "Nike Bootroom / NTL",
+      "slug": "nike-bootroom-ntl",
+      "images": 15,
+      "videos": 0
+    },
+    {
+      "section": "Interiors / Architecture",
+      "title": "Magic Leap Experience Space",
+      "slug": "magic-leap-experience-space",
+      "images": 4,
+      "videos": 0
+    },
+    {
+      "section": "Digital",
+      "title": "Status.im",
+      "slug": "statusim",
+      "images": 132,
+      "videos": 1
+    },
+    {
+      "section": "Digital",
+      "title": "Bradesco / Next Bank",
+      "slug": "next-bank",
+      "images": 127,
+      "videos": 1
+    },
+    {
+      "section": "Digital",
+      "title": "Givenchy.com",
+      "slug": "givenchy",
+      "images": 76,
+      "videos": 0
+    },
+    {
+      "section": "Digital",
+      "title": "Google Scout",
+      "slug": "google-scout",
+      "images": 36,
+      "videos": 0
+    },
+    {
+      "section": "Digital",
+      "title": "NSW Tech Book",
+      "slug": "nsw-tech-book",
+      "images": 6,
+      "videos": 0
+    },
+    {
+      "section": "Digital",
+      "title": "Godiva Chocolates",
+      "slug": "godiva-chocolates",
+      "images": 64,
+      "videos": 0
+    },
+    {
+      "section": "Digital",
+      "title": "Magic Leap UX/UI",
+      "slug": "magic-leap-homepage",
+      "images": 6,
+      "videos": 0
+    },
+    {
+      "section": "Digital",
+      "title": "Assembly",
+      "slug": "assembly",
+      "images": 2,
+      "videos": 0
+    },
+    {
+      "section": "Experiments",
+      "title": "Paintings",
+      "slug": "paintings-1",
+      "images": 35,
+      "videos": 0
+    },
+    {
+      "section": "Experiments",
+      "title": "Paintings II",
+      "slug": "paintings-ii",
+      "images": 48,
+      "videos": 0
+    },
+    {
+      "section": "Experiments",
+      "title": "Sculptures",
+      "slug": "paintings",
+      "images": 8,
+      "videos": 0
+    },
+    {
+      "section": "Experiments",
+      "title": "YAAYAS",
+      "slug": "yaayas",
+      "images": 12,
+      "videos": 0
+    },
+    {
+      "section": "Experiments",
+      "title": "Mller Skateboards",
+      "slug": "mller",
+      "images": 19,
+      "videos": 0
+    },
+    {
+      "section": "Experiments",
+      "title": "Old Spaces",
+      "slug": "old-spaces",
+      "images": 17,
+      "videos": 0
+    },
+    {
+      "section": "Experiments",
+      "title": "Fairweather's Brand Identity",
+      "slug": "fairweathers",
+      "images": 23,
+      "videos": 0
+    },
+    {
+      "section": "Experiments",
+      "title": "Fairweather's Brand Book",
+      "slug": "fairweathers-brand-book",
+      "images": 70,
+      "videos": 0
+    },
+    {
+      "section": "Experiments",
+      "title": "TOM",
+      "slug": "tom",
+      "images": 3,
+      "videos": 0
+    },
+    {
+      "section": "Experiments",
+      "title": "Crypto Rockets for SuperRare Auction",
+      "slug": "new-page-1",
+      "images": 12,
+      "videos": 0
+    },
+    {
+      "section": "_root",
+      "title": "About",
+      "slug": "about",
+      "images": 2,
+      "videos": 0
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "section": "Interiors / Architecture",
+  "title": "Nike Fuel Station",
+  "slug": "nike-fuel-station",
+  "description": "",
+  "text": [
+    "Nike Fuel Station"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524925434034-O46FBEEBHH4LYC3PS3SO/Nike__FuelStation_%288%29_original.jpg",
+      "filename": "Nike__FuelStation_(8)_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-fuel-station/Nike__FuelStation_(8)_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524925464999-ZO4XGAMXHZZPIHN2ST3Y/Screen+Shot+2018-04-28+at+4.23.56+PM.png",
+      "filename": "Screen Shot 2018-04-28 at 4.23.56 PM.png",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-fuel-station/Screen Shot 2018-04-28 at 4.23.56 PM.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524925486374-P8TW0HJNRX0DZFYD6RMM/Screen+Shot+2018-04-28+at+4.24.14+PM.png",
+      "filename": "Screen Shot 2018-04-28 at 4.24.14 PM.png",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-fuel-station/Screen Shot 2018-04-28 at 4.24.14 PM.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524925501847-9BEEI9NCUHLEDF7GCG2I/Screen+Shot+2018-04-28+at+4.24.25+PM.png",
+      "filename": "Screen Shot 2018-04-28 at 4.24.25 PM.png",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-fuel-station/Screen Shot 2018-04-28 at 4.24.25 PM.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524925519411-O73QOMEXVET04LKUFLS3/Screen+Shot+2018-04-28+at+4.24.37+PM.png",
+      "filename": "Screen Shot 2018-04-28 at 4.24.37 PM.png",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-fuel-station/Screen Shot 2018-04-28 at 4.24.37 PM.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524925536328-DZ9SJ2A9VNI8RK5146YN/Screen+Shot+2018-04-28+at+4.24.48+PM.png",
+      "filename": "Screen Shot 2018-04-28 at 4.24.48 PM.png",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-fuel-station/Screen Shot 2018-04-28 at 4.24.48 PM.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524925752333-C7CWCCLNECD01JGSIOHJ/Screen+Shot+2018-04-28+at+4.25.00+PM.png",
+      "filename": "Screen Shot 2018-04-28 at 4.25.00 PM.png",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-fuel-station/Screen Shot 2018-04-28 at 4.25.00 PM.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524925772999-TJ1YLBADGQ5RDDWFIHW8/Screen+Shot+2018-04-28+at+4.25.08+PM.png",
+      "filename": "Screen Shot 2018-04-28 at 4.25.08 PM.png",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-fuel-station/Screen Shot 2018-04-28 at 4.25.08 PM.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/interiors-architecture/nike-fuel-station/extra-001.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

@@ -1,0 +1,493 @@
+{
+  "section": "Graphic Design / Creative Direction",
+  "title": "Rimowa Identity",
+  "slug": "rimowa-identity",
+  "description": "",
+  "text": [
+    "Rimowa Identity"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165857883-A2J86HHK6PIP9LMBZ93I/RIMOWA_VSNK_09102017+5_Page_01.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_01.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_01.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165865995-VBY183RCXNCBAHV7R5R8/RIMOWA_VSNK_09102017+5_Page_02.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_02.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_02.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165863056-36D97PIOLNMNZZ00UBEJ/RIMOWA_VSNK_09102017+5_Page_03.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_03.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_03.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165866269-57W22QPYZUWYBZ7GKG4I/RIMOWA_VSNK_09102017+5_Page_04.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_04.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_04.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165867785-P7QINZR364RFGETMJ154/RIMOWA_VSNK_09102017+5_Page_05.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_05.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_05.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165869160-BU6FXVYI0SQ44YZLUQAT/RIMOWA_VSNK_09102017+5_Page_06.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_06.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_06.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165871085-HUEGHA3IOHAJRKZRZ72H/RIMOWA_VSNK_09102017+5_Page_07.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_07.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_07.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165876467-9B08MF6VL9LWVDO3J9C9/RIMOWA_VSNK_09102017+5_Page_08.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_08.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_08.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165877166-3QGLYFE7MAHTNGFZNS82/RIMOWA_VSNK_09102017+5_Page_09.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_09.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_09.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165882590-NDVUYUQ9M3ONWMHO90WU/RIMOWA_VSNK_09102017+5_Page_10.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_10.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_10.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165883290-UKV9V9JKG925UHOO0EXS/RIMOWA_VSNK_09102017+5_Page_11.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_11.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_11.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165886870-DDPO6M30AISIH2Z6T1FI/RIMOWA_VSNK_09102017+5_Page_12.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_12.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_12.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165885226-RS1SUE1JP5PWWD0BT8DD/RIMOWA_VSNK_09102017+5_Page_13.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_13.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_13.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165895742-YWWHET0JXAC9ZHHELUAV/RIMOWA_VSNK_09102017+5_Page_14.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_14.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_14.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165894550-ZQ3G6WTIP3M04803PB2P/RIMOWA_VSNK_09102017+5_Page_15.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_15.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_15.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165905952-YEOL927BOQ5ZLAXN7L9N/RIMOWA_VSNK_09102017+5_Page_16.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_16.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_16.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165902169-OOTZIE9JDEASP9IL5MI2/RIMOWA_VSNK_09102017+5_Page_17.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_17.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_17.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165908404-9SRUR5X5LPPAO5Y3P9TF/RIMOWA_VSNK_09102017+5_Page_18.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_18.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_18.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165912679-RGOA93YNJKMM7JLZEIQI/RIMOWA_VSNK_09102017+5_Page_19.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_19.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_19.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165917110-1M0N1DF759PSSFOEA4MM/RIMOWA_VSNK_09102017+5_Page_20.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_20.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_20.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165920557-49CTYNDMU2H6X3L6SPR5/RIMOWA_VSNK_09102017+5_Page_21.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_21.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_21.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165926478-HDO8AZM4BZ96F11T0SOC/RIMOWA_VSNK_09102017+5_Page_22.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_22.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_22.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165923885-53F6LC5IDJOL9NCYYRSQ/RIMOWA_VSNK_09102017+5_Page_23.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_23.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_23.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165926243-WD1PJKFYX72EWIWK7ICM/RIMOWA_VSNK_09102017+5_Page_24.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_24.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_24.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165930393-0961A1TEKCZZ3TKAW9KL/RIMOWA_VSNK_09102017+5_Page_25.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_25.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_25.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165937414-7STWTBJPSRXP0Z5Y1U2W/RIMOWA_VSNK_09102017+5_Page_26.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_26.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_26.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165935504-8B79EZWZFE54YYNJ38SC/RIMOWA_VSNK_09102017+5_Page_27.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_27.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_27.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165940456-Q69PBSKIPOEMF34TWGC5/RIMOWA_VSNK_09102017+5_Page_28.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_28.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_28.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165939983-NF5KKZE2TLHQBXY1NQA4/RIMOWA_VSNK_09102017+5_Page_29.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_29.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_29.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165946403-NDNI4QANU7BSC1YLXO1T/RIMOWA_VSNK_09102017+5_Page_30.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_30.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_30.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165946823-L8KT9BKMVP69D1FK4CEJ/RIMOWA_VSNK_09102017+5_Page_31.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_31.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_31.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165953329-RP0JLQ0R6NA19ZPGPPFI/RIMOWA_VSNK_09102017+5_Page_32.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_32.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_32.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165954316-3KU9YCQLO9806E5GQBQT/RIMOWA_VSNK_09102017+5_Page_33.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_33.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_33.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165958274-XW0ZGGJILHBRB4WRA1L4/RIMOWA_VSNK_09102017+5_Page_34.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_34.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_34.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165959205-96HXAEUV1KROFJJ2Y0UO/RIMOWA_VSNK_09102017+5_Page_35.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_35.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_35.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165975889-78H4SJFJHEZ967TRAPNB/RIMOWA_VSNK_09102017+5_Page_36.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_36.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_36.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165968549-QLRF6RAR15D5Y5EK7MH9/RIMOWA_VSNK_09102017+5_Page_37.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_37.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_37.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165974748-0U13S0Q736W3ADG7CBF6/RIMOWA_VSNK_09102017+5_Page_38.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_38.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_38.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165985761-KB58NYFDK6U7JK7VZZOO/RIMOWA_VSNK_09102017+5_Page_39.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_39.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_39.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165987363-TYONW6XPIH0MME0Z999D/RIMOWA_VSNK_09102017+5_Page_40.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_40.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_40.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165999963-8JNZXXRX4RA04TOA6QYB/RIMOWA_VSNK_09102017+5_Page_41.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_41.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_41.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525165999848-RNK9N2FS24ZE5UDFWO5W/RIMOWA_VSNK_09102017+5_Page_42.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_42.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_42.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166005152-SPWH7CY62WGOQC65CM9Q/RIMOWA_VSNK_09102017+5_Page_43.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_43.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_43.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166013093-SD730QHQ7Z8VF9DCDV0K/RIMOWA_VSNK_09102017+5_Page_44.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_44.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_44.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166013401-CZYGJ9ZA34ENCDHITI98/RIMOWA_VSNK_09102017+5_Page_45.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_45.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_45.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166021405-J8VEW5J80FV8GN3XLRHE/RIMOWA_VSNK_09102017+5_Page_46.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_46.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_46.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166018420-NEX8M13L9MRXBTJTOWMI/RIMOWA_VSNK_09102017+5_Page_47.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_47.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_47.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166020655-IK95BAQXM3YZYT9HECRN/RIMOWA_VSNK_09102017+5_Page_48.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_48.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_48.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166023011-JFIGQDBFDSJ2P6HF7BU8/RIMOWA_VSNK_09102017+5_Page_49.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_49.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_49.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166033047-MCN5ZJAD8UV5JWLMTHJT/RIMOWA_VSNK_09102017+5_Page_50.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_50.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_50.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166033994-W0V50C1ZFHA8TTUH3BIW/RIMOWA_VSNK_09102017+5_Page_51.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_51.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_51.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166042692-BZYNTMWU5KJ0JSHKOSPB/RIMOWA_VSNK_09102017+5_Page_52.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_52.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_52.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166042923-WHEA3HF291MSSJUPNTVL/RIMOWA_VSNK_09102017+5_Page_53.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_53.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_53.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166051705-CU1T0I0R43ET1O460JRJ/RIMOWA_VSNK_09102017+5_Page_54.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_54.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_54.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166051540-ULL3UF211D30VXFHLWZI/RIMOWA_VSNK_09102017+5_Page_55.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_55.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_55.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166057111-HIMQOQD1D81B1SSSLENZ/RIMOWA_VSNK_09102017+5_Page_56.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_56.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_56.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166054421-8JXYQ9BYNK2CAXL38BOQ/RIMOWA_VSNK_09102017+5_Page_57.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_57.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_57.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166062934-S0DUTTOM8S28UQLOWA1B/RIMOWA_VSNK_09102017+5_Page_58.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_58.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_58.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166066955-HUI3J81EMJ726WU742UP/RIMOWA_VSNK_09102017+5_Page_59.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_59.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_59.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166066600-CR7GC99WEZ0GHODS623Z/RIMOWA_VSNK_09102017+5_Page_60.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_60.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_60.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166068144-PTH6QBXSOB5BGH61UXRT/RIMOWA_VSNK_09102017+5_Page_61.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_61.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_61.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166068621-21P992MBPI0V4P82UWU2/RIMOWA_VSNK_09102017+5_Page_62.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_62.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_62.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166075100-2JSKH83HM952VLJYL9V8/RIMOWA_VSNK_09102017+5_Page_63.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_63.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_63.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166078893-S9BUL73TJ5H0J4WVRM6B/RIMOWA_VSNK_09102017+5_Page_64.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_64.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_64.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166083711-2RGCPTIQKDFVNLKT887P/RIMOWA_VSNK_09102017+5_Page_65.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_65.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_65.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166086131-7U4CF9RWS3EUT9XPBW3J/RIMOWA_VSNK_09102017+5_Page_66.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_66.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_66.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166087731-GXO4X7DCV3E51UY9D49U/RIMOWA_VSNK_09102017+5_Page_67.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_67.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_67.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166098803-1Z49JR2ZUNFIGHQLLPBW/RIMOWA_VSNK_09102017+5_Page_68.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_68.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_68.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166097335-SN8QO1JYCFFLDZXQLP9R/RIMOWA_VSNK_09102017+5_Page_69.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_69.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_69.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166107538-9VZEANG19KPM81IMLOWT/RIMOWA_VSNK_09102017+5_Page_70.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_70.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_70.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166106349-92REODQAZCZI2AE4QJTC/RIMOWA_VSNK_09102017+5_Page_71.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_71.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_71.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166111568-0ZLS3KLCF4ULUF8MUCUP/RIMOWA_VSNK_09102017+5_Page_72.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_72.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_72.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166112721-VGDULEIEPMXXMB6SJ15E/RIMOWA_VSNK_09102017+5_Page_73.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_73.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_73.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166120481-W1T68KMS6ZIVTAJLG02W/RIMOWA_VSNK_09102017+5_Page_74.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_74.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_74.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166121197-KI9DQJHJH9ZWTMNLV0QI/RIMOWA_VSNK_09102017+5_Page_75.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_75.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_75.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166126131-P67VWYFXDZJAN90TNT6S/RIMOWA_VSNK_09102017+5_Page_76.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_76.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_76.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166125904-JREA6GEZS7J0T9JAROWT/RIMOWA_VSNK_09102017+5_Page_77.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_77.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_77.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166130925-5XFY5PXE9WCG9WBU96HQ/RIMOWA_VSNK_09102017+5_Page_78.jpg",
+      "filename": "RIMOWA_VSNK_09102017 5_Page_78.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/rimowa-identity/RIMOWA_VSNK_09102017 5_Page_78.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/graphic-design/rimowa-identity/extra-001.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525166268263-Z03S9U0HC69IT0NJ358X/RIMOWA_VSNK_09102017+5_Page_03.jpg",
+      "filename": "extra-002.jpg",
+      "source": "html",
+      "localPath": "assets/graphic-design/rimowa-identity/extra-002.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

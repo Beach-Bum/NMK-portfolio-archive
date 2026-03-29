@@ -1,0 +1,37 @@
+{
+  "section": "Graphic Design / Creative Direction",
+  "title": "Nike Tech Pack",
+  "slug": "nike-tech-pack",
+  "description": "",
+  "text": [
+    "Nike Tech Pack"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696508118407-9SQEPTSKWA21Z2Z524C5/Ruby.gif",
+      "filename": "Ruby.gif",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-tech-pack/Ruby.gif"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696508121662-HEMXEIBVIZN9XTTUT073/Tech_0.060.jpeg",
+      "filename": "Tech_0.060.jpeg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-tech-pack/Tech_0.060.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696508124427-18V50XBXVTLF7TB3T6UH/Tech_0.061.jpeg",
+      "filename": "Tech_0.061.jpeg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-tech-pack/Tech_0.061.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/graphic-design/nike-tech-pack/extra-001.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

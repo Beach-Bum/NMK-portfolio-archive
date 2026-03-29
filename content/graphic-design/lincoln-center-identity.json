@@ -1,0 +1,34 @@
+{
+  "section": "Graphic Design / Creative Direction",
+  "title": "Lincoln Center Identity",
+  "slug": "lincoln-center-identity",
+  "description": "",
+  "text": [
+    "Lincoln Center Identity",
+    "Lincoln Center"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525163228035-WYDEE4S1AN5LBWZYPW7U/image-asset.jpeg",
+      "filename": "lincoln-center-identity-001.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/lincoln-center-identity/lincoln-center-identity-001.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/graphic-design/lincoln-center-identity/extra-001.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525170318515-CI772BCW17W8PQ9RIKKO/Screen+Shot+2018-05-01+at+12.24.54+PM.png",
+      "filename": "extra-002.png",
+      "source": "html",
+      "localPath": "assets/graphic-design/lincoln-center-identity/extra-002.png"
+    }
+  ],
+  "vimeos": [
+    "267225308"
+  ],
+  "youtubes": []
+}

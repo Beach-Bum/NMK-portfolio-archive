@@ -1,0 +1,37 @@
+{
+  "section": "Graphic Design / Creative Direction",
+  "title": "Nike x Libertys",
+  "slug": "nike-x-libertys",
+  "description": "",
+  "text": [
+    "Nike x Libertys"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696507595320-1YOTWQLPEHBJ8H3NRB9N/Liberty_0.003.jpeg",
+      "filename": "Liberty_0.003.jpeg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-x-libertys/Liberty_0.003.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696507611834-PUTO0IH5CWGVLGPQM2Z3/Liberty_0.001.jpeg",
+      "filename": "Liberty_0.001.jpeg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-x-libertys/Liberty_0.001.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696507616652-76MXRY8ISZKRMX6TE37H/Liberty_0.002.jpeg",
+      "filename": "Liberty_0.002.jpeg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-x-libertys/Liberty_0.002.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/graphic-design/nike-x-libertys/extra-001.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

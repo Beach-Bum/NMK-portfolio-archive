@@ -1,0 +1,55 @@
+{
+  "section": "Graphic Design / Creative Direction",
+  "title": "Magic Leap Campaign Images",
+  "slug": "magic-leap-campaigns",
+  "description": "",
+  "text": [
+    "Magic Leap Campaign Images"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589458886194-189L2QJWTQBHDHVUDK3Q/CONSUMER_LM_Astronaut_Assets_rb_v009.jpg",
+      "filename": "CONSUMER_LM_Astronaut_Assets_rb_v009.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/magic-leap-campaign-images/CONSUMER_LM_Astronaut_Assets_rb_v009.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589458886983-4CVFO3NG5WVOIL5TEJF4/CONSUMER_lm_UNDERSEA_v005.jpg",
+      "filename": "CONSUMER_lm_UNDERSEA_v005.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/magic-leap-campaign-images/CONSUMER_lm_UNDERSEA_v005.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589458888749-WX3AP87A2YWTEUB2G4VO/ENTERPRISE_LM_3D_Design_Hero_dl_v022.jpg",
+      "filename": "ENTERPRISE_LM_3D_Design_Hero_dl_v022.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/magic-leap-campaign-images/ENTERPRISE_LM_3D_Design_Hero_dl_v022.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589888961878-YSLDOFFLA15AFUQJI59Q/ML1_Developer.png",
+      "filename": "ML1_Developer.png",
+      "source": "api",
+      "localPath": "assets/graphic-design/magic-leap-campaign-images/ML1_Developer.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589889304652-WRJCUDC8UBQ66Q3JYCYX/ML1_Enterprise.jpg",
+      "filename": "ML1_Enterprise.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/magic-leap-campaign-images/ML1_Enterprise.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589889053885-ZHV7RYMSC64H6WH2JHAI/ENTERPRISE_LM_Learn_Assist_rb_v014.jpg",
+      "filename": "ENTERPRISE_LM_Learn_Assist_rb_v014.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/magic-leap-campaign-images/ENTERPRISE_LM_Learn_Assist_rb_v014.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/graphic-design/magic-leap-campaign-images/extra-001.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

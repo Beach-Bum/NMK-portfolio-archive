@@ -1,0 +1,6 @@
+.DS_Store
+node_modules/
+/tmp/
+*.sh
+scraper.mjs
+build-archive.mjs

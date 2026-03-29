@@ -1,0 +1,73 @@
+{
+  "section": "Graphic Design / Creative Direction",
+  "title": "Nike Tech Hypermesh",
+  "slug": "nike-tech-hypermesh",
+  "description": "",
+  "text": [
+    "Nike Tech Hypermesh"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524934425164-6X5OJ00RS3XFMCZEXRJ5/Nike_Tech_Hypermesh_2_native_1600.jpg",
+      "filename": "Nike_Tech_Hypermesh_2_native_1600.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-tech-hypermesh/Nike_Tech_Hypermesh_2_native_1600.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524934424451-35JLH3FF6AR3AKOAIQAE/knit_pant_1_original_native_1600.jpg",
+      "filename": "knit_pant_1_original_native_1600.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-tech-hypermesh/knit_pant_1_original_native_1600.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524934424213-3F6GU1D3OWP52VFX5JOW/Nike_Tech_Hypermesh_1_native_1600.jpg",
+      "filename": "Nike_Tech_Hypermesh_1_native_1600.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-tech-hypermesh/Nike_Tech_Hypermesh_1_native_1600.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524934425507-J0AHA153GKU65MKEQ8EH/Nike_Tech_Hypermesh_3_native_1600.jpg",
+      "filename": "Nike_Tech_Hypermesh_3_native_1600.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-tech-hypermesh/Nike_Tech_Hypermesh_3_native_1600.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524934425875-OGPCZHQUFCTQ8SX8VJDF/Nike_Tech_Hypermesh_5_native_1600.jpg",
+      "filename": "Nike_Tech_Hypermesh_5_native_1600.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-tech-hypermesh/Nike_Tech_Hypermesh_5_native_1600.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524934426335-488W2BEEMRBK88OD7IFP/Nike_Tech_Hypermesh_6_native_1600.jpg",
+      "filename": "Nike_Tech_Hypermesh_6_native_1600.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-tech-hypermesh/Nike_Tech_Hypermesh_6_native_1600.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524934427554-JONLVFQ5SC9U4F2O8388/wind_runner_1_original_native_1600.jpg",
+      "filename": "wind_runner_1_original_native_1600.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-tech-hypermesh/wind_runner_1_original_native_1600.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524934429216-9PULUPCAGK6BGOXVKDR3/wind_runner_2_original_native_1600.jpg",
+      "filename": "wind_runner_2_original_native_1600.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-tech-hypermesh/wind_runner_2_original_native_1600.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524934428156-G8VDSBOKEJIP1CLQGVEB/Nike_Tech_Hypermesh_7_native_1600.jpg",
+      "filename": "Nike_Tech_Hypermesh_7_native_1600.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-tech-hypermesh/Nike_Tech_Hypermesh_7_native_1600.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/graphic-design/nike-tech-hypermesh/extra-001.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

@@ -1,0 +1,55 @@
+{
+  "section": "Graphic Design / Creative Direction",
+  "title": "USA Olympic Team",
+  "slug": "usa-olympic-team",
+  "description": "",
+  "text": [
+    "USA Olympic Team"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524917465226-BHJYK6K65AIIO6XBINNS/tumblr_ox474ekCTM1qzta7uo1_1280.jpg",
+      "filename": "tumblr_ox474ekCTM1qzta7uo1_1280.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/usa-olympic-team/tumblr_ox474ekCTM1qzta7uo1_1280.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524917476200-JICLS95OAQ5HSRG66INR/tumblr_oh4txn7I8Q1qzta7uo1_1280.jpg",
+      "filename": "tumblr_oh4txn7I8Q1qzta7uo1_1280.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/usa-olympic-team/tumblr_oh4txn7I8Q1qzta7uo1_1280.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524917478567-7WPKYWLVDN28T8H1MTWR/tumblr_owamrbKGhR1qzta7uo1_r1_1280.jpg",
+      "filename": "tumblr_owamrbKGhR1qzta7uo1_r1_1280.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/usa-olympic-team/tumblr_owamrbKGhR1qzta7uo1_r1_1280.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524917479932-ZQPH7A2N5D7H2Y650FMD/tumblr_ox0m4e2YdV1qzta7uo2_r1_1280.jpg",
+      "filename": "tumblr_ox0m4e2YdV1qzta7uo2_r1_1280.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/usa-olympic-team/tumblr_ox0m4e2YdV1qzta7uo2_r1_1280.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524917477557-4SOHANG6L8PDHL6B192R/tumblr_oh2yb3MKOI1qzta7uo2_r1_1280.jpg",
+      "filename": "tumblr_oh2yb3MKOI1qzta7uo2_r1_1280.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/usa-olympic-team/tumblr_oh2yb3MKOI1qzta7uo2_r1_1280.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524917479185-J7TJCMT8F8DSFV0W321C/tumblr_owar1dALYF1qzta7uo1_1280.jpg",
+      "filename": "tumblr_owar1dALYF1qzta7uo1_1280.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/usa-olympic-team/tumblr_owar1dALYF1qzta7uo1_1280.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/graphic-design/usa-olympic-team/extra-001.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

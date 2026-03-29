@@ -1,0 +1,37 @@
+{
+  "section": "Graphic Design / Creative Direction",
+  "title": "Nike Sock",
+  "slug": "nike-sock",
+  "description": "",
+  "text": [
+    "Nike Sock"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696508046527-2O4RQ7R15ONQRDW9EZ2M/Sock_0.001.jpeg",
+      "filename": "Sock_0.001.jpeg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-sock/Sock_0.001.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696508043616-KEO9YYCJCFRS8ZS7BOPS/Sock_0.003.jpeg",
+      "filename": "Sock_0.003.jpeg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-sock/Sock_0.003.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696508042878-DFKMD9U4WLQ5LW5G729C/Sock_0.002.jpeg",
+      "filename": "Sock_0.002.jpeg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-sock/Sock_0.002.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/graphic-design/nike-sock/extra-001.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

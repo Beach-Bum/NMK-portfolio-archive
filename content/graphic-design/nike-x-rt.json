@@ -1,0 +1,43 @@
+{
+  "section": "Graphic Design / Creative Direction",
+  "title": "Nike X RT",
+  "slug": "nike-x-rt",
+  "description": "",
+  "text": [
+    "Nike X RT"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524939791537-Z318JLTZ4NFKO7GXRE3A/2.jpg",
+      "filename": "2.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-x-rt/2.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524939884555-XP7CRU5LYHB2K549K5AZ/4.jpg",
+      "filename": "4.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-x-rt/4.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524939878921-0O9ITPPJF6BOVMI6C3V0/3.jpg",
+      "filename": "3.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-x-rt/3.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/graphic-design/nike-x-rt/extra-001.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524939636377-PRXAUJ4NNFFPAZPEDLUZ/Screen+Shot+2018-04-28+at+8.19.57+PM.png",
+      "filename": "extra-002.png",
+      "source": "html",
+      "localPath": "assets/graphic-design/nike-x-rt/extra-002.png"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

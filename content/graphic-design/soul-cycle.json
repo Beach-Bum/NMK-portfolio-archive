@@ -1,0 +1,625 @@
+{
+  "section": "Graphic Design / Creative Direction",
+  "title": "Soul Cycle",
+  "slug": "soul-cycle",
+  "description": "",
+  "text": [
+    "Soul Cycle"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525168995619-2TP1XOBDGQXUGZPDDRY6/SC_1010+2017_ANNEX_Concept_Page_001.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_001.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_001.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525168996167-4LDWTBZ24U055KVW25U6/SC_1010+2017_ANNEX_Concept_Page_002.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_002.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_002.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169001671-3ITPBNMZY9O4N2DEPAYG/SC_1010+2017_ANNEX_Concept_Page_003.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_003.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_003.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169010286-JUY7NBNH64QSZ4OIRH6B/SC_1010+2017_ANNEX_Concept_Page_004.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_004.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_004.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169010285-9IRHFURU9PZ16ELVG23L/SC_1010+2017_ANNEX_Concept_Page_005.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_005.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_005.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169016993-623Y4HYD4F7LXXL4QPC5/SC_1010+2017_ANNEX_Concept_Page_006.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_006.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_006.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169025387-IKFQXCJ05K75DW4NFE9F/SC_1010+2017_ANNEX_Concept_Page_007.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_007.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_007.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169020560-Q4AMWW7IQX9H0GZHCV1J/SC_1010+2017_ANNEX_Concept_Page_008.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_008.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_008.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169028515-54HPW1OH4WGEADXN3QGA/SC_1010+2017_ANNEX_Concept_Page_009.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_009.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_009.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169028963-WC4YZG9YJLBXJ9AGMOS4/SC_1010+2017_ANNEX_Concept_Page_010.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_010.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_010.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169030304-LBJQ9Z4DI771T5SCB43Z/SC_1010+2017_ANNEX_Concept_Page_011.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_011.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_011.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169031835-0QCVDEQV3OX79VERUIHD/SC_1010+2017_ANNEX_Concept_Page_012.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_012.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_012.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169033110-UXWOVH9NAN108PSX8D31/SC_1010+2017_ANNEX_Concept_Page_013.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_013.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_013.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169036322-9Y6IV45OG99GVOS8LPD3/SC_1010+2017_ANNEX_Concept_Page_014.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_014.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_014.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169037529-C03MOSXMJ17LRMLS5UJF/SC_1010+2017_ANNEX_Concept_Page_015.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_015.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_015.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169041527-NTX9UNAEZ72500YGSFXY/SC_1010+2017_ANNEX_Concept_Page_016.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_016.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_016.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169041906-1BOAP9FT8SA302CNBJ21/SC_1010+2017_ANNEX_Concept_Page_017.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_017.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_017.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169044468-B2H0XLO6QIU2VDYKO58K/SC_1010+2017_ANNEX_Concept_Page_018.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_018.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_018.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169045006-M9ZG1FUOFEE2FOH1CYXM/SC_1010+2017_ANNEX_Concept_Page_019.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_019.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_019.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169046969-CCBJZAQEMM8E31YDQT17/SC_1010+2017_ANNEX_Concept_Page_020.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_020.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_020.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169050934-80JYOYKI0RM4S0SJICP4/SC_1010+2017_ANNEX_Concept_Page_021.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_021.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_021.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169050172-ORE6Q1TLGGP3TKQ33NNC/SC_1010+2017_ANNEX_Concept_Page_022.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_022.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_022.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169052177-JKW5QLV5JNYAG4J69V9X/SC_1010+2017_ANNEX_Concept_Page_023.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_023.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_023.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169054441-3JK192UU5VQYBF8P7LJI/SC_1010+2017_ANNEX_Concept_Page_024.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_024.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_024.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169055411-FQMTYOKPFH8Q9FC8YU2A/SC_1010+2017_ANNEX_Concept_Page_025.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_025.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_025.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169060747-HBDP4TPCANP1M7GGJ1WH/SC_1010+2017_ANNEX_Concept_Page_026.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_026.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_026.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169062508-SM6JVT19IQFFB3SW3BRL/SC_1010+2017_ANNEX_Concept_Page_027.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_027.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_027.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169065748-HQV6742N0MB1KXP5LJP2/SC_1010+2017_ANNEX_Concept_Page_028.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_028.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_028.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169067316-WR045BJGPR0FQ4AB934J/SC_1010+2017_ANNEX_Concept_Page_029.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_029.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_029.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169066819-RZVSODOYT791PMHD0ZNN/SC_1010+2017_ANNEX_Concept_Page_030.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_030.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_030.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169069966-MG0UAGPQC5T5Z9CXH8T1/SC_1010+2017_ANNEX_Concept_Page_031.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_031.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_031.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169082178-JEACDRA93869T38I8K4A/SC_1010+2017_ANNEX_Concept_Page_032.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_032.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_032.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169081474-2VFR70FW4G4BVZUL066K/SC_1010+2017_ANNEX_Concept_Page_033.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_033.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_033.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169084111-N771O9WBZK8ZT6GQUJE9/SC_1010+2017_ANNEX_Concept_Page_034.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_034.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_034.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169096928-LYEETP5NIDNTJOIMX26N/SC_1010+2017_ANNEX_Concept_Page_035.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_035.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_035.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169090509-YE4JYVUB4RFU1XHFIGA2/SC_1010+2017_ANNEX_Concept_Page_036.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_036.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_036.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169103489-AJUSEAPL71TP4G951Y8E/SC_1010+2017_ANNEX_Concept_Page_037.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_037.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_037.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169104657-15KMA2EAILRULF8RC1DU/SC_1010+2017_ANNEX_Concept_Page_038.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_038.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_038.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169112680-OWULPDHV0D48XRCTZOYW/SC_1010+2017_ANNEX_Concept_Page_039.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_039.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_039.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169111357-YL87PBD65MSERJMCV7VC/SC_1010+2017_ANNEX_Concept_Page_040.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_040.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_040.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169117259-EG6PPSPFKJLTCNP9UKPN/SC_1010+2017_ANNEX_Concept_Page_041.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_041.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_041.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169120264-3CBKNFDFYAYV1TZJVFCC/SC_1010+2017_ANNEX_Concept_Page_042.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_042.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_042.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169121400-HX1X2DLQX30THC8HC47P/SC_1010+2017_ANNEX_Concept_Page_043.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_043.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_043.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169124181-9PCNGCGG20CXNKXQQUG2/SC_1010+2017_ANNEX_Concept_Page_044.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_044.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_044.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169126284-SR0GUBOLFG933TWC8CZ2/SC_1010+2017_ANNEX_Concept_Page_045.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_045.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_045.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169129961-88GH8UJO30SM5YGR17XR/SC_1010+2017_ANNEX_Concept_Page_046.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_046.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_046.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169131861-STUHVNP4IJD8JMOW45YG/SC_1010+2017_ANNEX_Concept_Page_047.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_047.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_047.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169139378-L8LEVLZV2JIQMSSQKCU4/SC_1010+2017_ANNEX_Concept_Page_048.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_048.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_048.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169139380-5F2R6P43D0BRQEARSS1D/SC_1010+2017_ANNEX_Concept_Page_049.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_049.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_049.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169147521-GFFI5GSX5TAUOEEVG9RE/SC_1010+2017_ANNEX_Concept_Page_050.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_050.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_050.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169151761-8TDTXE3G0LDRGMPLV401/SC_1010+2017_ANNEX_Concept_Page_051.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_051.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_051.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169159290-05M5VE9V1ZEH8JL637WQ/SC_1010+2017_ANNEX_Concept_Page_052.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_052.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_052.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169157509-I2IF7AG9PD3B7HJ7TLYR/SC_1010+2017_ANNEX_Concept_Page_053.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_053.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_053.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169163980-46GCWROGRB2D5T6YU78D/SC_1010+2017_ANNEX_Concept_Page_054.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_054.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_054.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169169038-IFPIVTC86KNP2BTO8SRM/SC_1010+2017_ANNEX_Concept_Page_055.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_055.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_055.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169172955-6Z1RGHGD1U1SBRH20JC2/SC_1010+2017_ANNEX_Concept_Page_056.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_056.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_056.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169176408-A3463HWQLD0AH0KRUUIP/SC_1010+2017_ANNEX_Concept_Page_057.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_057.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_057.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169177823-7N2BFIHNFP176426CTGJ/SC_1010+2017_ANNEX_Concept_Page_058.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_058.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_058.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169182705-VCF6K97RP54CUT7OQXGQ/SC_1010+2017_ANNEX_Concept_Page_059.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_059.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_059.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169184118-XLSY9LV9QEZB7EBFWESV/SC_1010+2017_ANNEX_Concept_Page_060.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_060.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_060.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169194865-6RTZBI6VU8G9APZHBU0O/SC_1010+2017_ANNEX_Concept_Page_061.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_061.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_061.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169192668-M4PDR31C4WPJL2R189M6/SC_1010+2017_ANNEX_Concept_Page_062.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_062.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_062.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169204929-I2LXLTJGM4DZFOQ22EIV/SC_1010+2017_ANNEX_Concept_Page_063.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_063.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_063.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169206414-CWIZM947ITDND3L1PFSD/SC_1010+2017_ANNEX_Concept_Page_064.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_064.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_064.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169215187-6J2A8BICYSHZ1VWU5FH2/SC_1010+2017_ANNEX_Concept_Page_065.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_065.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_065.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169210586-VWZC0JX812RH71ADCQWV/SC_1010+2017_ANNEX_Concept_Page_066.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_066.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_066.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169215791-QKY8T81ZCJHXX5YJ889J/SC_1010+2017_ANNEX_Concept_Page_067.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_067.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_067.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169218321-0WTSEFHA4ZOEW483I3TU/SC_1010+2017_ANNEX_Concept_Page_068.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_068.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_068.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169223084-CPHRS3UY3ZM17BMC4KDS/SC_1010+2017_ANNEX_Concept_Page_069.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_069.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_069.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169224070-VWUFQ2597U781KF961X8/SC_1010+2017_ANNEX_Concept_Page_070.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_070.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_070.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169229338-36F6VJDTN3XPOW98QU4W/SC_1010+2017_ANNEX_Concept_Page_071.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_071.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_071.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169229229-F91JUB0S1FF7GLTWEMRH/SC_1010+2017_ANNEX_Concept_Page_072.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_072.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_072.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169235227-PIIBIA6AOGQQ488CZCMA/SC_1010+2017_ANNEX_Concept_Page_073.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_073.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_073.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169238408-QR9LPKLWTG21PZCV6Y8S/SC_1010+2017_ANNEX_Concept_Page_074.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_074.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_074.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169242874-SQMZNDE1VR94EXUOK9AJ/SC_1010+2017_ANNEX_Concept_Page_075.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_075.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_075.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169243242-71QGYPA4EX9HLZXD1DBV/SC_1010+2017_ANNEX_Concept_Page_076.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_076.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_076.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169247200-N0XSSLKO1INOC4YY0X8C/SC_1010+2017_ANNEX_Concept_Page_077.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_077.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_077.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169248181-GDHKHA5XJJ8IDIBMZVGW/SC_1010+2017_ANNEX_Concept_Page_078.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_078.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_078.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169252488-IU4ZTNZHI9I2EHW60TUD/SC_1010+2017_ANNEX_Concept_Page_079.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_079.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_079.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169256456-OEF62GZKTBVQ9KEMBPZG/SC_1010+2017_ANNEX_Concept_Page_080.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_080.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_080.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169256265-4X21Q1E1PTOB5FBP2HGP/SC_1010+2017_ANNEX_Concept_Page_081.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_081.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_081.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169260261-6A68TWW4UTIT2SXSYC6X/SC_1010+2017_ANNEX_Concept_Page_082.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_082.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_082.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169260427-0Q2LK9E8PF9SEJ2IUUZ6/SC_1010+2017_ANNEX_Concept_Page_083.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_083.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_083.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169263800-EHRIMF8G4XPCNVPCXDXU/SC_1010+2017_ANNEX_Concept_Page_084.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_084.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_084.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169263922-LCXFLH5U9ZELY5WY7MHO/SC_1010+2017_ANNEX_Concept_Page_085.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_085.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_085.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169270994-GVOU3FXJMMMW233ZKYWN/SC_1010+2017_ANNEX_Concept_Page_086.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_086.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_086.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169271492-13JGJRO2SEEV1C2IF6GI/SC_1010+2017_ANNEX_Concept_Page_087.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_087.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_087.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169275620-Q8XO4YDDM04ZEEADQBDE/SC_1010+2017_ANNEX_Concept_Page_088.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_088.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_088.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169279362-FS9J1ZATCCRAQHP33Y2M/SC_1010+2017_ANNEX_Concept_Page_089.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_089.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_089.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169283344-TLW2HFGV31S0UQ9YZ2K6/SC_1010+2017_ANNEX_Concept_Page_090.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_090.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_090.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169284094-4ZR6MQVQEQ72X989P3RJ/SC_1010+2017_ANNEX_Concept_Page_091.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_091.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_091.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169288285-JX45LQIGHQLMQVIS9FXA/SC_1010+2017_ANNEX_Concept_Page_092.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_092.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_092.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169293017-0TKERLO9AH0OLZKW7MG7/SC_1010+2017_ANNEX_Concept_Page_093.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_093.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_093.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169295531-F2WWG3SJGELRSH05P2AX/SC_1010+2017_ANNEX_Concept_Page_094.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_094.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_094.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169296442-0AQEHLZSKM2DEUDYSTF4/SC_1010+2017_ANNEX_Concept_Page_095.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_095.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_095.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169303883-2G20XKWIL6TC8HNCSJ26/SC_1010+2017_ANNEX_Concept_Page_096.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_096.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_096.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169301305-F09LRNM8KJYCLMTL360V/SC_1010+2017_ANNEX_Concept_Page_097.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_097.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_097.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169310843-2C9SQVSI7GUVP868RSTZ/SC_1010+2017_ANNEX_Concept_Page_098.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_098.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_098.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169308792-BPVMQ80DBJ8RB0T8NJ6A/SC_1010+2017_ANNEX_Concept_Page_099.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_099.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_099.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169312282-HJT74N92SJ6CLSL8OBX4/SC_1010+2017_ANNEX_Concept_Page_100.jpg",
+      "filename": "SC_1010 2017_ANNEX_Concept_Page_100.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/soul-cycle/SC_1010 2017_ANNEX_Concept_Page_100.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/graphic-design/soul-cycle/extra-001.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525169403505-F4SN323OSQ5B7FMBKIFZ/SC_1010+2017_ANNEX_Concept_Page_014.jpg",
+      "filename": "extra-002.jpg",
+      "source": "html",
+      "localPath": "assets/graphic-design/soul-cycle/extra-002.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

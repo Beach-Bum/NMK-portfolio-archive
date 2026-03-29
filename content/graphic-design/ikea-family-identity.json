@@ -1,0 +1,325 @@
+{
+  "section": "Graphic Design / Creative Direction",
+  "title": "IKEA Family Identity",
+  "slug": "ikea-family-identity",
+  "description": "",
+  "text": [
+    "IKEA Family Identity"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525163864096-NJS67PCGBOERYAPORB0P/IF_Test_Page_01.jpg",
+      "filename": "IF_Test_Page_01.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/IF_Test_Page_01.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525163863381-D9CYOXPTM60G4BG8KBPR/IF_Test_Page_02.jpg",
+      "filename": "IF_Test_Page_02.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/IF_Test_Page_02.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525163866224-L80YNEAK4N6VHMAV4MF3/IF_Test_Page_03.jpg",
+      "filename": "IF_Test_Page_03.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/IF_Test_Page_03.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525163866933-X4I5BOB3K8PON3JDQ2OQ/IF_Test_Page_04.jpg",
+      "filename": "IF_Test_Page_04.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/IF_Test_Page_04.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525163868771-WKS0FJMOSET7BZHF7SD5/IF_Test_Page_05.jpg",
+      "filename": "IF_Test_Page_05.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/IF_Test_Page_05.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525163869997-GE2XC7BUMDWCYGB7D9MB/IF_Test_Page_06.jpg",
+      "filename": "IF_Test_Page_06.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/IF_Test_Page_06.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525163871789-0132K2PGZFOB0E9BXZ6C/IF_Test_Page_07.jpg",
+      "filename": "IF_Test_Page_07.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/IF_Test_Page_07.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525163871947-7EV9XEIEODSAC7SRD3W4/IF_Test_Page_08.jpg",
+      "filename": "IF_Test_Page_08.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/IF_Test_Page_08.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525163875773-GDB79ZGJUHNMOHOFSI7S/IF_Test_Page_09.jpg",
+      "filename": "IF_Test_Page_09.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/IF_Test_Page_09.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525163876939-56W1XW8TKE9F0SRZ6WCJ/IF_Test_Page_10.jpg",
+      "filename": "IF_Test_Page_10.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/IF_Test_Page_10.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525163900856-V2KT238Y1IB5PD352E28/IF_Test_Page_11.jpg",
+      "filename": "IF_Test_Page_11.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/IF_Test_Page_11.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525163879094-42CHWA18DCTS96BOZM3R/IF_Test_Page_12.jpg",
+      "filename": "IF_Test_Page_12.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/IF_Test_Page_12.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525163897142-9RPMY40H9OBMPZF2UKDG/IF_Test_Page_13.jpg",
+      "filename": "IF_Test_Page_13.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/IF_Test_Page_13.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525163900498-H2VX851JC7KNZO9V8EBL/IF_Test_Page_14.jpg",
+      "filename": "IF_Test_Page_14.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/IF_Test_Page_14.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525163902981-VCJWXN2C567BWMXQLVDZ/IF_Test_Page_15.jpg",
+      "filename": "IF_Test_Page_15.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/IF_Test_Page_15.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525163903736-ENHG6KGMFAOXH165F80E/IF_Test_Page_16.jpg",
+      "filename": "IF_Test_Page_16.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/IF_Test_Page_16.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525163905285-FLPYNU6DRXJPN8OFQ3VF/IF_Test_Page_17.jpg",
+      "filename": "IF_Test_Page_17.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/IF_Test_Page_17.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525163905767-7M80Y2M594OT35FE769Z/IF_Test_Page_18.jpg",
+      "filename": "IF_Test_Page_18.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/IF_Test_Page_18.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525163910177-YR3EJ3231L4J53P3UDM9/IF_Test_Page_19.jpg",
+      "filename": "IF_Test_Page_19.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/IF_Test_Page_19.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525163909849-1L81F4ZUX8HHJSYZOEM0/IF_Test_Page_20.jpg",
+      "filename": "IF_Test_Page_20.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/IF_Test_Page_20.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525163912359-AZE95TA58IM90B6B6D1S/IF_Test_Page_21.jpg",
+      "filename": "IF_Test_Page_21.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/IF_Test_Page_21.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525163914923-7WOJSYXRG5X72O2B4HIS/IF_Test_Page_22.jpg",
+      "filename": "IF_Test_Page_22.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/IF_Test_Page_22.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525163919038-HGK99NR2BJ5D939UDB38/IF_Test_Page_23.jpg",
+      "filename": "IF_Test_Page_23.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/IF_Test_Page_23.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525163919520-SEFA9KZZYPS7IGFFZKV4/IF_Test_Page_24.jpg",
+      "filename": "IF_Test_Page_24.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/IF_Test_Page_24.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525163921516-F0N99O9KDAARCPZL1EC0/IF_Test_Page_25.jpg",
+      "filename": "IF_Test_Page_25.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/IF_Test_Page_25.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525163922350-3P4YKTQJ9X68CSWEHVOR/IF_Test_Page_26.jpg",
+      "filename": "IF_Test_Page_26.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/IF_Test_Page_26.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525163925500-GY68VI1P4370VD0JRASZ/IF_Test_Page_27.jpg",
+      "filename": "IF_Test_Page_27.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/IF_Test_Page_27.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525163926064-WE82OH9I1JHRV04MOLT7/IF_Test_Page_28.jpg",
+      "filename": "IF_Test_Page_28.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/IF_Test_Page_28.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525163928777-H3RQD2V5VAARX1JIX3FL/IF_Test_Page_29.jpg",
+      "filename": "IF_Test_Page_29.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/IF_Test_Page_29.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525163929521-3N4XQD4AMKG0XLSK9BOC/IF_Test_Page_30.jpg",
+      "filename": "IF_Test_Page_30.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/IF_Test_Page_30.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525163931668-DV45D1QXOG1QOCEP7R1P/IF_Test_Page_31.jpg",
+      "filename": "IF_Test_Page_31.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/IF_Test_Page_31.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525163932166-XP1MKIWBZVV8FPPZDXZB/IF_Test_Page_32.jpg",
+      "filename": "IF_Test_Page_32.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/IF_Test_Page_32.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525163933866-N2PXV8OSJHMB628369EC/IF_Test_Page_33.jpg",
+      "filename": "IF_Test_Page_33.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/IF_Test_Page_33.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525164034462-Q19FBWFUVXPXIP7G3WQ4/Pitch_Route_NMK_ImageBased_Page_01.jpg",
+      "filename": "Pitch_Route_NMK_ImageBased_Page_01.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/Pitch_Route_NMK_ImageBased_Page_01.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525164034304-TW79FOCO4D5RFY35XIXI/Pitch_Route_NMK_ImageBased_Page_02.jpg",
+      "filename": "Pitch_Route_NMK_ImageBased_Page_02.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/Pitch_Route_NMK_ImageBased_Page_02.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525164036441-R80OTCRCHAWTFXD4C1HE/Pitch_Route_NMK_ImageBased_Page_03.jpg",
+      "filename": "Pitch_Route_NMK_ImageBased_Page_03.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/Pitch_Route_NMK_ImageBased_Page_03.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525164042003-9Q3DX793UHOLUIIZSMDQ/Pitch_Route_NMK_ImageBased_Page_04.jpg",
+      "filename": "Pitch_Route_NMK_ImageBased_Page_04.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/Pitch_Route_NMK_ImageBased_Page_04.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525164042243-VJOV4XCLQUBOGOFX0HD1/Pitch_Route_NMK_ImageBased_Page_05.jpg",
+      "filename": "Pitch_Route_NMK_ImageBased_Page_05.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/Pitch_Route_NMK_ImageBased_Page_05.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525164045879-MSFRRI7LKUQEB4C441ZW/Pitch_Route_NMK_ImageBased_Page_06.jpg",
+      "filename": "Pitch_Route_NMK_ImageBased_Page_06.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/Pitch_Route_NMK_ImageBased_Page_06.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525164054768-WOIYBC1LXVKOD8G6LL2H/Pitch_Route_NMK_ImageBased_Page_07.jpg",
+      "filename": "Pitch_Route_NMK_ImageBased_Page_07.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/Pitch_Route_NMK_ImageBased_Page_07.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525164065246-F00IZKPPYPGAO1QVNNUK/Pitch_Route_NMK_ImageBased_Page_10.jpg",
+      "filename": "Pitch_Route_NMK_ImageBased_Page_10.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/Pitch_Route_NMK_ImageBased_Page_10.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525164079253-GJ53EYL342GIRECGYWZE/Pitch_Route_NMK_ImageBased_Page_11.jpg",
+      "filename": "Pitch_Route_NMK_ImageBased_Page_11.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/Pitch_Route_NMK_ImageBased_Page_11.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525164152461-74TNZLD39UHVT9KWKLKT/Pitch_Route_NMK_ImageBased_Page_14.jpg",
+      "filename": "Pitch_Route_NMK_ImageBased_Page_14.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/Pitch_Route_NMK_ImageBased_Page_14.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525164645905-7PB0AR3CKPRDF0CRFXU1/1.jpg",
+      "filename": "1.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/1.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525164663478-4DI5R3BXB88FGIV9KH82/3.jpg",
+      "filename": "3.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/3.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525164696293-IZZGJ9TX3BDSIGS5B1Q7/6.jpg",
+      "filename": "6.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/6.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525164718142-3Z1Y6HASRK7TK5V681O4/10.jpg",
+      "filename": "10.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/10.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525164620202-HHAMOVI71GT2HQEHLQ68/1.jpg",
+      "filename": "1.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/1.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525164867709-0BMMHRMN86R27EEZ7SIE/ikeastand_1024.png",
+      "filename": "ikeastand_1024.png",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/ikeastand_1024.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525164876353-OSEKSPTDOFMEFCXDXX7T/if_cards_mockup_1024.jpg",
+      "filename": "if_cards_mockup_1024.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/ikea-family-identity/if_cards_mockup_1024.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/graphic-design/ikea-family-identity/extra-001.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589912029680-PHDL0NGFQKWA3P16ZI8U/Screen+Shot+2020-05-19+at+8.13.25+PM.png",
+      "filename": "extra-002.png",
+      "source": "html",
+      "localPath": "assets/graphic-design/ikea-family-identity/extra-002.png"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

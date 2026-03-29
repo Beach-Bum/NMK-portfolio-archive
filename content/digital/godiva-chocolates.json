@@ -1,0 +1,397 @@
+{
+  "section": "Digital",
+  "title": "Godiva Chocolates",
+  "slug": "godiva-chocolates",
+  "description": "",
+  "text": [
+    "Godiva Chocolates"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173208356-F8Q9VY3CBEKYLBKHMH3B/RGA%2BGodiva___BrandFoundations.017.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.017.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.017.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173207520-DM7AEJGILYLT4Y89X971/RGA%2BGodiva___BrandFoundations.018.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.018.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.018.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173216267-ICH9FRY77CSW5ZIQX9VR/RGA%2BGodiva___BrandFoundations.019.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.019.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.019.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173218429-OJ6BQF55ARO8PX5TFO0V/RGA%2BGodiva___BrandFoundations.020.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.020.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.020.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173224447-S7AZV861JJZVHQ1TJFC2/RGA%2BGodiva___BrandFoundations.021.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.021.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.021.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173225373-DXHLSNFS3QK1T6VG066M/RGA%2BGodiva___BrandFoundations.022.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.022.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.022.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173239367-A9YMW1MAF73PAE0SFVYL/RGA%2BGodiva___BrandFoundations.023.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.023.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.023.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173232022-5SWSDHZXWNLZICDJNSU7/RGA%2BGodiva___BrandFoundations.024.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.024.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.024.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173240952-3P72Y522GPL1NDP18SGI/RGA%2BGodiva___BrandFoundations.025.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.025.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.025.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173241209-23P4PJT9ZW0EBSDHENDP/RGA%2BGodiva___BrandFoundations.026.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.026.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.026.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173249472-BX1LH0OVPQYD9E9ZKIAV/RGA%2BGodiva___BrandFoundations.027.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.027.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.027.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173250900-RRP3VT41ZTP6UWTFF0ND/RGA%2BGodiva___BrandFoundations.028.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.028.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.028.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173271282-GZ7JYT5NYW3MEAM43MT2/RGA%2BGodiva___BrandFoundations.029.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.029.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.029.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173276608-2BI1M7LA32QTEP8GAWLQ/RGA%2BGodiva___BrandFoundations.030.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.030.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.030.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173286639-TKGT4XH58D4LYIOXSXPT/RGA%2BGodiva___BrandFoundations.031.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.031.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.031.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173286042-CCSI3SW1BDFMH7G0MBVC/RGA%2BGodiva___BrandFoundations.032.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.032.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.032.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173296557-ZYZ9SFMIY8C2NQS8N77T/RGA%2BGodiva___BrandFoundations.033.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.033.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.033.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173289242-O0ELGEXT6ZOXEYQ3MJSD/RGA%2BGodiva___BrandFoundations.034.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.034.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.034.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173291410-V3Y522NCFDDTH0BJ1BBM/RGA%2BGodiva___BrandFoundations.035.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.035.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.035.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173294700-4KQS9IU7WLV2JU6ZNXNT/RGA%2BGodiva___BrandFoundations.036.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.036.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.036.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173296600-A4K65EJN5JVTYPJRRGSB/RGA%2BGodiva___BrandFoundations.037.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.037.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.037.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173306371-HKWHWMGIPEATE9M00273/RGA%2BGodiva___BrandFoundations.038.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.038.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.038.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173307656-O8BU2Z7DR422574ACXHH/RGA%2BGodiva___BrandFoundations.039.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.039.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.039.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173319624-P8GFWN5VX7L3F5HJNBSL/RGA%2BGodiva___BrandFoundations.040.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.040.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.040.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173326923-45JW9FBM21IPUVFQMX0F/RGA%2BGodiva___BrandFoundations.041.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.041.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.041.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173321334-8AV3WA721TZOXHOO8E0C/RGA%2BGodiva___BrandFoundations.042.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.042.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.042.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173323074-AFKJEJKDNPQRCZCR1TSJ/RGA%2BGodiva___BrandFoundations.043.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.043.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.043.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173325763-4TGGQ8NLASHEC27D6RRA/RGA%2BGodiva___BrandFoundations.044.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.044.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.044.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173331763-IXJZBZCV19RKDP2YZSAO/RGA%2BGodiva___BrandFoundations.045.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.045.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.045.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173331765-IQHRQNCR0E57NC1ZGO1J/RGA%2BGodiva___BrandFoundations.046.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.046.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.046.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173337696-OQV4AUH1LY8YI679M2XK/RGA%2BGodiva___BrandFoundations.047.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.047.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.047.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173349548-FHATB6W8UCAUWFFOR72P/RGA%2BGodiva___BrandFoundations.048.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.048.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.048.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173342972-CGNS1AVJJNCZA3XYQ6ZF/RGA%2BGodiva___BrandFoundations.049.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.049.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.049.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173345684-26O8MPR1IYF74032CUDK/RGA%2BGodiva___BrandFoundations.050.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.050.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.050.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173348198-K3SN6BCOVOUXIKNDYGT3/RGA%2BGodiva___BrandFoundations.051.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.051.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.051.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173356956-TMD3EQVLWBMBYTGN9JQV/RGA%2BGodiva___BrandFoundations.052.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.052.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.052.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173361129-6THVGYHTDGM0BVF6XFUG/RGA%2BGodiva___BrandFoundations.053.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.053.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.053.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173359830-LEMCVN6CC1TI13K6DSTE/RGA%2BGodiva___BrandFoundations.054.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.054.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.054.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173362165-AOSTCQI9GWQBMN8W3D8S/RGA%2BGodiva___BrandFoundations.055.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.055.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.055.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173373133-0PT6QS0Z8EY7KTB8XAWD/RGA%2BGodiva___BrandFoundations.056.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.056.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.056.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173379897-E8P0Y1U9WW6QQYWQY6VA/RGA%2BGodiva___BrandFoundations.057.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.057.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.057.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173374514-MZMWV0IN88ML7OPM05E2/RGA%2BGodiva___BrandFoundations.058.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.058.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.058.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173382011-80FX45N8749ZMJYN5AJM/RGA%2BGodiva___BrandFoundations.059.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.059.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.059.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173393645-N7P2UGUOG6Y84OEUUWZ6/RGA%2BGodiva___BrandFoundations.060.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.060.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.060.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173401266-YUGP18WPW633GKDIHSY4/RGA%2BGodiva___BrandFoundations.061.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.061.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.061.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173396595-MW5GWA0698JIP9X7NIH6/RGA%2BGodiva___BrandFoundations.062.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.062.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.062.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173399285-6VIYTYMMA7MXAP06J22X/RGA%2BGodiva___BrandFoundations.063.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.063.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.063.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173409773-03SIFA9YRKPZEBDC2X3I/RGA%2BGodiva___BrandFoundations.064.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.064.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.064.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173421578-2UTWLOKLKL46AVXESC7Y/RGA%2BGodiva___BrandFoundations.065.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.065.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.065.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173413081-NVOHKY17B0KPQQPV4E0Q/RGA%2BGodiva___BrandFoundations.066.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.066.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.066.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173419485-HJAU3W74WJBFV9AOM6T8/RGA%2BGodiva___BrandFoundations.067.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.067.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.067.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173431673-KPZ0AZB86E14C5SBSELM/RGA%2BGodiva___BrandFoundations.068.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.068.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.068.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173442775-JG8SGRMCAUQFBVWCCFAP/RGA%2BGodiva___BrandFoundations.069.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.069.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.069.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173445857-R1T9O12C4GL8ZP8MG4O1/RGA%2BGodiva___BrandFoundations.070.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.070.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.070.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173446799-GVMP0EGFTC3Z58CCDOTA/RGA%2BGodiva___BrandFoundations.071.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.071.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.071.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173470199-45SX6B8YN4L9PTPXANVN/RGA%2BGodiva___BrandFoundations.072.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.072.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.072.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173470628-5M1X5RDMC334AEQHO3XT/RGA%2BGodiva___BrandFoundations.073.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.073.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.073.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173499941-998ZI37BYAELTP0D2A8R/RGA%2BGodiva___BrandFoundations.074.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.074.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.074.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173498241-DWGVXLIFSSKRSQW4MZ0V/RGA%2BGodiva___BrandFoundations.075.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.075.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.075.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173514276-9K69TTX6DP1B13OAACKB/RGA%2BGodiva___BrandFoundations.076.jpeg",
+      "filename": "RGA+Godiva___BrandFoundations.076.jpeg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/RGA+Godiva___BrandFoundations.076.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525173815869-DPUHTPXGHH5IT2UDSB0Y/GODIVA_SO+%281%29.jpg",
+      "filename": "GODIVA_SO (1).jpg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/GODIVA_SO (1).jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525174447974-F404IW8FYLSWIMUDKTCU/1.jpg",
+      "filename": "1.jpg",
+      "source": "api",
+      "localPath": "assets/digital/godiva-chocolates/1.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/digital/godiva-chocolates/extra-001.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525174394423-1XTXFAEJYH1C6MODK8IJ/Screen+Shot+2018-04-23+at+6.20.35+PM.png",
+      "filename": "extra-002.png",
+      "source": "html",
+      "localPath": "assets/digital/godiva-chocolates/extra-002.png"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

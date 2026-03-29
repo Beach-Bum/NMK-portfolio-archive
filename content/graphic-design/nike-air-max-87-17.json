@@ -1,0 +1,55 @@
+{
+  "section": "Graphic Design / Creative Direction",
+  "title": "Nike Air Max 87-17",
+  "slug": "new-project-1",
+  "description": "",
+  "text": [
+    "Nike Air Max 87-17"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524917043609-D0N8MB3S4M5WP8YA5G2Z/tumblr_oy5c2m2oeC1qzta7uo1_1280.jpg",
+      "filename": "tumblr_oy5c2m2oeC1qzta7uo1_1280.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-air-max-87-17/tumblr_oy5c2m2oeC1qzta7uo1_1280.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524917006902-1CX35L6K90TE9JQ6PJUQ/tumblr_owr92xOOg21qzta7uo1_1280.jpg",
+      "filename": "tumblr_owr92xOOg21qzta7uo1_1280.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-air-max-87-17/tumblr_owr92xOOg21qzta7uo1_1280.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524917014419-0RVNLCT7YUNRH0M9OEQM/tumblr_ovhcn9aW0k1qzta7uo1_1280.jpg",
+      "filename": "tumblr_ovhcn9aW0k1qzta7uo1_1280.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-air-max-87-17/tumblr_ovhcn9aW0k1qzta7uo1_1280.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524917024713-TA2303BAVPIGTY0C2TO8/tumblr_ovicyiLJaJ1qzta7uo1_1280.jpg",
+      "filename": "tumblr_ovicyiLJaJ1qzta7uo1_1280.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-air-max-87-17/tumblr_ovicyiLJaJ1qzta7uo1_1280.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524917027560-KUTN2Y0IKXLTPTIYJ48M/tumblr_owr90rC7ad1qzta7uo1_1280.jpg",
+      "filename": "tumblr_owr90rC7ad1qzta7uo1_1280.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-air-max-87-17/tumblr_owr90rC7ad1qzta7uo1_1280.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524917039787-8CDQ1TOEYRXTTGCT2U2K/tumblr_owr9883SYm1qzta7uo1_1280.jpg",
+      "filename": "tumblr_owr9883SYm1qzta7uo1_1280.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-air-max-87-17/tumblr_owr9883SYm1qzta7uo1_1280.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/graphic-design/nike-air-max-87-17/extra-001.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

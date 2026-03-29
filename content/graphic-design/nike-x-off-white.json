@@ -1,0 +1,37 @@
+{
+  "section": "Graphic Design / Creative Direction",
+  "title": "Nike x Off-White",
+  "slug": "nike-x-offwhite",
+  "description": "",
+  "text": [
+    "Nike x Off-White"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696528158754-G36COBAG2UNDYGY2ZEIN/Nike-Virgil_Pages01.jpeg",
+      "filename": "Nike-Virgil_Pages01.jpeg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-x-off-white/Nike-Virgil_Pages01.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696528158633-TTBHROFLOW3W93G7YG0F/Nike-Virgil_Pages03.jpeg",
+      "filename": "Nike-Virgil_Pages03.jpeg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-x-off-white/Nike-Virgil_Pages03.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696528160010-T216N1QW1508ERF4ME47/Nike-Virgil_Pages02.jpeg",
+      "filename": "Nike-Virgil_Pages02.jpeg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-x-off-white/Nike-Virgil_Pages02.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/graphic-design/nike-x-off-white/extra-001.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

@@ -1,0 +1,67 @@
+{
+  "section": "Graphic Design / Creative Direction",
+  "title": "City of Flight",
+  "slug": "city-of-flight",
+  "description": "",
+  "text": [
+    "City of Flight"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524920450191-ODGSERCXVATB62HVXBWH/tumblr_p2j6wjX8Ya1qzta7uo1_1280.jpg",
+      "filename": "tumblr_p2j6wjX8Ya1qzta7uo1_1280.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/city-of-flight/tumblr_p2j6wjX8Ya1qzta7uo1_1280.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524920449166-A9JJFO3HN3R890UCYVZC/tumblr_oxdunjTE1x1qzta7uo2_1280.jpg",
+      "filename": "tumblr_oxdunjTE1x1qzta7uo2_1280.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/city-of-flight/tumblr_oxdunjTE1x1qzta7uo2_1280.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524920449167-RKM1N33RIHJ1RS60ZOHP/tumblr_oxduspUeLP1qzta7uo1_1280.jpg",
+      "filename": "tumblr_oxduspUeLP1qzta7uo1_1280.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/city-of-flight/tumblr_oxduspUeLP1qzta7uo1_1280.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524920450571-FXEI9R6MYLB9LKQZWJ5Y/tumblr_p2krknpidC1qzta7uo1_1280.jpg",
+      "filename": "tumblr_p2krknpidC1qzta7uo1_1280.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/city-of-flight/tumblr_p2krknpidC1qzta7uo1_1280.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524920451495-5Z5F3JM69LS8FUBRE7XO/tumblr_p2krtkSzel1qzta7uo2_r1_1280.jpg",
+      "filename": "tumblr_p2krtkSzel1qzta7uo2_r1_1280.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/city-of-flight/tumblr_p2krtkSzel1qzta7uo2_r1_1280.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524920452221-KY8WSW710V9DNUIAFS7J/tumblr_p2krzuy40f1qzta7uo2_r1_1280.jpg",
+      "filename": "tumblr_p2krzuy40f1qzta7uo2_r1_1280.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/city-of-flight/tumblr_p2krzuy40f1qzta7uo2_r1_1280.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524920779508-WPCEVH4QV3GZ7N255BRY/Screen+Shot+2018-04-28+at+3.05.15+PM.png",
+      "filename": "Screen Shot 2018-04-28 at 3.05.15 PM.png",
+      "source": "api",
+      "localPath": "assets/graphic-design/city-of-flight/Screen Shot 2018-04-28 at 3.05.15 PM.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524921071694-RTX0S05H938AI1F7J771/Screen+Shot+2018-04-28+at+3.10.08+PM.png",
+      "filename": "Screen Shot 2018-04-28 at 3.10.08 PM.png",
+      "source": "api",
+      "localPath": "assets/graphic-design/city-of-flight/Screen Shot 2018-04-28 at 3.10.08 PM.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/graphic-design/city-of-flight/extra-001.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

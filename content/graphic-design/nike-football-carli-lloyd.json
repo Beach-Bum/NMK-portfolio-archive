@@ -1,0 +1,43 @@
+{
+  "section": "Graphic Design / Creative Direction",
+  "title": "Nike Football / Carli Lloyd",
+  "slug": "new-project-72",
+  "description": "",
+  "text": [
+    "Nike Football / Carli Lloyd Packaging"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524925339700-N9T7RXD4E0XBLY4RID28/Nike_Carli_Lloyd_Cleats_BOX_SHOES_closed_original.jpg",
+      "filename": "Nike_Carli_Lloyd_Cleats_BOX_SHOES_closed_original.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-football-carli-lloyd/Nike_Carli_Lloyd_Cleats_BOX_SHOES_closed_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524925223916-6GAZGVYGUTZ4H3OCAYFE/Nike_Carli_Lloyd_Cleats_BOX_SHOES_main_original.jpg",
+      "filename": "Nike_Carli_Lloyd_Cleats_BOX_SHOES_main_original.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-football-carli-lloyd/Nike_Carli_Lloyd_Cleats_BOX_SHOES_main_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524925234514-6NS45SBAM8VYMNYM95W4/ACR02607_original.jpg",
+      "filename": "ACR02607_original.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-football-carli-lloyd/ACR02607_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524925245486-VZZO8VZZIAN917DZLJJD/Nike_Carli_Lloyd_Cleats_OUT_main_D4_original.jpg",
+      "filename": "Nike_Carli_Lloyd_Cleats_OUT_main_D4_original.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-football-carli-lloyd/Nike_Carli_Lloyd_Cleats_OUT_main_D4_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/graphic-design/nike-football-carli-lloyd/extra-001.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

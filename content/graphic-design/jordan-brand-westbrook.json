@@ -1,0 +1,49 @@
+{
+  "section": "Graphic Design / Creative Direction",
+  "title": "Jordan Brand / Westbrook",
+  "slug": "jordan-brand-westbrook",
+  "description": "",
+  "text": [
+    "Jordan Brand / Westbrook"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524927359842-JK7Y95CNTKN52CG9A4I2/tumblr_p5ccihBeXG1qzta7uo1_1280.gif",
+      "filename": "tumblr_p5ccihBeXG1qzta7uo1_1280.gif",
+      "source": "api",
+      "localPath": "assets/graphic-design/jordan-brand-westbrook/tumblr_p5ccihBeXG1qzta7uo1_1280.gif"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524927369451-GJ3T8A38T4QWCW1JW7PO/tumblr_p5cdt03vlK1qzta7uo2_r1_1280.gif",
+      "filename": "tumblr_p5cdt03vlK1qzta7uo2_r1_1280.gif",
+      "source": "api",
+      "localPath": "assets/graphic-design/jordan-brand-westbrook/tumblr_p5cdt03vlK1qzta7uo2_r1_1280.gif"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524927364317-UZ9YH5Y7195X29Q0Q1TA/tumblr_p5ccuqB9Qj1qzta7uo2_r1_1280-1.gif",
+      "filename": "tumblr_p5ccuqB9Qj1qzta7uo2_r1_1280-1.gif",
+      "source": "api",
+      "localPath": "assets/graphic-design/jordan-brand-westbrook/tumblr_p5ccuqB9Qj1qzta7uo2_r1_1280-1.gif"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524927370977-KIGMNE130DF4NRKNUL4K/tumblr_p5cclpcM7Y1qzta7uo1_1280.jpg",
+      "filename": "tumblr_p5cclpcM7Y1qzta7uo1_1280.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/jordan-brand-westbrook/tumblr_p5cclpcM7Y1qzta7uo1_1280.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524927372585-PLRB1WMZJA4PFSH0KD61/tumblr_p5cd99GSyb1qzta7uo1_1280.jpg",
+      "filename": "tumblr_p5cd99GSyb1qzta7uo1_1280.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/jordan-brand-westbrook/tumblr_p5cd99GSyb1qzta7uo1_1280.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/graphic-design/jordan-brand-westbrook/extra-001.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

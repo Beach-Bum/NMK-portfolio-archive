@@ -1,0 +1,61 @@
+{
+  "section": "Interiors / Architecture",
+  "title": "NikeLab / Feel London",
+  "slug": "nikelab-feel-london",
+  "description": "",
+  "text": [
+    "NikeLab / Feel London"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525270727937-KST6GEXGPDOLJK5LQ9HI/NIKE_FEEL_LONDON__2_native_1600.jpg",
+      "filename": "NIKE_FEEL_LONDON__2_native_1600.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nikelab-feel-london/NIKE_FEEL_LONDON__2_native_1600.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525270653677-2JJKK4RZ4MGIYGAERC3N/NIKE_FEEL_LONDON__3_native_1600.jpg",
+      "filename": "NIKE_FEEL_LONDON__3_native_1600.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nikelab-feel-london/NIKE_FEEL_LONDON__3_native_1600.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525270655525-3492XFMY03ZJQYB60245/NIKE_FEEL_LONDON__4_native_1600.jpg",
+      "filename": "NIKE_FEEL_LONDON__4_native_1600.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nikelab-feel-london/NIKE_FEEL_LONDON__4_native_1600.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525270654534-U4WY2XHZPB6EYTGRTF1G/FEEL_LONDON_1_HIGH_native_1600.jpg",
+      "filename": "FEEL_LONDON_1_HIGH_native_1600.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nikelab-feel-london/FEEL_LONDON_1_HIGH_native_1600.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525270658416-CFRBIU30YTI8II0ICDA5/NIKE_FEEL_LONDON_6_native_1600.jpg",
+      "filename": "NIKE_FEEL_LONDON_6_native_1600.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nikelab-feel-london/NIKE_FEEL_LONDON_6_native_1600.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525270705164-2Q3E1HQT4GMJC874IE8E/FEEL_LONDON_2_HIGH_native_1600.jpg",
+      "filename": "FEEL_LONDON_2_HIGH_native_1600.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nikelab-feel-london/FEEL_LONDON_2_HIGH_native_1600.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525270656030-IYY0LKL6V973G7WEY3CO/NIKE_FEEL_LONDON__5_native_1600.jpg",
+      "filename": "NIKE_FEEL_LONDON__5_native_1600.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nikelab-feel-london/NIKE_FEEL_LONDON__5_native_1600.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/interiors-architecture/nikelab-feel-london/extra-001.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

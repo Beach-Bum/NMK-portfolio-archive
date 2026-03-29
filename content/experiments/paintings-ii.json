@@ -1,0 +1,301 @@
+{
+  "section": "Experiments",
+  "title": "Paintings II",
+  "slug": "paintings-ii",
+  "description": "",
+  "text": [
+    "Paintings II"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150743727-E41PPET5J788MXJ2C31V/NMK_9.jpg",
+      "filename": "NMK_9.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_9.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150740386-A8W92KK61CXYZD3WJ5RW/NMK_1.jpg",
+      "filename": "NMK_1.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_1.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150740502-VV2A7FA6QHFCU4J2JHA9/NMK_2.jpg",
+      "filename": "NMK_2.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_2.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150741393-NWNBJ0JE6P4QKID73KM5/NMK_3.jpg",
+      "filename": "NMK_3.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_3.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150741483-312FUNLK2AGGN4WNHJU8/NMK_4.jpg",
+      "filename": "NMK_4.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_4.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150742154-XD49L1284FNL95FM18GO/NMK_6.jpg",
+      "filename": "NMK_6.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_6.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150743089-4EDBZEG68UZ0HWMK2024/NMK_7.jpg",
+      "filename": "NMK_7.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_7.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150743511-X8TB6ZPWUM06UIMBKY9U/NMK_8.jpg",
+      "filename": "NMK_8.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_8.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150744266-7VNBVTYJVYLKJ77T6AIF/NMK_10.jpg",
+      "filename": "NMK_10.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_10.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150744483-D2F6MH4SQ2MHIDYOWIOI/NMK_11.jpg",
+      "filename": "NMK_11.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_11.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150745667-6O51R3HTJC68FH3QM55J/nmk_12.jpg",
+      "filename": "nmk_12.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/nmk_12.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150745866-W54ZUL7TYC7HGM7AEWFQ/NMK_13.jpg",
+      "filename": "NMK_13.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_13.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150746917-TIROF6IAH1467DZEYGYJ/NMK_14.jpg",
+      "filename": "NMK_14.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_14.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150746686-K6G075SBGT9U5GY3626H/NMK_15.jpg",
+      "filename": "NMK_15.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_15.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150747486-1CPLVBJM13M61LAMH5LN/NMK_16.jpg",
+      "filename": "NMK_16.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_16.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150747898-XR28Z9H164RD6QZEX0VL/NMK_17.jpg",
+      "filename": "NMK_17.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_17.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150748800-1Y5NZ6TB7MUY8AURPHYI/NMK_18.jpg",
+      "filename": "NMK_18.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_18.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150748502-2JBE6FMGKM2KKPY0HZQW/NMK_19.jpg",
+      "filename": "NMK_19.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_19.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150749325-K1FAYFU5IDG04SJR576L/NMK_20.jpg",
+      "filename": "NMK_20.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_20.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150749427-URHUETYTIXZH72RL6PV0/NMK_21.jpg",
+      "filename": "NMK_21.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_21.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150749982-TP9VKXV618ECBZ1W3UHR/NMK_22.jpg",
+      "filename": "NMK_22.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_22.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150750107-VF5RFQXBR86LB6GK7X8W/NMK_23.jpg",
+      "filename": "NMK_23.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_23.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150751422-SSN9IMJ1FK5VPI1ZP4X3/NMK_24.jpg",
+      "filename": "NMK_24.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_24.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150750950-412GMY7JX4GXPQM2D3MP/NMK_25.jpg",
+      "filename": "NMK_25.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_25.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150751665-ZI5CDB58ID8WL6QKCXWH/NMK_26.jpg",
+      "filename": "NMK_26.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_26.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150752072-8LQHFG1TPR4YGCOAV7RX/NMK_27.jpg",
+      "filename": "NMK_27.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_27.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150752808-7WABX5DJTDUI0G7NMQJE/NMK_28.jpg",
+      "filename": "NMK_28.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_28.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150754190-NQDO9TFDQJTV8LIJTSAC/NMK_29.jpg",
+      "filename": "NMK_29.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_29.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150754604-RXBFX9JNPLNQKG9BJJ1B/NMK_30.jpg",
+      "filename": "NMK_30.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_30.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150755304-2I6TG1SE26LN6BDCX96W/NMK_31.jpg",
+      "filename": "NMK_31.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_31.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150755588-MYH304V8Z77C3MVPOGPS/NMK_32.jpg",
+      "filename": "NMK_32.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_32.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150757006-7J47M83CEFLGA30BJ7S2/NMK_33.jpg",
+      "filename": "NMK_33.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_33.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150757188-IHPLR4D6FZMN32E70GUH/NMK_34.jpg",
+      "filename": "NMK_34.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_34.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150871138-JAG6BRF65QXS0K8EC1VF/20_00.jpg",
+      "filename": "20_00.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/20_00.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150758263-TX312XNIB52AJMZ1BF4F/NMK_35.jpg",
+      "filename": "NMK_35.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_35.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150758354-VW7F4WJKB61BGOIV7KRR/NMK_36.jpg",
+      "filename": "NMK_36.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_36.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150759115-87XX557GUZFN1GDIEF2M/NMK_37.jpg",
+      "filename": "NMK_37.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_37.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150759930-1HS4ZB5H9WM100N5AFJV/NMK_38.jpg",
+      "filename": "NMK_38.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_38.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150760154-OJG5WDJYBTOBF6GDCJJ3/NMK_39.jpg",
+      "filename": "NMK_39.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_39.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150761150-6ZYDRQDRSK9OBMRGP7PW/NMK_40.jpg",
+      "filename": "NMK_40.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_40.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150761948-FWOO7FT6P5IVAKGBGPSF/NMK_41.jpg",
+      "filename": "NMK_41.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_41.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150762387-5BBYO01THW3190EU414C/NMK_42.jpg",
+      "filename": "NMK_42.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_42.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150762683-4THHHR3IWYCBP47CO7O9/NMK_43.jpg",
+      "filename": "NMK_43.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_43.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150763141-AFIM20Q0YZ08DG08D5J9/NMK_44.jpg",
+      "filename": "NMK_44.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_44.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150764587-ULZEAIZ5V98K8HIEZ9C7/NMK_45.jpg",
+      "filename": "NMK_45.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_45.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150763873-FESLAG53O7M5O8TN77NP/NMK_46.jpg",
+      "filename": "NMK_46.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_46.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150764731-YZGI8971EMFU7XONNHQL/NMK_47.jpg",
+      "filename": "NMK_47.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings-ii/NMK_47.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/experiments/paintings-ii/extra-001.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

@@ -1,0 +1,49 @@
+{
+  "section": "Digital",
+  "title": "NSW Tech Book",
+  "slug": "nsw-tech-book",
+  "description": "",
+  "text": [
+    "NSW Tech Book"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524920002713-HYLO89OPYBDAPLOGTA8M/HO15_TechPackHero_Family_Still_PR_HighRes_original.jpg",
+      "filename": "HO15_TechPackHero_Family_Still_PR_HighRes_original.jpg",
+      "source": "api",
+      "localPath": "assets/digital/nsw-tech-book/HO15_TechPackHero_Family_Still_PR_HighRes_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524919979470-5YW6RR6NGX4QER7O2H57/HO15_Tech_Pack_Hero_Aeroloft_M_Apple_Special_FB_original.jpg",
+      "filename": "HO15_Tech_Pack_Hero_Aeroloft_M_Apple_Special_FB_original.jpg",
+      "source": "api",
+      "localPath": "assets/digital/nsw-tech-book/HO15_Tech_Pack_Hero_Aeroloft_M_Apple_Special_FB_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524920006643-V5Q002UU08OSCESZUDBO/HO15_TechPackHero_Sneakerboots_PR_v1_original.gif",
+      "filename": "HO15_TechPackHero_Sneakerboots_PR_v1_original.gif",
+      "source": "api",
+      "localPath": "assets/digital/nsw-tech-book/HO15_TechPackHero_Sneakerboots_PR_v1_original.gif"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524919979952-LRQA7RQVEGOMT19VBTL2/HO15_Tech_Pack_Hero_KJThompson_Apple_Special_FB_original.jpg",
+      "filename": "HO15_Tech_Pack_Hero_KJThompson_Apple_Special_FB_original.jpg",
+      "source": "api",
+      "localPath": "assets/digital/nsw-tech-book/HO15_Tech_Pack_Hero_KJThompson_Apple_Special_FB_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524920035224-IIUPRGY7SEEM3YCUB9AP/HO15_TechPackHero_Aeroloft_PR_v1_HighRes_original.gif",
+      "filename": "HO15_TechPackHero_Aeroloft_PR_v1_HighRes_original.gif",
+      "source": "api",
+      "localPath": "assets/digital/nsw-tech-book/HO15_TechPackHero_Aeroloft_PR_v1_HighRes_original.gif"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/digital/nsw-tech-book/extra-001.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

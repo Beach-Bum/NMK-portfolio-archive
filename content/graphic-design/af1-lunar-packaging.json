@@ -1,0 +1,43 @@
+{
+  "section": "Graphic Design / Creative Direction",
+  "title": "AF1 Lunar Packaging",
+  "slug": "new-project",
+  "description": "",
+  "text": [
+    "AF1 Lunar Packaging"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524915630455-A3ZQBINHUQ9XGODW7CPB/tumblr_oh2qsixrzA1qzta7uo1_1280.jpg",
+      "filename": "tumblr_oh2qsixrzA1qzta7uo1_1280.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/af1-lunar-packaging/tumblr_oh2qsixrzA1qzta7uo1_1280.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524916076958-I7660OLPVRE73950SJYM/tumblr_ox1vw5AP261qzta7uo1_1280.jpg",
+      "filename": "tumblr_ox1vw5AP261qzta7uo1_1280.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/af1-lunar-packaging/tumblr_ox1vw5AP261qzta7uo1_1280.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524916078320-RBNJ10KX1BZUPCV1ZDF2/tumblr_ox1vytVNK81qzta7uo2_r1_1280.jpg",
+      "filename": "tumblr_ox1vytVNK81qzta7uo2_r1_1280.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/af1-lunar-packaging/tumblr_ox1vytVNK81qzta7uo2_r1_1280.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524916056652-MEHP97U50Z9TC01IP8W6/tumblr_oh2qt7OWJe1qzta7uo1_1280.jpg",
+      "filename": "tumblr_oh2qt7OWJe1qzta7uo1_1280.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/af1-lunar-packaging/tumblr_oh2qt7OWJe1qzta7uo1_1280.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/graphic-design/af1-lunar-packaging/extra-001.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

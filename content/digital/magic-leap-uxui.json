@@ -1,0 +1,49 @@
+{
+  "section": "Digital",
+  "title": "Magic Leap UX/UI",
+  "slug": "magic-leap-homepage",
+  "description": "",
+  "text": [
+    "Magic Leap UX/UI"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589458087719-Z57KIMZV3X5V9FEI5D3D/ML_Website_Desktop_01.png",
+      "filename": "ML_Website_Desktop_01.png",
+      "source": "api",
+      "localPath": "assets/digital/magic-leap-uxui/ML_Website_Desktop_01.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589458120163-SJJU7U2EYMH8UO9SSWZ3/ML_Website_Desktop_02.png",
+      "filename": "ML_Website_Desktop_02.png",
+      "source": "api",
+      "localPath": "assets/digital/magic-leap-uxui/ML_Website_Desktop_02.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589458104673-3AXBJSV9MMWSVFUE1XSS/ML_Website_Mobile_01.png",
+      "filename": "ML_Website_Mobile_01.png",
+      "source": "api",
+      "localPath": "assets/digital/magic-leap-uxui/ML_Website_Mobile_01.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589458134136-YLCON0NKIQL3JA9QZOUU/ML_Website_Mobile_02.png",
+      "filename": "ML_Website_Mobile_02.png",
+      "source": "api",
+      "localPath": "assets/digital/magic-leap-uxui/ML_Website_Mobile_02.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/digital/magic-leap-uxui/extra-001.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1589458247521-MJ45MJ2588YCSH159024/Screen+Shot+2019-11-19+at+2.44.11+PM.png",
+      "filename": "extra-002.png",
+      "source": "html",
+      "localPath": "assets/digital/magic-leap-uxui/extra-002.png"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

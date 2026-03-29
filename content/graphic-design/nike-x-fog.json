@@ -1,0 +1,55 @@
+{
+  "section": "Graphic Design / Creative Direction",
+  "title": "Nike x FOG",
+  "slug": "new-project-54",
+  "description": "",
+  "text": [
+    "Nike x FOG"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696528274420-SMWI1OXSO1E79YFXP0PP/FOG_0.019.jpg",
+      "filename": "FOG_0.019.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-x-fog/FOG_0.019.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696531307646-8LYLEDKLNXEVD2HT6325/ijjF59SySqQQnG4ZPHf2rH.jpg",
+      "filename": "ijjF59SySqQQnG4ZPHf2rH.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-x-fog/ijjF59SySqQQnG4ZPHf2rH.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696531331511-HCTGGJ5TGYAQ60HPWQUZ/Screenshot+2023-10-05+at+20.41.55.png",
+      "filename": "Screenshot 2023-10-05 at 20.41.55.png",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-x-fog/Screenshot 2023-10-05 at 20.41.55.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696531332874-55RLYTEB9696ERMZMTXY/nike.jpeg.jpg",
+      "filename": "nike.jpeg.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-x-fog/nike.jpeg.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696531334410-MZ2B19X38W7GNK3EJK45/jerry-lorenzo-fear-of-god-nike-collection-7.jpg",
+      "filename": "jerry-lorenzo-fear-of-god-nike-collection-7.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-x-fog/jerry-lorenzo-fear-of-god-nike-collection-7.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696531335314-IZWCR8U2386SGCUCFNVM/fog.jpg",
+      "filename": "fog.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-x-fog/fog.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/graphic-design/nike-x-fog/extra-001.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

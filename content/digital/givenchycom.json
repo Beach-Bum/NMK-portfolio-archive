@@ -1,0 +1,469 @@
+{
+  "section": "Digital",
+  "title": "Givenchy.com",
+  "slug": "givenchy",
+  "description": "",
+  "text": [
+    "Givenchy.com"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089577668-GEVZCV9NIJVRKBF058YU/Givenchy_2016-23+FIN_Page_001.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_001.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_001.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089590997-WHO9TBXFUCOBB93B0B23/Givenchy_2016-23+FIN_Page_035.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_035.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_035.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089666886-9L60R37TZN4TPJ7M85H8/Givenchy_2016-23+FIN_Page_057.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_057.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_057.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089665484-X0QJYJQLK3FFDTBSO4PS/Givenchy_2016-23+FIN_Page_058.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_058.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_058.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089684169-JOTY5FJNOB1C53TTA0MC/Givenchy_2016-23+FIN_Page_059.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_059.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_059.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089672595-0BIQT0PJCDDEYWO6WEJS/Givenchy_2016-23+FIN_Page_060.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_060.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_060.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089674900-XL3EX0ZEMZN2AE7TFA9J/Givenchy_2016-23+FIN_Page_061.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_061.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_061.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089681698-17V7HUEHCVAECX7WR0U4/Givenchy_2016-23+FIN_Page_062.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_062.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_062.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089687200-KG3LA6EK0O7R77RPECPO/Givenchy_2016-23+FIN_Page_063.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_063.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_063.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089688520-MGHTZNZ5EVFWBAGT0CN2/Givenchy_2016-23+FIN_Page_064.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_064.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_064.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089693311-35VMVL6YE6ALYCAK5QSM/Givenchy_2016-23+FIN_Page_065.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_065.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_065.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089693436-NO4603QHZOSTULYH9WHJ/Givenchy_2016-23+FIN_Page_066.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_066.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_066.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089698611-201HJ46F1TQ1N69DNWPF/Givenchy_2016-23+FIN_Page_067.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_067.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_067.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089698994-J6Z8GWO0XA7VHSL65KPJ/Givenchy_2016-23+FIN_Page_068.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_068.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_068.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089700249-IZSX8FUF1WLBNCP45HIZ/Givenchy_2016-23+FIN_Page_069.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_069.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_069.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089700856-GIX6VY6O17SZM8VMZ8FS/Givenchy_2016-23+FIN_Page_070.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_070.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_070.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089706307-LOT6E9TDB9LE86OXNC0N/Givenchy_2016-23+FIN_Page_071.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_071.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_071.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089702966-OQVE77CGWY74UOX1QBFP/Givenchy_2016-23+FIN_Page_072.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_072.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_072.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089706560-B3K2PVK5XQH5M8HI9XSN/Givenchy_2016-23+FIN_Page_073.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_073.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_073.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089709459-GWFXZ92KZALLWF55ONV6/Givenchy_2016-23+FIN_Page_074.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_074.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_074.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089709071-SBJZHGXF494XB6J11FYP/Givenchy_2016-23+FIN_Page_075.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_075.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_075.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089724949-IEWUOFI4KB7Q1YDFOEYV/Givenchy_2016-23+FIN_Page_076.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_076.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_076.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089724691-NWU0GOTIZ7ZU1N13ZFWB/Givenchy_2016-23+FIN_Page_077.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_077.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_077.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089729202-OOGV8JLI6D0C5F0KSPRT/Givenchy_2016-23+FIN_Page_078.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_078.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_078.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089739074-BSEM3A217Z71ZGHRJX1N/Givenchy_2016-23+FIN_Page_079.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_079.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_079.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089748678-WMGSEK90P3E7NW579U4G/Givenchy_2016-23+FIN_Page_080.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_080.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_080.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089748791-8G44U9JK0N2HTXJP02K3/Givenchy_2016-23+FIN_Page_081.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_081.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_081.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089769476-ELLCAR97XPF17DOS87SI/Givenchy_2016-23+FIN_Page_082.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_082.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_082.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089757810-OUNWL7FK62WIA1UX7HAY/Givenchy_2016-23+FIN_Page_083.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_083.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_083.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089770129-FQT6FPKY9NNSPUOP8P48/Givenchy_2016-23+FIN_Page_084.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_084.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_084.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089782140-9J6G8M0OKO1Z7C5OBQLO/Givenchy_2016-23+FIN_Page_085.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_085.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_085.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089783644-N2GYD6EAWEGEA63ULRC1/Givenchy_2016-23+FIN_Page_086.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_086.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_086.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089801496-74Q0SKR5MH3GSMGSTWHX/Givenchy_2016-23+FIN_Page_087.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_087.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_087.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089797080-WKNOUSLVM9A2NIHCLQXT/Givenchy_2016-23+FIN_Page_088.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_088.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_088.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089810200-IK5NQOC70GR8D24HR8YP/Givenchy_2016-23+FIN_Page_089.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_089.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_089.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089809719-G3JGAPQL6EI6EBEB8D03/Givenchy_2016-23+FIN_Page_090.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_090.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_090.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089813840-FKFOTKS0IO4EJ2O9449K/Givenchy_2016-23+FIN_Page_091.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_091.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_091.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089812269-33KFZORLWPFN633GB8D3/Givenchy_2016-23+FIN_Page_092.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_092.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_092.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089814580-EF7FR0KHSNUIHPMDZHQJ/Givenchy_2016-23+FIN_Page_093.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_093.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_093.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089816367-YTGEJN040R2KZGGW2OU4/Givenchy_2016-23+FIN_Page_094.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_094.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_094.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089833281-36SQ8PZZZS8VOGXAH4XL/Givenchy_2016-23+FIN_Page_095.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_095.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_095.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089822628-PQRKGPRGY8YUJHKJ0KAC/Givenchy_2016-23+FIN_Page_096.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_096.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_096.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089824838-1YZRDQ2D885WLDB8Z7BV/Givenchy_2016-23+FIN_Page_097.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_097.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_097.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089834044-FLP6LEDW8ZCI5XOXZU9F/Givenchy_2016-23+FIN_Page_098.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_098.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_098.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089849546-JJVM7C70U0RM2GJ7T4MK/Givenchy_2016-23+FIN_Page_099.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_099.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_099.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089860155-DEC2C5SCSPHOQVMQLD8X/Givenchy_2016-23+FIN_Page_100.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_100.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_100.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089869000-99J3ZCSM14Z59EOS6XGN/Givenchy_2016-23+FIN_Page_101.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_101.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_101.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089875530-7AG2KJBYU6JH4XNTGGET/Givenchy_2016-23+FIN_Page_102.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_102.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_102.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089905522-CYEUK8TWGX3JSX8G27G1/Givenchy_2016-23+FIN_Page_103.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_103.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_103.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089915023-WT09QWR5HCUCSVFIQ5OS/Givenchy_2016-23+FIN_Page_104.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_104.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_104.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089927847-MEP9M3KNO5A0YVN8JC3E/Givenchy_2016-23+FIN_Page_105.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_105.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_105.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089920217-E2HBOISTKM4CMBPVOFGU/Givenchy_2016-23+FIN_Page_106.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_106.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_106.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089934500-KK6GG6CLZXZD09XSJ6S6/Givenchy_2016-23+FIN_Page_107.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_107.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_107.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089942824-51E3AXELUPREXZU7VWN9/Givenchy_2016-23+FIN_Page_108.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_108.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_108.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089948123-84ZAIJNQA8A652XSHQTN/Givenchy_2016-23+FIN_Page_109.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_109.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_109.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089972726-ORCTCQ5A0W9XXLNGYPXM/Givenchy_2016-23+FIN_Page_110.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_110.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_110.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089973140-1X2KQ8WIKG6RGRXB2T5J/Givenchy_2016-23+FIN_Page_111.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_111.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_111.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089976453-PSMWC4JPPJ9U15PUG9HZ/Givenchy_2016-23+FIN_Page_112.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_112.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_112.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089976186-WL7J84AU090ERZDQGOPO/Givenchy_2016-23+FIN_Page_113.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_113.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_113.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089980929-XR9FQ3CGUZRB4RI3J3UE/Givenchy_2016-23+FIN_Page_115.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_115.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_115.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089978399-QU3T21WCHHI9FHA8VFOW/Givenchy_2016-23+FIN_Page_116.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_116.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_116.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089987122-QKLBLE4YBLW3DGWSCIYM/Givenchy_2016-23+FIN_Page_117.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_117.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_117.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089986366-DDB2ND5G9U0C29B48VIH/Givenchy_2016-23+FIN_Page_118.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_118.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_118.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089993915-64K8P6DFGKKK8CVS9X5O/Givenchy_2016-23+FIN_Page_119.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_119.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_119.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525089992689-CI8PH30Y5FTQG92VMUSE/Givenchy_2016-23+FIN_Page_120.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_120.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_120.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090011957-OS9OJANISE77W8LRPN4K/Givenchy_2016-23+FIN_Page_121.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_121.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_121.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090005269-ZQGVC2JKEETXIQHP0GR2/Givenchy_2016-23+FIN_Page_124.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_124.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_124.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090012386-CE1G6QPQLLEGD155GTCQ/Givenchy_2016-23+FIN_Page_125.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_125.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_125.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090055502-D1LVA16EOC2LZ1TWABYU/Givenchy_2016-23+FIN_Page_143.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_143.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_143.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090056832-XGY4PWDJX36UJ5PN94HI/Givenchy_2016-23+FIN_Page_144.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_144.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_144.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090065177-2DK6JH74WQT7N81LAYQY/Givenchy_2016-23+FIN_Page_147.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_147.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_147.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090060449-TPPSK6F1J7XV7I8FD418/Givenchy_2016-23+FIN_Page_148.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_148.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_148.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090068858-PZYK0391CAD02H4NB8OI/Givenchy_2016-23+FIN_Page_150.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_150.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_150.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090069596-WQH2D2B9Q16WH5WOA426/Givenchy_2016-23+FIN_Page_151.jpg",
+      "filename": "Givenchy_2016-23 FIN_Page_151.jpg",
+      "source": "api",
+      "localPath": "assets/digital/givenchycom/Givenchy_2016-23 FIN_Page_151.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/digital/givenchycom/extra-001.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090502732-QQ9FNGMLPMCKIH1NO3BF/Givenchy_2016-23+FIN_Page_001.jpg",
+      "filename": "extra-002.jpg",
+      "source": "html",
+      "localPath": "assets/digital/givenchycom/extra-002.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

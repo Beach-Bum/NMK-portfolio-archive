@@ -1,0 +1,37 @@
+{
+  "section": "Graphic Design / Creative Direction",
+  "title": "Nike x TWIGS",
+  "slug": "nike-x-twigs",
+  "description": "",
+  "text": [
+    "Nike x TWIGS"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696507905645-GL69YNY10X4P4S38VONS/Twigs_Pages03.jpeg",
+      "filename": "Twigs_Pages03.jpeg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-x-twigs/Twigs_Pages03.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696507908777-TM4FEFE0KDJ864Q60Y80/Twigs_Pages02.jpeg",
+      "filename": "Twigs_Pages02.jpeg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-x-twigs/Twigs_Pages02.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1696507912112-CSGPB25WFH64DSS9V33T/Twigs_Pages01.jpeg",
+      "filename": "Twigs_Pages01.jpeg",
+      "source": "api",
+      "localPath": "assets/graphic-design/nike-x-twigs/Twigs_Pages01.jpeg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/graphic-design/nike-x-twigs/extra-001.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

@@ -1,0 +1,778 @@
+{
+  "section": "Digital",
+  "title": "Bradesco / Next Bank",
+  "slug": "next-bank",
+  "description": "",
+  "text": [
+    "Bradesco / Next Bank",
+    "Next"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525092322125-UIEC5DXMY0YD81JK52LQ/image-asset.jpeg",
+      "filename": "bradesco-next-bank-001.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/bradesco-next-bank-001.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090668733-9H19K0EL6LF80NI2MVEH/Next_Brandbook_WIP_V02+copy_Page_011.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_011.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_011.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090667645-W0ZWC40UX57B4IDTX3OP/Next_Brandbook_WIP_V02+copy_Page_012.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_012.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_012.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090673594-PXRMDU92NBXWMZRFIN8H/Next_Brandbook_WIP_V02+copy_Page_013.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_013.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_013.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090671130-N7TX7WON82EV067XF4BL/Next_Brandbook_WIP_V02+copy_Page_014.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_014.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_014.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090673935-K2ZTZU65JDAOP2KAM6AC/Next_Brandbook_WIP_V02+copy_Page_015.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_015.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_015.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090675909-V5B3E28VNYKUWF33RAS0/Next_Brandbook_WIP_V02+copy_Page_016.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_016.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_016.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090676472-DGKIU2OVEF0QK545YFOY/Next_Brandbook_WIP_V02+copy_Page_017.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_017.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_017.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090686842-CAK0A2Z8S4RUTTVKXUOS/Next_Brandbook_WIP_V02+copy_Page_018.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_018.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_018.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090687060-OLHGSW9QKYT2H0VLN4AP/Next_Brandbook_WIP_V02+copy_Page_019.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_019.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_019.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090688772-OXYPT7EQC6JY8VOSQ62J/Next_Brandbook_WIP_V02+copy_Page_020.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_020.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_020.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090689238-42MTT6D3EKJ034S58LXK/Next_Brandbook_WIP_V02+copy_Page_021.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_021.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_021.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090699845-R16SX382LYLAXWG23HK4/Next_Brandbook_WIP_V02+copy_Page_022.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_022.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_022.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090692561-KW8O3UD9HNF76MX9142J/Next_Brandbook_WIP_V02+copy_Page_023.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_023.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_023.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090699577-4QN7D8IBKU9TTA1P6X0E/Next_Brandbook_WIP_V02+copy_Page_024.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_024.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_024.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090701561-41VUES6G47LDS7JEFA5H/Next_Brandbook_WIP_V02+copy_Page_025.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_025.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_025.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090701560-TZSZJTHLXMT4RINLN6E2/Next_Brandbook_WIP_V02+copy_Page_026.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_026.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_026.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090704336-IU43NH0PZNNIK0YRT65I/Next_Brandbook_WIP_V02+copy_Page_027.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_027.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_027.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090710131-BUGWW4QXD27KJGJJGBQO/Next_Brandbook_WIP_V02+copy_Page_028.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_028.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_028.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090706923-Z1B7FWWM8H5F5ZL24RTR/Next_Brandbook_WIP_V02+copy_Page_029.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_029.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_029.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090709633-2ACXOX88XFC5J8ZQDV66/Next_Brandbook_WIP_V02+copy_Page_030.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_030.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_030.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090711235-RXCH6BS0XRDY9GXE6IKO/Next_Brandbook_WIP_V02+copy_Page_031.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_031.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_031.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090711944-OPQX8SI60HSZHUX12X8K/Next_Brandbook_WIP_V02+copy_Page_032.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_032.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_032.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090712718-3P33M0SDZ1VU9B8YXA89/Next_Brandbook_WIP_V02+copy_Page_033.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_033.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_033.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090714332-PB30W0H5HTLKBVZQYVYO/Next_Brandbook_WIP_V02+copy_Page_034.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_034.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_034.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090714818-4P07YB0IVBBHVRSSBGYP/Next_Brandbook_WIP_V02+copy_Page_035.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_035.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_035.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090717538-F8F8ZFT5JA6BI69JATZ6/Next_Brandbook_WIP_V02+copy_Page_036.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_036.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_036.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090717694-IV2ZPOL6DGGTREXQ5TFB/Next_Brandbook_WIP_V02+copy_Page_037.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_037.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_037.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090721280-O1FK43VZQC6OVPCW1KAW/Next_Brandbook_WIP_V02+copy_Page_038.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_038.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_038.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090720981-4S7QSOAG2GYW5PJS34M2/Next_Brandbook_WIP_V02+copy_Page_039.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_039.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_039.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090726668-JFPJJBQD4SV8FFZBEK9G/Next_Brandbook_WIP_V02+copy_Page_040.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_040.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_040.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090726799-AYA9QNPQEFSXTT6IMAXW/Next_Brandbook_WIP_V02+copy_Page_041.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_041.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_041.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090731636-XC14WA0V4EDPE8S4WUAC/Next_Brandbook_WIP_V02+copy_Page_042.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_042.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_042.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090731409-KNPXIT3J4OUHMVQUZSHE/Next_Brandbook_WIP_V02+copy_Page_043.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_043.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_043.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090736624-NCY2ALPQDHZQ0ZT2S3E5/Next_Brandbook_WIP_V02+copy_Page_044.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_044.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_044.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090736095-RFHQO01TKF6VFADDR2EW/Next_Brandbook_WIP_V02+copy_Page_045.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_045.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_045.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090739330-HHSM8TCQIXK5PXCWGZ6D/Next_Brandbook_WIP_V02+copy_Page_046.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_046.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_046.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090740589-11DEFQST2G69535940M4/Next_Brandbook_WIP_V02+copy_Page_047.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_047.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_047.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090746059-KPP14U617N0R1TYT2JPI/Next_Brandbook_WIP_V02+copy_Page_048.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_048.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_048.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090747662-RO8EO4G5HB30CE2NPEVB/Next_Brandbook_WIP_V02+copy_Page_049.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_049.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_049.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090749002-T02HQXECTZMCY085X4L1/Next_Brandbook_WIP_V02+copy_Page_050.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_050.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_050.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090759927-XQ9VJZQR2B5K56NKSOQB/Next_Brandbook_WIP_V02+copy_Page_051.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_051.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_051.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090760204-EI4GN9MZ1J7M7JQXNAU8/Next_Brandbook_WIP_V02+copy_Page_052.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_052.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_052.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090764303-Q20LBJSFVM14RHS8TW5W/Next_Brandbook_WIP_V02+copy_Page_053.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_053.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_053.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090780694-RCJ6FKRBDCIWDWHQYSUQ/Next_Brandbook_WIP_V02+copy_Page_054.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_054.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_054.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090784440-E9PD3ER41R732TH84E6H/Next_Brandbook_WIP_V02+copy_Page_055.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_055.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_055.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090794574-QJWBNC0NZLUFQD74B4XS/Next_Brandbook_WIP_V02+copy_Page_056.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_056.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_056.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090789156-7ZCZOF4LY2XAX4GGOEDG/Next_Brandbook_WIP_V02+copy_Page_057.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_057.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_057.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090799837-NP8I83O4EHRS7XVLRK7Z/Next_Brandbook_WIP_V02+copy_Page_058.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_058.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_058.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090802985-9CCV7498KS1MMCPNQ5IC/Next_Brandbook_WIP_V02+copy_Page_059.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_059.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_059.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090804831-M4USPKLTM9NZUJSPLKK9/Next_Brandbook_WIP_V02+copy_Page_060.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_060.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_060.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090806517-GX5HJNEZAW6JWTOCAW9G/Next_Brandbook_WIP_V02+copy_Page_061.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_061.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_061.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090808864-WAMV7SUM4X9Q7JLJSZ3S/Next_Brandbook_WIP_V02+copy_Page_062.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_062.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_062.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090809812-PDQVOV14496EQLTCBZ5Y/Next_Brandbook_WIP_V02+copy_Page_063.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_063.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_063.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090811831-FR0H7QXSFY889BES9Y9F/Next_Brandbook_WIP_V02+copy_Page_064.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_064.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_064.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090815903-UX8BL30MD8VMI8E6NFXY/Next_Brandbook_WIP_V02+copy_Page_065.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_065.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_065.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090815289-BMYUC6FCN73SWU95WRHT/Next_Brandbook_WIP_V02+copy_Page_066.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_066.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_066.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090821375-0N4FXPUYK0NK6CJRBYUG/Next_Brandbook_WIP_V02+copy_Page_067.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_067.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_067.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090821843-7TBPY5K5CR9JBHJ1FOZ3/Next_Brandbook_WIP_V02+copy_Page_068.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_068.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_068.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090827879-60YRKEYRZ9NG0QYCN540/Next_Brandbook_WIP_V02+copy_Page_069.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_069.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_069.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090828115-V0ZQO9R6H4D530SGW1VC/Next_Brandbook_WIP_V02+copy_Page_070.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_070.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_070.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090828951-NL04TEFU4MVOKU2LKGSO/Next_Brandbook_WIP_V02+copy_Page_071.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_071.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_071.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090833633-AM64KE6142NNMHYXCLBR/Next_Brandbook_WIP_V02+copy_Page_072.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_072.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_072.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090847082-YW3L4I3NTP3KDXWGZFZX/Next_Brandbook_WIP_V02+copy_Page_073.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_073.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_073.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090846701-M809YGT6ME9D5AUDQFCV/Next_Brandbook_WIP_V02+copy_Page_074.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_074.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_074.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090861942-S4Z6AXORHV11NU4WQ81O/Next_Brandbook_WIP_V02+copy_Page_075.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_075.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_075.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090852456-IHLAGPD61QGZ7ZO6073W/Next_Brandbook_WIP_V02+copy_Page_076.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_076.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_076.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090854595-D50P56702BG0PZFZ8RHD/Next_Brandbook_WIP_V02+copy_Page_077.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_077.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_077.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090858970-M9KEAJUIEI2TPKDWM3LG/Next_Brandbook_WIP_V02+copy_Page_078.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_078.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_078.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090861128-TYLWR84T44B6IMISTD3I/Next_Brandbook_WIP_V02+copy_Page_079.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_079.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_079.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090869446-7KVVFU3SQQPI4F3617FA/Next_Brandbook_WIP_V02+copy_Page_080.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_080.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_080.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090867756-UY9Y3M90KMTFALG7Z8XN/Next_Brandbook_WIP_V02+copy_Page_081.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_081.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_081.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090872586-6755RAD14M9K5ATTD8DS/Next_Brandbook_WIP_V02+copy_Page_082.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_082.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_082.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090872703-APOD2NXNT5YQC1AD70UW/Next_Brandbook_WIP_V02+copy_Page_083.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_083.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_083.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090880421-OK9YY8KUOIJ1M9177669/Next_Brandbook_WIP_V02+copy_Page_084.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_084.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_084.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090881115-H9RFJ2D97892PCA5JYKI/Next_Brandbook_WIP_V02+copy_Page_085.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_085.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_085.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090886733-K49PE3LKEH7ZS7E1S3JX/Next_Brandbook_WIP_V02+copy_Page_086.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_086.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_086.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090887074-I2TOCPA12H97THFE0N9U/Next_Brandbook_WIP_V02+copy_Page_087.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_087.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_087.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090900995-VRULR8A33DUV24AL6ZXE/Next_Brandbook_WIP_V02+copy_Page_088.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_088.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_088.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090919090-OCB2MGSZKVRG2JH5FG3R/Next_Brandbook_WIP_V02+copy_Page_089.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_089.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_089.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090903396-IETJ0E7NLYOE8EOPXPH8/Next_Brandbook_WIP_V02+copy_Page_090.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_090.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_090.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090905449-LKWICSBDH9ZLRERC7QJV/Next_Brandbook_WIP_V02+copy_Page_091.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_091.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_091.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090907838-EGHSNVT7XSBULBAJENSR/Next_Brandbook_WIP_V02+copy_Page_092.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_092.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_092.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090911299-1IWL4PSYMDS9SUYSOG4K/Next_Brandbook_WIP_V02+copy_Page_093.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_093.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_093.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090916621-CY3QX4AKCNSXD02YQGDJ/Next_Brandbook_WIP_V02+copy_Page_094.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_094.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_094.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090922988-2N847DNTM5HG8GH9XJWS/Next_Brandbook_WIP_V02+copy_Page_095.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_095.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_095.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090924210-JSYQX73TPO2RPH3UH8F8/Next_Brandbook_WIP_V02+copy_Page_096.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_096.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_096.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090929910-35W1C4DNUDUKTRV5LSJT/Next_Brandbook_WIP_V02+copy_Page_097.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_097.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_097.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090932821-VBTCE0MPBRDSWQXREHC6/Next_Brandbook_WIP_V02+copy_Page_098.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_098.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_098.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090932664-6OTOITY52EYTGRRU0UQK/Next_Brandbook_WIP_V02+copy_Page_099.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_099.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_099.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090942742-9GDO6B38R0BAQPMAEA3M/Next_Brandbook_WIP_V02+copy_Page_100.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_100.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_100.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090934880-LANDDMV1E8ES9MP0QCKN/Next_Brandbook_WIP_V02+copy_Page_101.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_101.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_101.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090949689-CKCX6D3ZPCPQBAVK70IW/Next_Brandbook_WIP_V02+copy_Page_102.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_102.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_102.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090944627-WRXJEUP8S0RU0SL5ZOUR/Next_Brandbook_WIP_V02+copy_Page_103.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_103.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_103.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090946929-LMLE8S9S1ZPXFJ47G2O2/Next_Brandbook_WIP_V02+copy_Page_104.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_104.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_104.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090950035-REF4XKXR7T97THS94NVV/Next_Brandbook_WIP_V02+copy_Page_105.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_105.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_105.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090953817-AXWFRMMG9JS73EFWCQDO/Next_Brandbook_WIP_V02+copy_Page_106.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_106.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_106.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090952962-9FZKS2E9ZRUVX83IAVN0/Next_Brandbook_WIP_V02+copy_Page_107.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_107.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_107.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090955920-00D74OMLZGUXSPUO2P9U/Next_Brandbook_WIP_V02+copy_Page_108.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_108.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_108.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090956271-LZ33534Q8LOJXCGOTSWI/Next_Brandbook_WIP_V02+copy_Page_109.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_109.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_109.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090958276-7ZH5319NYDDJR6D5XU76/Next_Brandbook_WIP_V02+copy_Page_110.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_110.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_110.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090963713-4HB9EXBJRVU36Z7YPPVY/Next_Brandbook_WIP_V02+copy_Page_111.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_111.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_111.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090974513-GJUFRXEH2YT4R19W4AXC/Next_Brandbook_WIP_V02+copy_Page_112.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_112.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_112.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090975339-2WEDP6ZINTNRYY120CZ0/Next_Brandbook_WIP_V02+copy_Page_113.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_113.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_113.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090980067-Y7JJJ1677XZPQ9FRW56I/Next_Brandbook_WIP_V02+copy_Page_114.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_114.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_114.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090982301-FBTRZ9L4HGLANIMFHD5B/Next_Brandbook_WIP_V02+copy_Page_115.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_115.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_115.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090986692-2QP04NBTBAA65E2OBTA4/Next_Brandbook_WIP_V02+copy_Page_116.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_116.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_116.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090987143-UZ7BKH78N2TJLAXBOFRC/Next_Brandbook_WIP_V02+copy_Page_117.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_117.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_117.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090993059-4CIOMZUDNFNIMRC1N6IX/Next_Brandbook_WIP_V02+copy_Page_118.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_118.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_118.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090992354-002KKDAJZH654VHQ8N3K/Next_Brandbook_WIP_V02+copy_Page_119.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_119.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_119.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090997749-X4VU6M0M250Y65WPUVCP/Next_Brandbook_WIP_V02+copy_Page_120.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_120.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_120.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525090998204-1J9UDH8C56QTVAUV06G0/Next_Brandbook_WIP_V02+copy_Page_121.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_121.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_121.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525091003107-6JE0Q834RV82UK3IM2CU/Next_Brandbook_WIP_V02+copy_Page_122.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_122.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_122.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525091002874-0B9N5UNRGKJGX5VZUXX3/Next_Brandbook_WIP_V02+copy_Page_123.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_123.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_123.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525091008063-9H4357WCC7YGW5VSB99C/Next_Brandbook_WIP_V02+copy_Page_124.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_124.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_124.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525091008102-F51ACR7FZ9QWNNHOTFMC/Next_Brandbook_WIP_V02+copy_Page_125.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_125.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_125.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525091012855-6DC9AC7FXQWVZJLVDKSO/Next_Brandbook_WIP_V02+copy_Page_126.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_126.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_126.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525091012500-AOCR37SIFQ4I47TEUUWW/Next_Brandbook_WIP_V02+copy_Page_127.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_127.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_127.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525091015666-SRF1WERK3V0OU57XAP3N/Next_Brandbook_WIP_V02+copy_Page_128.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_128.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_128.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525091014705-HUK2W7474XX52WHKT9L7/Next_Brandbook_WIP_V02+copy_Page_129.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_129.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_129.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525091016625-OBJ6IOFE15X8ZVUO0H28/Next_Brandbook_WIP_V02+copy_Page_130.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_130.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_130.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525091018743-9ONAH290YVNVCPY9CAJ2/Next_Brandbook_WIP_V02+copy_Page_131.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_131.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_131.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525091018629-W6X2IND2SXMP62A2O9JW/Next_Brandbook_WIP_V02+copy_Page_132.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_132.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_132.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525091021226-W09U999HGG5C95UEO11M/Next_Brandbook_WIP_V02+copy_Page_133.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_133.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_133.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525091022816-E2XA0NM9V2LN5L4G45FZ/Next_Brandbook_WIP_V02+copy_Page_134.jpg",
+      "filename": "Next_Brandbook_WIP_V02 copy_Page_134.jpg",
+      "source": "api",
+      "localPath": "assets/digital/bradesco-next-bank/Next_Brandbook_WIP_V02 copy_Page_134.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/digital/bradesco-next-bank/extra-001.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525092577345-PUAYE3CFO67G7N40U0PE/Next_Brandbook_WIP_V02+copy_Page_104.jpg",
+      "filename": "extra-002.jpg",
+      "source": "html",
+      "localPath": "assets/digital/bradesco-next-bank/extra-002.jpg"
+    }
+  ],
+  "vimeos": [
+    "267224988"
+  ],
+  "youtubes": []
+}

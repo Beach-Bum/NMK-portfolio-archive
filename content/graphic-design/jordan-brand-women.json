@@ -1,0 +1,73 @@
+{
+  "section": "Graphic Design / Creative Direction",
+  "title": "Jordan Brand / Women",
+  "slug": "new-project-4",
+  "description": "",
+  "text": [
+    "Jordan Brand / Women"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524918754699-CTJPAC3AZN2PF2A43HFU/tumblr_p58t4pWUvX1qzta7uo1_1280.jpg",
+      "filename": "tumblr_p58t4pWUvX1qzta7uo1_1280.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/jordan-brand-women/tumblr_p58t4pWUvX1qzta7uo1_1280.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524918764457-FWRYAMJDLXZM7FJBLMR0/tumblr_p58swuGIsk1qzta7uo1_1280.jpg",
+      "filename": "tumblr_p58swuGIsk1qzta7uo1_1280.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/jordan-brand-women/tumblr_p58swuGIsk1qzta7uo1_1280.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524918767004-MDHAGIEQSDQ5JOM56EUR/tumblr_p58t11eWyy1qzta7uo1_1280.jpg",
+      "filename": "tumblr_p58t11eWyy1qzta7uo1_1280.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/jordan-brand-women/tumblr_p58t11eWyy1qzta7uo1_1280.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524918768569-22NCO41PFAY4FN4QBWIG/tumblr_p58t21RH8A1qzta7uo1_1280.jpg",
+      "filename": "tumblr_p58t21RH8A1qzta7uo1_1280.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/jordan-brand-women/tumblr_p58t21RH8A1qzta7uo1_1280.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524918761410-GBP5OSX5F62AECVV5RZ6/tumblr_p58sw7mjU81qzta7uo1_1280.jpg",
+      "filename": "tumblr_p58sw7mjU81qzta7uo1_1280.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/jordan-brand-women/tumblr_p58sw7mjU81qzta7uo1_1280.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525274708565-G3JQY4JNFEPEHJTPSP45/HO17_JD_JSW_WOMENS_SOH_AJI_BARELY_GRAPE_PRIMARY_native_1600.jpg",
+      "filename": "HO17_JD_JSW_WOMENS_SOH_AJI_BARELY_GRAPE_PRIMARY_native_1600.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/jordan-brand-women/HO17_JD_JSW_WOMENS_SOH_AJI_BARELY_GRAPE_PRIMARY_native_1600.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525274717216-2V2NQ2AQKFC2Z6LAPUV4/HO17_JD_JSW_WOMENS_SOH_AJI_MINT_FOAM_PRIMARY_native_1600.jpg",
+      "filename": "HO17_JD_JSW_WOMENS_SOH_AJI_MINT_FOAM_PRIMARY_native_1600.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/jordan-brand-women/HO17_JD_JSW_WOMENS_SOH_AJI_MINT_FOAM_PRIMARY_native_1600.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525274722620-0UYO33BXJZT0FFRJ8USV/HO17_JD_JSW_WOMENS_SOH_AJI_SUN_BLUSH_DETAIL_1_native_1600.jpg",
+      "filename": "HO17_JD_JSW_WOMENS_SOH_AJI_SUN_BLUSH_DETAIL_1_native_1600.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/jordan-brand-women/HO17_JD_JSW_WOMENS_SOH_AJI_SUN_BLUSH_DETAIL_1_native_1600.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525274742868-SSUOO5Y24H9WMK093CF0/SP18_JD_JSW_WOMENS_MODEL_AJI_HiZip_SECONDARY_006_native_1600.jpg",
+      "filename": "SP18_JD_JSW_WOMENS_MODEL_AJI_HiZip_SECONDARY_006_native_1600.jpg",
+      "source": "api",
+      "localPath": "assets/graphic-design/jordan-brand-women/SP18_JD_JSW_WOMENS_MODEL_AJI_HiZip_SECONDARY_006_native_1600.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/graphic-design/jordan-brand-women/extra-001.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

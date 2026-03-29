@@ -1,0 +1,151 @@
+{
+  "section": "Interiors / Architecture",
+  "title": "The Fritz Düsseldorf",
+  "slug": "the-fritz-dsseldorf-1",
+  "description": "",
+  "text": [
+    "The Fritz Düsseldorf"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525347631696-RNTQTSEHNCYUJSCVN7R0/TheInvisibleParty-The-Fritz-1586-x-1000-17.jpg",
+      "filename": "TheInvisibleParty-The-Fritz-1586-x-1000-17.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/the-fritz-dsseldorf/TheInvisibleParty-The-Fritz-1586-x-1000-17.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525347475381-ET2A2BT8CUULCQJPWS4Y/TheInvisibleParty-The-Fritz-700-x-1000-05.jpg",
+      "filename": "TheInvisibleParty-The-Fritz-700-x-1000-05.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/the-fritz-dsseldorf/TheInvisibleParty-The-Fritz-700-x-1000-05.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525347474005-57JHYYOSNWPSVH4OOG0Q/TheInvisibleParty-The-Fritz-700-x-1000-04.jpg",
+      "filename": "TheInvisibleParty-The-Fritz-700-x-1000-04.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/the-fritz-dsseldorf/TheInvisibleParty-The-Fritz-700-x-1000-04.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525347488879-Y4QK3S9VIO1JNHTP3MY3/TheInvisibleParty-TheFritz-FritzsFrauFranz-700-x-1000-08.jpg",
+      "filename": "TheInvisibleParty-TheFritz-FritzsFrauFranz-700-x-1000-08.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/the-fritz-dsseldorf/TheInvisibleParty-TheFritz-FritzsFrauFranz-700-x-1000-08.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525347479374-06YDOQGISYI06J52QC15/TheInvisibleParty-The-Fritz-700-x-1000-10.jpg",
+      "filename": "TheInvisibleParty-The-Fritz-700-x-1000-10.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/the-fritz-dsseldorf/TheInvisibleParty-The-Fritz-700-x-1000-10.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525347481646-CX0KDDOPTTW5KZCEA2YH/TheInvisibleParty-The-Fritz-700-x-1000-12.jpg",
+      "filename": "TheInvisibleParty-The-Fritz-700-x-1000-12.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/the-fritz-dsseldorf/TheInvisibleParty-The-Fritz-700-x-1000-12.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525347477856-TK5NDRNRO01BD90YVHJF/TheInvisibleParty-The-Fritz-700-x-1000-09.jpg",
+      "filename": "TheInvisibleParty-The-Fritz-700-x-1000-09.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/the-fritz-dsseldorf/TheInvisibleParty-The-Fritz-700-x-1000-09.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525347473625-23L6OCZWQ4RBD704UP8Y/TheInvisibleParty-The-Fritz-700-x-1000-02.jpg",
+      "filename": "TheInvisibleParty-The-Fritz-700-x-1000-02.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/the-fritz-dsseldorf/TheInvisibleParty-The-Fritz-700-x-1000-02.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525347636311-1414FUJUYWOP83CZGRUB/TheInvisibleParty-The-Fritz-1586-x-1000-15.jpg",
+      "filename": "TheInvisibleParty-The-Fritz-1586-x-1000-15.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/the-fritz-dsseldorf/TheInvisibleParty-The-Fritz-1586-x-1000-15.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525347477291-WC1EITBONK9CFYRTQB55/TheInvisibleParty-The-Fritz-700-x-1000-08.jpg",
+      "filename": "TheInvisibleParty-The-Fritz-700-x-1000-08.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/the-fritz-dsseldorf/TheInvisibleParty-The-Fritz-700-x-1000-08.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525347475998-730I01A6R65GJZGS2RCB/TheInvisibleParty-The-Fritz-700-x-1000-06.jpg",
+      "filename": "TheInvisibleParty-The-Fritz-700-x-1000-06.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/the-fritz-dsseldorf/TheInvisibleParty-The-Fritz-700-x-1000-06.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525347476387-CFSHDGPWBDDBL0P34PQZ/TheInvisibleParty-The-Fritz-700-x-1000-07.jpg",
+      "filename": "TheInvisibleParty-The-Fritz-700-x-1000-07.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/the-fritz-dsseldorf/TheInvisibleParty-The-Fritz-700-x-1000-07.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525347479495-D5KPOM7HPOQ4OUFVKZ1Z/TheInvisibleParty-The-Fritz-700-x-1000-11.jpg",
+      "filename": "TheInvisibleParty-The-Fritz-700-x-1000-11.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/the-fritz-dsseldorf/TheInvisibleParty-The-Fritz-700-x-1000-11.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525347483290-XJCBP3SZJKO1HC656PR1/TheInvisibleParty-TheFritz-FritzsFrauFranz-700-x-1000-02.jpg",
+      "filename": "TheInvisibleParty-TheFritz-FritzsFrauFranz-700-x-1000-02.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/the-fritz-dsseldorf/TheInvisibleParty-TheFritz-FritzsFrauFranz-700-x-1000-02.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525347481408-LY7LJ0VTPX4A0YJJYDXS/TheInvisibleParty-TheFritz-FritzsFrauFranz-700-x-1000-01.jpg",
+      "filename": "TheInvisibleParty-TheFritz-FritzsFrauFranz-700-x-1000-01.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/the-fritz-dsseldorf/TheInvisibleParty-TheFritz-FritzsFrauFranz-700-x-1000-01.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525347483818-PJK01L649D3W1B91TP58/TheInvisibleParty-TheFritz-FritzsFrauFranz-700-x-1000-03.jpg",
+      "filename": "TheInvisibleParty-TheFritz-FritzsFrauFranz-700-x-1000-03.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/the-fritz-dsseldorf/TheInvisibleParty-TheFritz-FritzsFrauFranz-700-x-1000-03.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525347486866-1804KGOADXX5DOGZG1R8/TheInvisibleParty-TheFritz-FritzsFrauFranz-700-x-1000-04.jpg",
+      "filename": "TheInvisibleParty-TheFritz-FritzsFrauFranz-700-x-1000-04.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/the-fritz-dsseldorf/TheInvisibleParty-TheFritz-FritzsFrauFranz-700-x-1000-04.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525347486342-F9XJLW6DZEFISB25GES4/TheInvisibleParty-TheFritz-FritzsFrauFranz-700-x-1000-06.jpg",
+      "filename": "TheInvisibleParty-TheFritz-FritzsFrauFranz-700-x-1000-06.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/the-fritz-dsseldorf/TheInvisibleParty-TheFritz-FritzsFrauFranz-700-x-1000-06.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525347489355-KW7WGOR9OWQX1CE8J56B/TheInvisibleParty-TheFritz-FritzsFrauFranz-1586-x-1000-11.jpg",
+      "filename": "TheInvisibleParty-TheFritz-FritzsFrauFranz-1586-x-1000-11.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/the-fritz-dsseldorf/TheInvisibleParty-TheFritz-FritzsFrauFranz-1586-x-1000-11.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525347492489-HS6PAEMWTW95TKC8WAIL/TheInvisibleParty-TheFritz-FritzsFrauFranz-1586-x-1000-12.jpg",
+      "filename": "TheInvisibleParty-TheFritz-FritzsFrauFranz-1586-x-1000-12.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/the-fritz-dsseldorf/TheInvisibleParty-TheFritz-FritzsFrauFranz-1586-x-1000-12.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525347494220-31SMUYA4C0CNRJ2A7FW8/TheInvisibleParty-TheFritz-FritzsFrauFranz-1586-x-1000-13.jpg",
+      "filename": "TheInvisibleParty-TheFritz-FritzsFrauFranz-1586-x-1000-13.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/the-fritz-dsseldorf/TheInvisibleParty-TheFritz-FritzsFrauFranz-1586-x-1000-13.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525347630151-HYD0BB29A5D97DDZXGPV/TheInvisibleParty-The-Fritz-1586-x-1000-16.jpg",
+      "filename": "TheInvisibleParty-The-Fritz-1586-x-1000-16.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/the-fritz-dsseldorf/TheInvisibleParty-The-Fritz-1586-x-1000-16.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/interiors-architecture/the-fritz-dsseldorf/extra-001.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

@@ -1,0 +1,49 @@
+{
+  "section": "Interiors / Architecture",
+  "title": "Nike 1948 / London Update",
+  "slug": "new-project-65",
+  "description": "",
+  "text": [
+    "Nike 1948 / London Update"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524934603995-ZJ6BACPWKRY8LHXL91N8/IMG_1894_%281%29_original.jpg",
+      "filename": "IMG_1894_(1)_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-1948-london-update/IMG_1894_(1)_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524934566440-SXHYKGZ1YJJFJC1CW9VT/IMG_1559_original.jpg",
+      "filename": "IMG_1559_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-1948-london-update/IMG_1559_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524934566907-JYIDK4ZQSIP1A7HI69SB/IMG_1643_original.jpg",
+      "filename": "IMG_1643_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-1948-london-update/IMG_1643_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524934597509-Z7ZDVIGDR9TESCO1WYD9/IMG_1762_original.jpg",
+      "filename": "IMG_1762_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-1948-london-update/IMG_1762_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1524934827306-7SPNAMMICXVTMA6IBTVY/1948_iPad_app_promo_original.jpg",
+      "filename": "1948_iPad_app_promo_original.jpg",
+      "source": "api",
+      "localPath": "assets/interiors-architecture/nike-1948-london-update/1948_iPad_app_promo_original.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/interiors-architecture/nike-1948-london-update/extra-001.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}

@@ -1,0 +1,223 @@
+{
+  "section": "Experiments",
+  "title": "Paintings",
+  "slug": "paintings-1",
+  "description": "",
+  "text": [
+    "Paintings"
+  ],
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525086285313-Q66CNZ5JCUFRIRVEXS0R/13.jpg",
+      "filename": "13.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings/13.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525086285428-W9KV29PRWX2SYMWFS4IN/14.jpg",
+      "filename": "14.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings/14.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525086286938-N97OEC4KDNU3UV3OT2T3/15.jpg",
+      "filename": "15.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings/15.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525086318289-F9DHMKZVH2H7N36OC1CG/27.jpg",
+      "filename": "27.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings/27.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525086318401-IZEJJE2WZYYM9QLOUCQG/26.jpg",
+      "filename": "26.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings/26.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525086320877-3PGT1M8LYOJJRK6N8ZY4/28.jpg",
+      "filename": "28.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings/28.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525086064214-ABL7EEUCIVXRUEKQ4GTA/004.jpg",
+      "filename": "004.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings/004.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525085285841-Q6WEYDZYNOLX76H4ARE3/nedkarlovich_13.jpg",
+      "filename": "nedkarlovich_13.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings/nedkarlovich_13.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525085286054-JZ6OL2W4P2TS3XOMEI4G/nedkarlovich_3.jpg",
+      "filename": "nedkarlovich_3.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings/nedkarlovich_3.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525085271465-A5YM2G3D0K3J6YHE0SJP/nedkarlovich_1.jpg",
+      "filename": "nedkarlovich_1.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings/nedkarlovich_1.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525085999675-BQLLBU672KXBGOXPWUO4/nedkarlovich_9.jpg",
+      "filename": "nedkarlovich_9.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings/nedkarlovich_9.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525085272300-RKRE9Z9AFY0RHIB2Q49T/nedkarlovich_2.jpg",
+      "filename": "nedkarlovich_2.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings/nedkarlovich_2.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525085273858-KC21OD0LFX1YGKTV5KYP/nedkarlovich_12.jpg",
+      "filename": "nedkarlovich_12.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings/nedkarlovich_12.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525086127040-PSBARYAXSQ5K2F3GOP60/Screen+Shot+2018-04-30+at+12.47.32+PM.png",
+      "filename": "Screen Shot 2018-04-30 at 12.47.32 PM.png",
+      "source": "api",
+      "localPath": "assets/experiments/paintings/Screen Shot 2018-04-30 at 12.47.32 PM.png"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525086013751-TYHH2FOD54S8QUCGEM0W/20.jpg",
+      "filename": "20.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings/20.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525086081823-0NK1DWYDMX2IQ5FFO2TV/6.jpg",
+      "filename": "6.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings/6.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525086089337-DFUPHKTFKGWOB4KQ82HV/8.jpg",
+      "filename": "8.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings/8.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525086085511-1L7RVA7T98CUI80YKPGN/7.jpg",
+      "filename": "7.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings/7.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525085436613-21G3EUPP44AD0OI2IXDF/nedkarlovich_8.jpg",
+      "filename": "nedkarlovich_8.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings/nedkarlovich_8.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525085495010-8C4CV4WUJF6WNDFFBMW8/nedkarlovich_10.jpg",
+      "filename": "nedkarlovich_10.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings/nedkarlovich_10.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525085619581-8XS67C4CHWZV7KUQSJ15/nedkarlovich_9.jpg",
+      "filename": "nedkarlovich_9.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings/nedkarlovich_9.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525085685492-VBF803QXD9WJDWG068XI/nedkarlovich_11.jpg",
+      "filename": "nedkarlovich_11.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings/nedkarlovich_11.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525085782883-0ATSKRRK2EO29MW2SFUM/001.jpg",
+      "filename": "001.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings/001.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525085371944-2AYFKZPEAP0Y1EW79HCP/nedkarlovich_5.jpg",
+      "filename": "nedkarlovich_5.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings/nedkarlovich_5.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525085372190-EN4P0MAAN7D4VLPOA867/nedkarlovich_6.jpg",
+      "filename": "nedkarlovich_6.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings/nedkarlovich_6.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525085374811-36LTFVE6AZA2H37IU8G5/nedkarlovich_7.jpg",
+      "filename": "nedkarlovich_7.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings/nedkarlovich_7.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525085847043-8NV6GZPF0EVDCSD7XAWO/nedkarlovich_25.jpg",
+      "filename": "nedkarlovich_25.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings/nedkarlovich_25.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525086250529-0WPYQGOMSJPRRXW70W2X/5.jpg",
+      "filename": "5.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings/5.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525086890565-MD9K3JEK4MTONXD2VBO9/6.jpg",
+      "filename": "6.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings/6.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525085687267-Q13EKWY9QPEGMGPO8FUW/nedkarlovich_12.jpg",
+      "filename": "nedkarlovich_12.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings/nedkarlovich_12.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150511054-6KLWBBNX5ZNFX68FB3BB/9+copy.jpg",
+      "filename": "9 copy.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings/9 copy.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150528547-MMZ31V81Q8Y1777PDBSP/10+copy.jpg",
+      "filename": "10 copy.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings/10 copy.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1606150578656-ES27XTYQXWIA55I3BRU5/16.jpg",
+      "filename": "16.jpg",
+      "source": "api",
+      "localPath": "assets/experiments/paintings/16.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1408458944469-BMUMB4XU4T01J7HACP6I/favicon.ico",
+      "filename": "extra-001.jpg",
+      "source": "html",
+      "localPath": "assets/experiments/paintings/extra-001.jpg"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/512b8effe4b0dc8d3de0eb54/1525092763650-NZZ2U15DY8YIGJT2GEDI/19.jpg",
+      "filename": "extra-002.jpg",
+      "source": "html",
+      "localPath": "assets/experiments/paintings/extra-002.jpg"
+    }
+  ],
+  "vimeos": [],
+  "youtubes": []
+}
