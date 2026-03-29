@@ -112,7 +112,7 @@ body {
 .project-header {
   width: 100%;
   display: grid;
-  grid-template-columns: 40px 2fr 1fr 1fr 1fr;
+  grid-template-columns: 40px 2fr 1fr 1fr 1fr 70px;
   grid-column-gap: 2rem;
   padding: 8px 0;
   align-items: center;
@@ -131,7 +131,7 @@ body {
   cursor: pointer;
   width: 100%;
   display: grid;
-  grid-template-columns: 40px 2fr 1fr 1fr 1fr;
+  grid-template-columns: 40px 2fr 1fr 1fr 1fr 70px;
   grid-column-gap: 2rem;
   padding: 10px 0;
   align-items: center;
@@ -205,6 +205,11 @@ body {
 
 .project-data.role {
   justify-self: start;
+}
+
+.project-data.year {
+  justify-self: end;
+  opacity: 0.5;
 }
 
 .project-data::after {
@@ -328,7 +333,7 @@ body {
 @media (max-width: 1200px) {
   .project-item,
   .project-header {
-    grid-template-columns: 30px 2fr 1fr 1fr 1fr;
+    grid-template-columns: 30px 2fr 1fr 1fr 1fr 60px;
     grid-column-gap: 1rem;
   }
 
@@ -361,8 +366,10 @@ body {
 
   .project-data.section,
   .project-data.role,
+  .project-data.year,
   .header-data:nth-child(3),
-  .header-data:nth-child(4) {
+  .header-data:nth-child(4),
+  .header-data:nth-child(5) {
     display: none;
   }
 
