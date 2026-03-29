@@ -16,8 +16,8 @@ I believe the most important design challenges of the next decade will happen at
 
 ## Experience
 
-**Logos.co** -- Creative Director (2021-present)
-Creative direction for a decentralized technology stack reimagining Web3 infrastructure. Nomos (consensus), Codex (storage), Waku (communication). Brand strategy and visual identity for a privacy-focused, neutral protocol ecosystem.
+**IFT / Logos.co** -- Creative Director (2021-present)
+Creative direction at the Institute of Free Technology (IFT), working on Logos — a decentralized technology stack reimagining Web3 infrastructure. Nomos (consensus), Codex (storage), Waku (communication). Brand strategy and visual identity for a privacy-focused, neutral protocol ecosystem. Previously at IFT as Brand Director of Status.im (2018).
 
 **Nike** -- Global Creative Director (2007-2011, 2021-2023)
 Two tenures spanning Global Football, Running, Sportswear, and Jordan Brand. Led brand design for World Cup campaigns, 50+ collaboration programs (Virgil Abloh, sacai, Travis Scott, Fear of God, Riccardo Tisci, Kim Jones), Nike Tech Pack, Air Max franchise, NBA All-Star, and Olympic programs. Built visual systems across retail, digital, campaign, and environmental design for a brand with $51B in annual revenue.
