@@ -98,6 +98,15 @@ class AnimationManager {
 
     item.addEventListener("mouseenter", handleMouseEnter);
     item.addEventListener("mouseleave", handleMouseLeave);
+
+    // Click navigates to project detail
+    item.addEventListener("click", () => {
+      const title = item.querySelector(".project-data.project");
+      if (!title) return;
+      const slug = title.textContent.trim().toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
+      window.location.href = `project.html#${slug}`;
+    });
+    item.style.cursor = "pointer";
   }
 
   updateActiveStates(activeIndex) {
