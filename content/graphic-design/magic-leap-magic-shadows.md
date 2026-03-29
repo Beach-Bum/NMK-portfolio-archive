@@ -5,7 +5,9 @@
 
 ## Description
 
-Magic Leap 'Magic Shadows'
+Creative direction for Magic Leap's "Magic Shadows" campaign, an experiential brand moment showcasing the intersection of physical and digital reality. The campaign demonstrated spatial computing possibilities through evocative visual storytelling.
+
+Role: Brand Creative Director, Magic Leap
 
 ## Assets (6 images)
 

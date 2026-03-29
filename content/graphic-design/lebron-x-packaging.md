@@ -5,7 +5,9 @@
 
 ## Description
 
-Lebron X Packaging
+Packaging design and creative direction for the LeBron X signature shoe. The premium packaging system reflected the elevated positioning of LeBron James' tenth signature model, one of Nike Basketball's flagship launches.
+
+Role: Creative Director / Senior Art Director, Nike Global Brand Design
 
 ## Assets (4 images)
 

@@ -5,7 +5,9 @@
 
 ## Description
 
-NSW SP18 / Cortez
+Brand design and campaign direction for the Nike Sportswear Cortez Spring 2018 collection. The project celebrated the Cortez's cultural legacy — from its 1972 origins as a running shoe to its enduring status as a streetwear icon.
+
+Role: Global Creative Director, Nike Brand Design
 
 ## Assets (10 images)
 

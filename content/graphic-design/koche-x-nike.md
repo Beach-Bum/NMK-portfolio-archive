@@ -5,7 +5,9 @@
 
 ## Description
 
-Koche x Nike
+Brand design for the Koche x Nike collaboration with Christelle Kocher. The collection combined Kocher's Parisian couture craftsmanship with Nike's sportswear DNA, resulting in elevated athletic-inspired fashion pieces.
+
+Role: Global Creative Director, Nike Brand Design
 
 ## Assets (4 images)
 

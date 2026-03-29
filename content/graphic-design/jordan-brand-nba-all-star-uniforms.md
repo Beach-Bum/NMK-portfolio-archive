@@ -5,7 +5,9 @@
 
 ## Description
 
-Jordan Brand / NBA All-Star Uniforms
+Creative direction for the Jordan Brand NBA All-Star Game uniforms. The project marked a historic moment as Jordan Brand's Jumpman logo appeared on NBA All-Star jerseys for the first time, with brand design extending across the full game-day visual experience.
+
+Role: Global Creative Director, Nike Brand Design
 
 ## Assets (12 images)
 

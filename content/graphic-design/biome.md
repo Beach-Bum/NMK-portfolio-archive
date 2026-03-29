@@ -5,7 +5,9 @@
 
 ## Description
 
-BioMe!
+Brand identity, design system, and presentation deck for BioMe!, a health and wellness brand. The comprehensive brand development included visual identity, packaging design, brand guidelines, and marketing materials.
+
+Role: Creative Direction
 
 ## Assets (31 images)
 

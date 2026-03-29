@@ -5,7 +5,9 @@
 
 ## Description
 
-IKEA Family Identity
+Brand identity design for IKEA Family, the retailer's loyalty membership program. The project developed a visual system that extended IKEA's democratic design philosophy into a community-driven brand experience spanning digital, retail, and communications touchpoints.
+
+Role: Creative Director, ...,staat
 
 ## Assets (52 images)
 

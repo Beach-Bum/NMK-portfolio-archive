@@ -5,9 +5,9 @@
 
 ## Description
 
-Status.im
+Brand design and visual identity for Status, a decentralized messaging platform and Ethereum interface. The project encompassed brand identity, UI/UX design, marketing materials, and visual systems for a Web3 communication tool focused on privacy and open-source principles.
 
-Status_Test copy
+Role: Brand Director, Status
 
 ## Assets (132 images)
 

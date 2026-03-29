@@ -5,7 +5,9 @@
 
 ## Description
 
-Magic Leap UX/UI
+UX and UI design for the Magic Leap spatial computing platform. The project defined interaction patterns, visual design language, and user interface components for applications running on the Magic Leap augmented reality headset.
+
+Role: Brand Creative Director, Magic Leap
 
 ## Assets (6 images)
 

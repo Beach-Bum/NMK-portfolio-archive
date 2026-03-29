@@ -5,7 +5,9 @@
 
 ## Description
 
-NSW / Liberty's SU15
+Creative direction for Nike Sportswear x Liberty London Summer 2015 collection. The collaboration applied Liberty's heritage textile patterns to Nike silhouettes including the Air Max, Cortez, and apparel, bridging British craft tradition with modern sportswear.
+
+Role: Creative Director / Senior Art Director, Nike Global Brand Design
 
 ## Assets (10 images)
 

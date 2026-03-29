@@ -5,7 +5,9 @@
 
 ## Description
 
-City of Flight
+Creative direction for Jordan Brand's "City of Flight" campaign, created for NBA All-Star Weekend. The visual identity celebrated the host city through the lens of Jordan Brand's cultural influence, connecting basketball heritage with local creative communities.
+
+Role: Global Creative Director, Nike Brand Design
 
 ## Assets (9 images)
 

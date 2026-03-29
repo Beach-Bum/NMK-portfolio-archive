@@ -5,7 +5,9 @@
 
 ## Description
 
-Soul Cycle
+Comprehensive brand identity and design system for SoulCycle, the indoor cycling fitness company. The project developed a complete visual language covering logo, typography, brand guidelines, retail environment design, merchandise, digital presence, and experiential touchpoints.
+
+Role: Group Creative Director, R/GA Brand Design
 
 ## Assets (102 images)
 

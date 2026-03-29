@@ -5,7 +5,9 @@
 
 ## Description
 
-Jordan Brand '17 Collection
+Brand design and campaign creative direction for Jordan Brand's 2017 seasonal collection. The visual system spanned footwear, apparel, and accessories across performance basketball and lifestyle categories.
+
+Role: Global Creative Director, Nike Brand Design
 
 ## Assets (15 images)
 

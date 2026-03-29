@@ -5,7 +5,9 @@
 
 ## Description
 
-Jordan Brand / Westbrook
+Brand design and creative direction for Russell Westbrook's Jordan Brand signature line. The project captured Westbrook's fearless personal style and on-court intensity through bold visual identity and campaign design.
+
+Role: Global Creative Director, Nike Brand Design
 
 ## Assets (6 images)
 

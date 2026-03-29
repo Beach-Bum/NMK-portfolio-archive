@@ -5,7 +5,9 @@
 
 ## Description
 
-NSW / Travis Scott AF100
+Brand design and creative direction for the Nike Sportswear x Travis Scott AF100 Air Force 1 collaboration. Part of Nike's AF100 program celebrating the 35th anniversary of the Air Force 1, the project tapped into Scott's cultural influence at the intersection of music and streetwear.
+
+Role: Global Creative Director, Nike Brand Design
 
 ## Assets (5 images)
 

@@ -5,7 +5,9 @@
 
 ## Description
 
-Google Scout
+Digital product design for Google Scout, a visual search and discovery platform. The project developed the user interface, interaction design, and visual language for a product that leveraged Google's image recognition technology for shopping and exploration.
+
+Role: Group Creative Director, R/GA Brand Design
 
 ## Assets (36 images)
 

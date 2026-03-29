@@ -5,7 +5,9 @@
 
 ## Description
 
-NSW / Tech Pack Wind Runner SU14
+Creative direction for the Nike Sportswear Tech Pack Windrunner Summer 2014 collection. The project reimagined Nike's iconic 1978 Windrunner jacket through modern technical fabrics, with campaign design reflecting the collection's blend of heritage and innovation.
+
+Role: Creative Director / Senior Art Director, Nike Global Brand Design
 
 ## Assets (14 images)
 

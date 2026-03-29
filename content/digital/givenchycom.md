@@ -5,7 +5,9 @@
 
 ## Description
 
-Givenchy.com
+Digital design and creative direction for Givenchy.com, the luxury fashion house's global e-commerce and brand platform. The project defined the digital expression of Givenchy's brand identity across responsive web design, product presentation, editorial content, and user experience.
+
+Role: Group Creative Director, R/GA Brand Design
 
 ## Assets (76 images)
 

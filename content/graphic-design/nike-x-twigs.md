@@ -5,7 +5,9 @@
 
 ## Description
 
-Nike x TWIGS
+Creative direction for the Nike x FKA twigs collaboration, a campaign celebrating movement, dance, and female athleticism. The project connected Nike's performance ethos with twigs' boundary-pushing artistic vision.
+
+Role: Global Creative Director, Nike Brand Design
 
 ## Assets (4 images)
 

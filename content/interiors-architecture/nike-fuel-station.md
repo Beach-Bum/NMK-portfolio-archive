@@ -5,7 +5,9 @@
 
 ## Description
 
-Nike Fuel Station
+Environmental design for the Nike Fuel Station retail concept. The space was designed to immerse consumers in Nike's performance ecosystem, with interactive zones and product experiences built around the Nike+ FuelBand and digital sport platform.
+
+Role: Creative Director / Senior Art Director, Nike Global Brand Design
 
 ## Assets (9 images)
 

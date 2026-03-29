@@ -5,7 +5,9 @@
 
 ## Description
 
-Nike c/o Virgil Abloh - The Ten
+Creative direction for the Nike c/o Virgil Abloh "The Ten" collection — a landmark collaboration between Nike and Off-White founder Virgil Abloh that deconstructed ten iconic Nike silhouettes. The campaign and brand design reframed sneaker culture through the lens of conceptual art and fashion.
+
+Role: Global Creative Director, Nike Brand Design
 
 ## Assets (15 images)
 

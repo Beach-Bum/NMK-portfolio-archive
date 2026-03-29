@@ -5,7 +5,9 @@
 
 ## Description
 
-Nike Basketball
+Brand design and creative direction across Nike Basketball campaigns, covering signature athlete lines, seasonal collections, and marquee basketball moments. The work spanned campaign visuals, retail graphics, and brand identity for Nike's basketball category.
+
+Role: Creative Director / Senior Art Director, Nike Global Brand Design
 
 ## Assets (56 images)
 

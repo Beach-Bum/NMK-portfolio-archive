@@ -5,7 +5,9 @@
 
 ## Description
 
-Hotel Amstelkwartier
+Brand identity and environmental design for Hotel Amstelkwartier in Amsterdam. The project developed the hotel's visual identity system including logo, typography, interior signage, collateral, and environmental graphics for a new hospitality destination in Amsterdam's emerging Amstelkwartier neighborhood.
+
+Role: Creative Director, ...,staat
 
 ## Assets (28 images)
 

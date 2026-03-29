@@ -5,7 +5,9 @@
 
 ## Description
 
-Nike x Sacai
+Brand design and campaign direction for the Nike x sacai collaboration with Chitose Abe. The collection was celebrated for its layered, deconstructed approach — doubling Swooshes, tongues, and midsoles to create hybrid silhouettes that became some of the most sought-after sneakers in the market.
+
+Role: Global Creative Director, Nike Brand Design
 
 ## Assets (12 images)
 

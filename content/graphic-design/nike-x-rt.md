@@ -5,7 +5,9 @@
 
 ## Description
 
-Nike X RT
+Creative direction for the Nike x Riccardo Tisci collaboration series. Additional campaign and brand design work extending the partnership between Nike and the former Givenchy creative director across footwear and apparel.
+
+Role: Creative Director / Senior Art Director, Nike Global Brand Design
 
 ## Assets (5 images)
 

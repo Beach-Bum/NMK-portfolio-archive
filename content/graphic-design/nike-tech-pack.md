@@ -5,7 +5,9 @@
 
 ## Description
 
-Nike Tech Pack
+Brand design and creative direction for Nike Tech Pack, a premium apparel line defined by innovative materials and functional design. The collection fuses performance technology with modern sportswear aesthetics, featuring engineered fabrics and minimalist detailing.
+
+Role: Global Creative Director, Nike Brand Design
 
 ## Assets (4 images)
 

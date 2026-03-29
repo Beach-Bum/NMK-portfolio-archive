@@ -5,7 +5,7 @@
 
 ## Description
 
-Paintings
+A collection of original paintings exploring color, form, and texture. These works reflect a fine art practice developed through studies at Carnegie Mellon University (BFA, Painting) and Yale University (MA, Painting), where the investigation of painting as a medium with its own complex syntax and history was central to the program.
 
 ## Assets (35 images)
 

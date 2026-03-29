@@ -5,7 +5,9 @@
 
 ## Description
 
-Nike Sock
+Creative direction for the Nike Sock Dart and related sock-construction footwear campaigns. The project highlighted Nike's innovation in knit engineering and minimal, form-fitting design.
+
+Role: Creative Director / Senior Art Director, Nike Global Brand Design
 
 ## Assets (4 images)
 

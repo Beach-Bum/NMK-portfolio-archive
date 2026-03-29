@@ -5,7 +5,9 @@
 
 ## Description
 
-R/GA By Design
+Design monograph and brand book for R/GA, documenting the agency's design philosophy, methodology, and body of work. The project captured R/GA's position as a leader in brand transformation at the intersection of technology, design, and business.
+
+Role: Group Creative Director, R/GA Brand Design
 
 ## Assets (65 images)
 

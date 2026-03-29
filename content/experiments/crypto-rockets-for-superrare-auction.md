@@ -5,7 +5,7 @@
 
 ## Description
 
-Crypto Rockets for SuperRare Auction
+A collection of digital artworks created for auction on SuperRare, the curated NFT art marketplace. The "Crypto Rockets" series bridges fine art practice with blockchain-native digital art, created during a period of deep involvement in the Web3 ecosystem through work at Logos.co and Status.im.
 
 ## Assets (12 images)
 

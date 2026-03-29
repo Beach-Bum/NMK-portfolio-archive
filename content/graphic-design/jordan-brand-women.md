@@ -5,7 +5,9 @@
 
 ## Description
 
-Jordan Brand / Women
+Brand design and creative direction for Jordan Brand Women's collections, expanding Jordan's visual identity and product storytelling to reach women consumers. The work balanced heritage basketball culture with contemporary women's fashion perspectives.
+
+Role: Global Creative Director, Nike Brand Design
 
 ## Assets (10 images)
 

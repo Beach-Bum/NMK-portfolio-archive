@@ -5,7 +5,9 @@
 
 ## Description
 
-NSW / Tech Pack HO14
+Brand design and creative direction for the Nike Sportswear Tech Pack Holiday 2014 collection. The seasonal campaign continued to build the Tech Pack brand as Nike's pinnacle sportswear line, emphasizing premium materials and functional design.
+
+Role: Creative Director / Senior Art Director, Nike Global Brand Design
 
 ## Assets (16 images)
 

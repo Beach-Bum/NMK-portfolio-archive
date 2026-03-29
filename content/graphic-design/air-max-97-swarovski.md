@@ -5,7 +5,9 @@
 
 ## Description
 
-Air Max 97 / Swarovski
+Creative direction for the Air Max 97 x Swarovski crystal collaboration, a luxury interpretation of the iconic silver bullet silhouette. The project paired Nike's running heritage with Swarovski's crystal craftsmanship for a limited-edition premium release.
+
+Role: Global Creative Director, Nike Brand Design
 
 ## Assets (10 images)
 

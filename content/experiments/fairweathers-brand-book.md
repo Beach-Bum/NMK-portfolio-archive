@@ -5,7 +5,9 @@
 
 ## Description
 
-Fairweather's Brand Book
+Comprehensive 70-page brand book for Fairweather's, documenting the complete visual identity system. The book covers brand strategy, visual language, typography, color systems, photography direction, and applications — a full brand guidelines document developed as a creative venture.
+
+Role: Creative Director / Co-Founder, The Invisible Party
 
 ## Assets (70 images)
 

@@ -5,7 +5,9 @@
 
 ## Description
 
-The Fritz Düsseldorf
+Brand identity and design for The Fritz, a boutique hotel in Düsseldorf. The project encompassed the full visual identity — logo, typography, stationery, signage, environmental graphics, website, and brand collateral — creating a distinctive personality for a design-forward hospitality concept.
+
+Role: Creative Director, ...,staat
 
 ## Assets (44 images)
 

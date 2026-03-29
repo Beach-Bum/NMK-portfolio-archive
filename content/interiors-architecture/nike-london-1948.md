@@ -5,7 +5,9 @@
 
 ## Description
 
-Nike London 1948
+Interior and retail design for Nike 1948, Nike's London retail destination. The original store concept established a creative hub in East London, connecting Nike product with the city's streetwear and sneaker communities through considered spatial design.
+
+Role: Creative Director / Senior Art Director, Nike Global Brand Design
 
 ## Assets (10 images)
 

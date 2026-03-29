@@ -5,7 +5,9 @@
 
 ## Description
 
-Nike Football / Kim Jones
+Creative direction for the Nike Football x Kim Jones collaboration. The British designer brought his refined fashion perspective to Nike's football heritage, creating a capsule collection that merged pitch-ready performance with runway-level design.
+
+Role: Global Creative Director, Nike Brand Design
 
 ## Assets (13 images)
 

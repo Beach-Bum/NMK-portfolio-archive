@@ -5,7 +5,9 @@
 
 ## Description
 
-Magic Leap Experience Space
+Environmental design for the Magic Leap Experience Space, a physical environment designed to introduce visitors to spatial computing. The space bridged physical architecture with augmented reality demonstrations, creating a controlled environment for experiencing Magic Leap technology.
+
+Role: Brand Creative Director, Magic Leap
 
 ## Assets (4 images)
 

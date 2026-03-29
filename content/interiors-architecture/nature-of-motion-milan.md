@@ -5,7 +5,9 @@
 
 ## Description
 
-Nature of Motion / Milan
+Environmental and exhibition design for Nike's "Nature of Motion" installation at Milan Design Week. The immersive experience explored human movement and the science behind Nike innovation, translating product technology into an architectural narrative.
+
+Role: Creative Director / Senior Art Director, Nike Global Brand Design
 
 ## Assets (23 images)
 

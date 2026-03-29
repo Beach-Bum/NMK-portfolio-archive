@@ -5,7 +5,9 @@
 
 ## Description
 
-SP18 Jordan Westbrook
+Creative direction for the Jordan Brand x Russell Westbrook Spring 2018 collection. Campaign and brand design work for Westbrook's signature lifestyle line, translating his bold personal aesthetic into seasonal fashion storytelling.
+
+Role: Global Creative Director, Nike Brand Design
 
 ## Assets (12 images)
 

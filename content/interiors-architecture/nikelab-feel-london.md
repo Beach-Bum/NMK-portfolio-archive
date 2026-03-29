@@ -5,7 +5,9 @@
 
 ## Description
 
-NikeLab / Feel London
+Interior and retail environment design for the NikeLab "Feel London" concept. The space emphasized tactile, material-driven product experiences within a refined retail environment that bridged Nike innovation with London's design culture.
+
+Role: Creative Director / Senior Art Director, Nike Global Brand Design
 
 ## Assets (8 images)
 

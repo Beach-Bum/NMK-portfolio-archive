@@ -5,7 +5,7 @@
 
 ## Description
 
-Paintings II
+A second series of original paintings continuing the exploration of abstraction, color relationships, and material process. The work bridges formal art education — MFA studies at Yale and Carnegie Mellon — with ongoing studio practice alongside a career in commercial design.
 
 ## Assets (48 images)
 

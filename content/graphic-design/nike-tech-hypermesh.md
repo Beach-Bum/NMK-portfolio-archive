@@ -5,7 +5,9 @@
 
 ## Description
 
-Nike Tech Hypermesh
+Creative direction for the Nike Tech Hypermesh collection launch, featuring the brand's lightweight, breathable mesh construction technology across footwear and apparel. The campaign highlighted material innovation and warm-weather performance.
+
+Role: Creative Director / Senior Art Director, Nike Global Brand Design
 
 ## Assets (10 images)
 

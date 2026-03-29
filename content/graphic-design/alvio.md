@@ -5,7 +5,9 @@
 
 ## Description
 
-Alv.io
+Brand identity and design system for Alv.io, a technology platform. The project developed the complete visual identity — logo, typography, color system, UI design language, and brand guidelines — from the ground up.
+
+Role: Creative Direction
 
 ## Assets (22 images)
 

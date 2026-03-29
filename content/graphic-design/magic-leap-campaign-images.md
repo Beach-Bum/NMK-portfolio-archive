@@ -5,7 +5,9 @@
 
 ## Description
 
-Magic Leap Campaign Images
+Campaign photography direction and visual design for Magic Leap marketing materials. The images communicated the promise of spatial computing through evocative, aspirational brand storytelling.
+
+Role: Brand Creative Director, Magic Leap
 
 ## Assets (7 images)
 

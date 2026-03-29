@@ -5,7 +5,9 @@
 
 ## Description
 
-Rimowa Identity
+Comprehensive brand identity redesign for Rimowa, the German luxury luggage manufacturer. The project spanned the full visual identity system — logo, typography, color palette, photography direction, retail environment guidelines, and brand book — for one of the world's most recognized travel brands.
+
+Role: Group Creative Director, R/GA Brand Design
 
 ## Assets (80 images)
 

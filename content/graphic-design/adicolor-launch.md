@@ -5,7 +5,9 @@
 
 ## Description
 
-Adicolor Launch
+Brand design and campaign direction for the Adidas Adicolor launch. The Adicolor program reintroduced a heritage Adidas franchise through bold color-driven visual identity and updated product design.
+
+Role: Executive Design Director (Adidas), OLIVER Agency
 
 ## Assets (10 images)
 

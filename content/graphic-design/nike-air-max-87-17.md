@@ -5,7 +5,9 @@
 
 ## Description
 
-Nike Air Max 87-17
+Creative direction for the Air Max 87-17 campaign, celebrating 30 years of visible Air technology from the original Air Max 1 (1987) through three decades of innovation. The visual narrative traced the evolution of Nike's most iconic cushioning platform.
+
+Role: Global Creative Director, Nike Brand Design
 
 ## Assets (7 images)
 

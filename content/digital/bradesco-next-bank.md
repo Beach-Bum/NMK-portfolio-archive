@@ -5,9 +5,9 @@
 
 ## Description
 
-Bradesco / Next Bank
+Digital product design and brand identity for Next Bank, a digital-first banking platform by Bradesco — Brazil's largest private bank. The comprehensive project covered the complete digital banking experience: app UI/UX, brand identity, visual design system, and customer-facing touchpoints.
 
-Next
+Role: Group Creative Director, R/GA Brand Design
 
 ## Assets (127 images)
 

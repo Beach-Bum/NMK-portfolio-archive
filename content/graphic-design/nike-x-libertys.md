@@ -5,7 +5,9 @@
 
 ## Description
 
-Nike x Libertys
+Creative direction for the Nike x Liberty collaboration, blending Liberty London's iconic floral prints with Nike sportswear silhouettes. The partnership brought heritage British textile design into contemporary athletic fashion.
+
+Role: Creative Director / Senior Art Director, Nike Global Brand Design
 
 ## Assets (4 images)
 

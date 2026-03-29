@@ -5,7 +5,9 @@
 
 ## Description
 
-AF1 Lunar Packaging
+Packaging design and creative direction for the Air Force 1 Lunar edition. The project reimagined the iconic AF1 shoe box and packaging system, aligning premium unboxing experience with the shoe's updated Lunar foam technology.
+
+Role: Creative Director / Senior Art Director, Nike Global Brand Design
 
 ## Assets (5 images)
 

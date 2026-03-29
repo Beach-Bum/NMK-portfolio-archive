@@ -5,7 +5,9 @@
 
 ## Description
 
-Fairweather's Brand Identity
+Brand identity design for Fairweather's, developed as a personal project and creative experiment. The visual identity system includes logo, typography, color palette, and brand applications, demonstrating end-to-end brand development outside the commercial client context.
+
+Role: Creative Director / Co-Founder, The Invisible Party
 
 ## Assets (23 images)
 

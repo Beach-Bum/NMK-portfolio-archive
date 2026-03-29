@@ -5,7 +5,9 @@
 
 ## Description
 
-Nike x Off-White
+Brand design for the ongoing Nike x Off-White partnership with Virgil Abloh. Campaign visuals and brand identity work extending the collaboration across footwear and apparel launches.
+
+Role: Global Creative Director, Nike Brand Design
 
 ## Assets (4 images)
 

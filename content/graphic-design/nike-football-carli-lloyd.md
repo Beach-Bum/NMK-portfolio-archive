@@ -5,7 +5,9 @@
 
 ## Description
 
-Nike Football / Carli Lloyd Packaging
+Packaging and campaign design for Nike Football featuring Carli Lloyd, celebrating one of the most decorated players in women's football history. The project extended Nike Football's brand language to women's game storytelling.
+
+Role: Global Creative Director, Nike Brand Design
 
 ## Assets (5 images)
 

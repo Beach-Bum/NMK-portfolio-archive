@@ -5,9 +5,9 @@
 
 ## Description
 
-Lincoln Center Identity
+Brand identity redesign for Lincoln Center for the Performing Arts, New York City's premier cultural campus. The project developed a unified visual system for one of the world's leading performing arts institutions, covering all venues and programming under a cohesive brand architecture.
 
-Lincoln Center
+Role: Group Creative Director, R/GA Brand Design
 
 ## Assets (3 images)
 

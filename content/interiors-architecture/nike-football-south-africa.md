@@ -5,7 +5,9 @@
 
 ## Description
 
-Nike Football / South Africa
+Environmental and experiential design for Nike Football's presence at the 2010 FIFA World Cup in South Africa. The project encompassed event spaces, athlete environments, and brand experiences during one of sport's biggest global moments.
+
+Role: Creative Director / Senior Art Director, Nike Global Brand Design
 
 ## Assets (11 images)
 

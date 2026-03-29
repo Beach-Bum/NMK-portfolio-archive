@@ -5,7 +5,9 @@
 
 ## Description
 
-Nike Football / Phenom House
+Environmental and experiential design for Nike Football's Phenom House, an athlete-focused event space created for major football moments. The immersive environment combined brand experience, product showcasing, and athlete hospitality.
+
+Role: Creative Director / Senior Art Director, Nike Global Brand Design
 
 ## Assets (11 images)
 

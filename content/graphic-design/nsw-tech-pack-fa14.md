@@ -5,7 +5,9 @@
 
 ## Description
 
-NSW / Tech Pack FA14
+Brand design for the Nike Sportswear Tech Pack Fall 2014 collection, continuing the evolution of Nike's premium technical sportswear line. Campaign and retail design showcased engineered materials and minimalist functionality.
+
+Role: Creative Director / Senior Art Director, Nike Global Brand Design
 
 ## Assets (13 images)
 

@@ -5,7 +5,9 @@
 
 ## Description
 
-USA Olympic Team
+Brand design and creative direction for Nike's USA Olympic Team campaign. The project developed visual identity and campaign assets for Nike-sponsored American athletes competing on the world stage.
+
+Role: Creative Director / Senior Art Director, Nike Global Brand Design
 
 ## Assets (7 images)
 

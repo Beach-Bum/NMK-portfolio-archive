@@ -5,9 +5,7 @@
 
 ## Description
 
-Sculptures
-
-Copper wire, metal mesh, wood - 30 x 20 x 14 cm
+Sculptural works in copper wire, metal mesh, and wood. These three-dimensional pieces extend a fine art practice beyond the canvas, exploring form, material tension, and spatial relationships through handcrafted construction.
 
 ## Assets (8 images)
 

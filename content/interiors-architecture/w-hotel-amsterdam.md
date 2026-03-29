@@ -5,7 +5,9 @@
 
 ## Description
 
-W Hotel / Amsterdam
+Interior design and brand environment for the W Hotel Amsterdam. The project developed spatial design, custom fixtures, environmental graphics, and branded touchpoints throughout the hotel, aligning the W brand's luxury-meets-nightlife identity with Amsterdam's creative culture.
+
+Role: Creative Director, ...,staat
 
 ## Assets (20 images)
 

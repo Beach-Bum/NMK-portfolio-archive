@@ -5,7 +5,9 @@
 
 ## Description
 
-Nike Bootroom / NTL
+Interior design for the Nike Bootroom at Niketown London, a dedicated football retail and experience space. The environment was designed to showcase Nike Football product while creating an immersive culture space for the football community.
+
+Role: Creative Director / Senior Art Director, Nike Global Brand Design
 
 ## Assets (15 images)
 

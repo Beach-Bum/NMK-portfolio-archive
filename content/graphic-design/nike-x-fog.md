@@ -5,7 +5,9 @@
 
 ## Description
 
-Nike x FOG
+Brand design and creative direction for the Nike x Fear of God collaboration with Jerry Lorenzo. The collection bridged high fashion and sport, combining basketball-inspired silhouettes with Lorenzo's signature luxury streetwear aesthetic.
+
+Role: Global Creative Director, Nike Brand Design
 
 ## Assets (7 images)
 

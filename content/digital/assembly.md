@@ -5,7 +5,9 @@
 
 ## Description
 
-Assembly
+Digital platform design for Assembly, a collaborative workspace and community tool. The project developed the product's visual design system and user experience.
+
+Role: Creative Direction
 
 ## Assets (2 images)
 

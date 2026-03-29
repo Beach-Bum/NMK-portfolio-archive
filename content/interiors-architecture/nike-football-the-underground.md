@@ -5,7 +5,9 @@
 
 ## Description
 
-Nike Football / The Underground
+Environmental design for Nike Football's "The Underground" retail and event space. The subterranean environment created an immersive football culture destination with interactive product experiences and athlete storytelling.
+
+Role: Creative Director / Senior Art Director, Nike Global Brand Design
 
 ## Assets (8 images)
 

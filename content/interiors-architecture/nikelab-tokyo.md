@@ -5,7 +5,9 @@
 
 ## Description
 
-NikeLab / Tokyo
+Interior and retail environment design for the NikeLab store in Tokyo. The space showcased Nike's most innovative products in a gallery-like setting, balancing minimal Japanese design sensibility with Nike's technology-forward brand narrative.
+
+Role: Creative Director / Senior Art Director, Nike Global Brand Design
 
 ## Assets (11 images)
 

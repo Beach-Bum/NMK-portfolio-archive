@@ -5,7 +5,9 @@
 
 ## Description
 
-Godiva Chocolates
+Digital brand experience and e-commerce design for Godiva Chocolates. The project reimagined the luxury chocolatier's digital presence, covering website design, product presentation, gifting experiences, and brand storytelling across digital platforms.
+
+Role: Group Creative Director, R/GA Brand Design
 
 ## Assets (64 images)
 

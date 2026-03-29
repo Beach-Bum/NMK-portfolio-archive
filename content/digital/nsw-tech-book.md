@@ -5,7 +5,9 @@
 
 ## Description
 
-NSW Tech Book
+Digital publication design for the Nike Sportswear Tech Book, an interactive product catalog showcasing the Tech Pack collection. The digital book format combined detailed product information with brand storytelling and editorial design.
+
+Role: Creative Director / Senior Art Director, Nike Global Brand Design
 
 ## Assets (6 images)
 

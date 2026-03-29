@@ -5,7 +5,9 @@
 
 ## Description
 
-NSW / Sneaker Boots HO15
+Creative direction for the Nike Sportswear Sneaker Boots Holiday 2015 collection. The project transformed classic Nike sneaker silhouettes into weather-ready winter boots, with campaign design that balanced rugged utility with urban sportswear style.
+
+Role: Creative Director / Senior Art Director, Nike Global Brand Design
 
 ## Assets (14 images)
 

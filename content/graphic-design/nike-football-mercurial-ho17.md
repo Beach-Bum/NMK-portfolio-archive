@@ -5,7 +5,9 @@
 
 ## Description
 
-Nike Football / Mercurial HO17
+Creative direction for Nike Football Mercurial Holiday 2017 campaign, showcasing Nike's flagship speed boot. The brand design work encompassed campaign visuals, retail graphics, and digital content for one of football's most technically advanced boots.
+
+Role: Global Creative Director, Nike Brand Design
 
 ## Assets (18 images)
 

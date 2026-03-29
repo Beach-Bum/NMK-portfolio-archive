@@ -5,7 +5,7 @@
 
 ## Description
 
-Old Spaces
+A photographic series documenting architectural spaces, interiors, and environments. The images capture the character and atmosphere of aging structures, reflecting an ongoing interest in architecture, materiality, and the passage of time.
 
 ## Assets (17 images)
 

@@ -5,7 +5,9 @@
 
 ## Description
 
-United Masters
+Brand identity and design system for United Masters, a music distribution and artist services platform founded by Steve Stoute. The project developed the complete visual identity — logo, typography, color system, digital brand language, and brand guidelines — for a company reshaping how independent artists distribute and monetize their work.
+
+Role: Group Creative Director, R/GA Brand Design
 
 ## Assets (31 images)
 

@@ -5,7 +5,9 @@
 
 ## Description
 
-Nike Running / Paula Radcliffe
+Campaign and brand design for Nike Running featuring marathon world record holder Paula Radcliffe. The project celebrated one of distance running's greatest athletes through Nike's performance running brand lens.
+
+Role: Creative Director / Senior Art Director, Nike Global Brand Design
 
 ## Assets (7 images)
 

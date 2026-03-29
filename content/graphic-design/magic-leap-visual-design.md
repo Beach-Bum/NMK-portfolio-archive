@@ -5,7 +5,9 @@
 
 ## Description
 
-Magic Leap Visual Design
+Visual design system and brand guidelines for Magic Leap's spatial computing platform. Defined the visual language across product UI, marketing materials, and brand touchpoints for the augmented reality headset and ecosystem.
+
+Role: Brand Creative Director, Magic Leap
 
 ## Assets (18 images)
 

@@ -5,7 +5,9 @@
 
 ## Description
 
-Nike 1948 / London Update
+Environmental design update for Nike 1948, Nike's London retail space named after the year of the London Olympics. The refresh modernized the interior while maintaining the store's role as a cultural hub connecting Nike with London's creative community.
+
+Role: Creative Director / Senior Art Director, Nike Global Brand Design
 
 ## Assets (6 images)
 

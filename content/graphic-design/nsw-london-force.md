@@ -5,7 +5,9 @@
 
 ## Description
 
-NSW / London Force
+Brand design for the Nike Sportswear "London Force" collection, a city-specific capsule celebrating London's diverse street culture and its relationship with Nike. The project connected Nike's global sportswear identity with hyper-local storytelling.
+
+Role: Creative Director / Senior Art Director, Nike Global Brand Design
 
 ## Assets (7 images)
 

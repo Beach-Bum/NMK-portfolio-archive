@@ -5,7 +5,9 @@
 
 ## Description
 
-Jordan Brand Women / SU18
+Creative direction for Jordan Brand Women's Summer 2018 collection campaign. The project expanded Jordan's visual identity into women's-specific product storytelling, combining the brand's basketball heritage with contemporary women's fashion sensibility.
+
+Role: Global Creative Director, Nike Brand Design
 
 ## Assets (12 images)
 

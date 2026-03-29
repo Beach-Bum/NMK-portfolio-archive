@@ -5,7 +5,9 @@
 
 ## Description
 
-The Fritz Düsseldorf
+Interior architecture and environmental design for The Fritz boutique hotel in Düsseldorf. The project encompassed spatial planning, material selection, custom furniture design, lighting, and environmental graphics — creating a cohesive guest experience from lobby to rooms.
+
+Role: Creative Director, ...,staat
 
 ## Assets (23 images)
 

@@ -5,7 +5,9 @@
 
 ## Description
 
-Nike NYHQ
+Comprehensive environmental design for Nike's New York headquarters — a 135-image documentation of the complete workspace transformation. The project defined the spatial identity across multiple floors, integrating brand storytelling, wayfinding, collaboration spaces, and product display environments.
+
+Role: Creative Director / Senior Art Director, Nike Global Brand Design
 
 ## Assets (135 images)
 

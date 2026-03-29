@@ -5,7 +5,9 @@
 
 ## Description
 
-Kiss My Airs
+Brand design and creative direction for Nike's "Kiss My Airs" Air Max Day campaign, celebrating the Air Max franchise. The provocative campaign name and bold visual language resonated with sneaker culture and became a memorable moment in Nike's annual Air Max celebrations.
+
+Role: Global Creative Director, Nike Brand Design
 
 ## Assets (8 images)
 

@@ -5,7 +5,9 @@
 
 ## Description
 
-Nike Apparel
+Brand design and creative direction across Nike apparel campaigns, covering seasonal collections spanning sportswear, performance, and lifestyle categories. The work defined visual systems for lookbooks, retail, and digital brand touchpoints.
+
+Role: Creative Director / Senior Art Director, Nike Global Brand Design
 
 ## Assets (5 images)
 

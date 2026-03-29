@@ -5,7 +5,9 @@
 
 ## Description
 
-Hyundai 'N' Brand Book
+Comprehensive brand book for Hyundai N, the Korean automaker's high-performance sub-brand. The 128-page document established the complete visual identity system — logo architecture, typography, color palette, photography direction, environmental design, and brand voice — for Hyundai's motorsport-derived performance line.
+
+Role: Group Creative Director, R/GA Brand Design
 
 ## Assets (128 images)
 

@@ -5,7 +5,9 @@
 
 ## Description
 
-NikeLab / Art + Science
+Interior design and creative direction for the NikeLab "Art + Science" retail concept. The environment merged gallery-like presentation with technical product storytelling, creating an immersive space where Nike's innovation narratives were brought to life through architecture and spatial design.
+
+Role: Creative Director / Senior Art Director, Nike Global Brand Design
 
 ## Assets (18 images)
 

@@ -5,7 +5,9 @@
 
 ## Description
 
-Jordan Brand / 23 Engineered
+Creative direction for Jordan Brand's 23 Engineered line, a premium apparel collection that translated basketball performance innovation into lifestyle design. The brand design emphasized material engineering and architectural construction details.
+
+Role: Global Creative Director, Nike Brand Design
 
 ## Assets (8 images)
 

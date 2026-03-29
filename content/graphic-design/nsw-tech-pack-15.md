@@ -5,7 +5,9 @@
 
 ## Description
 
-NSW / Tech Pack 15
+Brand design for the Nike Sportswear Tech Pack 2015 collection, further evolving the premium technical sportswear line. Campaign creative and retail design continued to position Tech Pack at the intersection of innovation and everyday wear.
+
+Role: Creative Director / Senior Art Director, Nike Global Brand Design
 
 ## Assets (11 images)
 

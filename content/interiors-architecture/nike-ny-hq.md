@@ -5,7 +5,9 @@
 
 ## Description
 
-Nike NY HQ
+Environmental design for Nike's New York headquarters. The project brought Nike's brand identity into the workplace through spatial design, graphics, and environmental storytelling across the office environment.
+
+Role: Creative Director / Senior Art Director, Nike Global Brand Design
 
 ## Assets (14 images)
 

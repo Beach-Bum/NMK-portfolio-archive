@@ -5,7 +5,9 @@
 
 ## Description
 
-Seat Brand Campaign
+Brand campaign design for SEAT, the Spanish automotive manufacturer. The project developed campaign visual identity and brand communications for the Volkswagen Group brand, spanning print, digital, and environmental applications.
+
+Role: Creative Director, ...,staat
 
 ## Assets (36 images)
 
