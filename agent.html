@@ -166,6 +166,87 @@
       letter-spacing: 0.02em;
     }
 
+    /* Chat Interface */
+    .chat-container {
+      border: 1px solid rgba(200, 255, 200, 0.12);
+      background: rgba(200, 255, 200, 0.02);
+    }
+
+    .chat-messages {
+      padding: 1.25rem;
+      max-height: 400px;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+
+    .chat-message {
+      font-size: 14px;
+      line-height: 1.7;
+      display: flex;
+      gap: 0.5rem;
+    }
+
+    .msg-prefix {
+      opacity: 0.35;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+
+    .chat-message.assistant .msg-prefix {
+      color: var(--color-accent);
+      opacity: 0.6;
+    }
+
+    .msg-text {
+      opacity: 0.7;
+    }
+
+    .chat-message.assistant .msg-text {
+      opacity: 0.8;
+    }
+
+    .msg-text.thinking {
+      opacity: 0.3;
+    }
+
+    .chat-input-row {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 1rem 1.25rem;
+      border-top: 1px solid rgba(200, 255, 200, 0.08);
+    }
+
+    .input-prefix {
+      font-size: 14px;
+      opacity: 0.35;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+
+    .chat-input {
+      flex: 1;
+      background: none;
+      border: none;
+      outline: none;
+      color: var(--color-foreground);
+      font-family: var(--font-primary);
+      font-size: 14px;
+      letter-spacing: 0.02em;
+      caret-color: var(--color-accent);
+    }
+
+    .chat-input::placeholder {
+      color: var(--color-foreground);
+      opacity: 0.2;
+    }
+
+    .chat-input:disabled {
+      opacity: 0.3;
+    }
+
     @media (max-width: 768px) {
       .agent-capabilities {
         grid-template-columns: 1fr;
@@ -279,6 +360,22 @@
     </div>
   </div>
 
+  <div class="agent-section">
+    <div class="section-label">.conversation — talk to the agent</div>
+    <div class="chat-container" id="chatContainer">
+      <div class="chat-messages" id="chatMessages">
+        <div class="chat-message assistant">
+          <span class="msg-prefix">agent &gt;</span>
+          <span class="msg-text">I'm grounded in 112 projects and two decades of design thinking. Ask me about brand systems, spatial design, agent infrastructure, or anything in between.</span>
+        </div>
+      </div>
+      <form class="chat-input-row" id="chatForm">
+        <span class="input-prefix">you &gt;</span>
+        <input type="text" class="chat-input" id="chatInput" placeholder="ask something..." autocomplete="off" />
+      </form>
+    </div>
+  </div>
+
 </main>
 
 <aside class="corner-elements">
@@ -306,6 +403,87 @@
   }
   updateTime();
   setInterval(updateTime, 1000);
+
+  // Chat
+  const chatMessages = document.getElementById('chatMessages');
+  const chatForm = document.getElementById('chatForm');
+  const chatInput = document.getElementById('chatInput');
+
+  // Conversation history for context
+  const conversationHistory = [];
+
+  function addMessage(role, text) {
+    const div = document.createElement('div');
+    div.className = `chat-message ${role}`;
+    const prefix = role === 'user' ? 'you >' : 'agent >';
+    div.innerHTML = `<span class="msg-prefix">${prefix}</span><span class="msg-text">${escapeHtml(text)}</span>`;
+    chatMessages.appendChild(div);
+    chatMessages.scrollTop = chatMessages.scrollHeight;
+    return div;
+  }
+
+  function addThinking() {
+    const div = document.createElement('div');
+    div.className = 'chat-message assistant';
+    div.id = 'thinking';
+    div.innerHTML = '<span class="msg-prefix">agent ></span><span class="msg-text thinking">thinking...</span>';
+    chatMessages.appendChild(div);
+    chatMessages.scrollTop = chatMessages.scrollHeight;
+    return div;
+  }
+
+  function removeThinking() {
+    const el = document.getElementById('thinking');
+    if (el) el.remove();
+  }
+
+  function escapeHtml(text) {
+    const div = document.createElement('div');
+    div.textContent = text;
+    return div.innerHTML;
+  }
+
+  chatForm.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const text = chatInput.value.trim();
+    if (!text) return;
+
+    chatInput.value = '';
+    chatInput.disabled = true;
+
+    addMessage('user', text);
+    conversationHistory.push({ role: 'user', content: text });
+
+    addThinking();
+
+    try {
+      const res = await fetch('/api/chat', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ messages: conversationHistory }),
+      });
+
+      removeThinking();
+
+      if (!res.ok) {
+        const err = await res.json().catch(() => ({}));
+        addMessage('assistant', err.error || 'Something went wrong. The agent may not be configured yet.');
+      } else {
+        const data = await res.json();
+        conversationHistory.push({ role: 'assistant', content: data.reply });
+        addMessage('assistant', data.reply);
+      }
+    } catch (err) {
+      removeThinking();
+      addMessage('assistant', 'Connection failed. The agent endpoint may not be deployed yet.');
+    }
+
+    chatInput.disabled = false;
+    chatInput.focus();
+  });
+
+  // Focus input on load
+  chatInput.focus();
 </script>
 </body>
 </html>
